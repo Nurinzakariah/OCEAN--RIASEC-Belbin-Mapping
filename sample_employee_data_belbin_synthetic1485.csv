@@ -1,0 +1,1486 @@
+employee_id,Openness,Conscientiousness,Extraversion,Agreeableness,Neuroticism,Realistic,Investigative,Artistic,Social,Enterprising,Conventional,department,division,performance_rating
+E0001,3.65,4.4,3.49,2.85,3.37,89.53,58.17,58.02,82.12,46.83,91.02,Commercial,Commercial Division,3.02
+E0002,3.83,4.03,2.85,3.68,3.42,71.86,94.07,63.19,75.72,72.31,78.02,Supply Chain,Operations Division,3.09
+E0003,3.68,4.19,3.37,4.03,2.78,81.03,80.63,42.81,73.42,82.38,92.85,Quality Assurance,Executive & Support Division,4.36
+E0004,3.07,3.56,3.66,3.94,2.52,100.0,90.85,58.16,78.19,66.86,100.0,Safety & Compliance,Executive & Support Division,3.98
+E0005,2.95,4.81,3.54,3.92,3.68,86.36,83.12,95.72,71.53,60.06,100.0,Technical Services,Executive & Support Division,3.42
+E0006,3.37,4.49,3.55,3.79,4.62,83.06,82.77,59.72,80.22,77.36,57.15,Supply Chain,Operations Division,3.6
+E0007,3.6,4.22,3.57,3.81,2.73,75.85,75.58,23.13,77.68,83.94,91.3,Commercial,Commercial Division,3.63
+E0008,3.5,3.15,3.58,3.46,3.8,92.28,50.63,57.83,73.1,93.33,77.01,IT Services,Executive & Support Division,2.7
+E0009,3.87,4.23,2.96,3.66,3.18,74.12,69.16,49.88,70.24,30.57,99.57,Quality Assurance,Executive & Support Division,3.24
+E0010,3.57,4.37,3.37,3.8,3.0,78.08,71.21,78.87,72.68,67.65,100.0,Supply Chain,Operations Division,3.57
+E0011,3.54,4.27,3.21,3.41,2.9,69.09,88.0,52.4,84.85,67.83,61.07,Safety & Compliance,Executive & Support Division,3.57
+E0012,3.14,3.44,3.31,3.05,3.45,47.36,91.5,66.18,70.59,71.09,50.19,IT Services,Executive & Support Division,3.09
+E0013,3.03,3.62,3.34,3.88,3.37,44.41,47.52,72.75,56.27,83.31,80.82,Commercial,Commercial Division,3.8
+E0014,3.78,5.0,3.2,3.69,4.24,63.94,79.94,47.69,61.18,72.72,70.85,Quality Assurance,Executive & Support Division,3.26
+E0015,3.36,3.36,3.44,3.7,3.99,70.93,77.25,100.0,68.13,77.36,75.01,IT Services,Executive & Support Division,4.46
+E0016,3.59,3.43,3.48,3.35,3.77,58.46,76.54,73.26,86.8,60.98,98.69,Supply Chain,Operations Division,2.8
+E0017,2.95,4.13,3.06,3.05,3.36,58.13,72.46,33.64,63.38,58.62,63.06,IT Services,Executive & Support Division,4.61
+E0018,3.22,4.71,2.95,4.02,2.99,55.43,58.53,31.39,73.51,69.97,77.48,Commercial,Commercial Division,3.66
+E0019,2.98,3.92,2.98,2.57,3.7,89.83,82.59,57.77,69.4,70.22,98.27,IT Services,Executive & Support Division,3.93
+E0020,3.13,4.14,2.66,3.7,3.23,69.25,49.38,68.95,79.63,66.44,61.51,Design & Engineering,Commercial Division,3.26
+E0021,3.61,4.3,3.56,3.17,3.47,52.47,67.26,56.44,68.7,58.67,85.44,Field Operations,Operations Division,3.47
+E0022,2.92,2.96,3.28,3.43,3.03,52.03,74.83,36.23,64.99,34.64,73.83,Commercial,Commercial Division,4.67
+E0023,3.2,3.57,3.5,2.94,3.33,72.32,39.15,47.11,100.0,57.87,67.04,Safety & Compliance,Executive & Support Division,3.22
+E0024,3.4,3.67,3.22,3.61,4.27,61.54,100.0,37.2,86.7,71.94,72.91,Safety & Compliance,Executive & Support Division,4.57
+E0025,3.16,3.78,3.68,3.64,3.11,58.68,36.22,78.12,95.33,44.09,100.0,Quality Assurance,Executive & Support Division,3.52
+E0026,3.28,3.52,3.34,4.43,3.85,45.93,73.62,49.4,95.39,75.33,71.62,IT Services,Executive & Support Division,3.07
+E0027,3.29,3.86,3.4,2.78,3.17,70.16,71.74,75.08,97.14,78.25,54.54,Quality Assurance,Executive & Support Division,4.06
+E0028,3.47,4.96,3.56,3.36,2.96,39.76,89.53,64.55,100.0,93.47,78.1,Safety & Compliance,Executive & Support Division,3.47
+E0029,3.22,4.08,4.31,3.43,3.85,89.44,87.83,67.84,64.44,49.04,49.9,Technical Services,Executive & Support Division,4.58
+E0030,3.43,4.63,2.76,3.58,3.37,66.18,44.12,52.78,82.99,66.92,88.78,Safety & Compliance,Executive & Support Division,4.49
+E0031,3.37,4.01,3.14,3.09,3.09,62.01,68.8,47.21,85.81,84.28,72.55,Supply Chain,Operations Division,3.28
+E0032,3.47,4.06,3.47,3.84,3.24,81.35,76.66,43.05,77.48,46.21,72.2,Safety & Compliance,Executive & Support Division,4.15
+E0033,3.42,3.96,3.2,4.28,3.34,67.7,88.65,44.26,76.82,65.01,100.0,Supply Chain,Operations Division,3.52
+E0034,3.83,4.53,3.59,3.43,2.97,51.31,51.18,25.38,81.03,36.15,61.9,Commercial,Commercial Division,3.85
+E0035,3.16,3.73,3.17,3.4,3.68,74.7,77.11,37.95,83.5,62.06,97.7,People Operations,People & Culture Division,3.62
+E0036,3.7,3.89,3.22,4.38,3.27,67.5,81.05,68.64,74.63,54.22,68.45,Design & Engineering,Commercial Division,3.04
+E0037,3.23,3.12,3.79,3.22,3.09,71.31,68.27,86.2,88.13,46.13,77.54,People Operations,People & Culture Division,3.24
+E0038,3.07,4.32,3.64,3.86,2.99,53.23,72.73,31.1,73.59,60.57,54.64,Supply Chain,Operations Division,3.2
+E0039,3.7,3.49,3.21,3.29,4.0,72.79,66.24,53.04,82.58,94.94,90.26,Quality Assurance,Executive & Support Division,3.56
+E0040,3.22,4.29,3.56,3.97,3.69,71.13,56.53,69.92,81.55,100.0,94.65,Quality Assurance,Executive & Support Division,4.6
+E0041,3.24,4.25,3.47,3.71,2.62,71.17,55.7,62.63,80.11,75.5,63.06,Commercial,Commercial Division,3.71
+E0042,2.95,4.05,3.7,4.63,3.18,69.55,65.0,88.65,78.88,82.81,72.31,Commercial,Commercial Division,3.42
+E0043,2.74,3.94,3.23,3.04,3.22,70.82,45.78,78.39,88.05,85.67,79.3,Field Operations,Operations Division,3.9
+E0044,3.53,3.59,3.16,3.25,4.12,82.14,56.72,50.92,54.02,74.42,53.43,Technical Services,Executive & Support Division,3.9
+E0045,3.01,3.7,3.66,2.82,2.76,75.08,73.79,62.6,63.2,85.67,92.1,Quality Assurance,Executive & Support Division,3.26
+E0046,3.58,3.7,3.32,2.92,3.34,85.64,49.35,30.08,71.07,68.34,54.38,Design & Engineering,Commercial Division,2.93
+E0047,3.89,4.31,3.16,3.32,3.82,43.41,60.94,46.36,73.32,65.4,61.61,Design & Engineering,Commercial Division,2.67
+E0048,3.32,4.16,3.0,3.68,2.68,78.61,88.8,46.89,83.09,96.52,65.86,Warehouse Operations,Operations Division,3.08
+E0049,3.02,3.85,3.56,3.85,2.9,77.23,61.37,51.35,69.48,73.06,73.7,Design & Engineering,Commercial Division,3.1
+E0050,3.46,4.42,3.24,3.76,2.64,81.83,62.49,30.16,67.14,67.35,95.5,Supply Chain,Operations Division,2.9
+E0051,3.57,4.5,3.43,3.55,3.46,54.62,63.13,72.35,83.39,91.98,82.78,Supply Chain,Operations Division,3.85
+E0052,3.27,2.43,3.6,3.57,3.13,54.7,63.96,44.8,91.92,69.98,77.01,People Operations,People & Culture Division,3.76
+E0053,3.36,3.53,3.98,3.5,4.03,58.01,74.74,32.76,68.48,74.71,99.44,Design & Engineering,Commercial Division,3.56
+E0054,3.74,4.65,3.44,3.48,3.51,50.5,53.41,0.0,78.17,93.65,69.23,Safety & Compliance,Executive & Support Division,3.54
+E0055,3.72,4.29,3.62,3.11,3.36,65.0,80.45,27.97,74.63,60.03,77.1,Commercial,Commercial Division,4.25
+E0056,3.56,3.77,3.59,3.75,3.77,95.9,72.5,25.88,87.66,79.79,100.0,Quality Assurance,Executive & Support Division,3.28
+E0057,3.1,4.32,3.06,3.54,3.95,59.32,71.33,44.92,59.8,74.05,63.92,Field Operations,Operations Division,3.74
+E0058,3.33,4.45,3.52,3.91,3.17,78.71,67.58,94.67,84.26,46.08,86.62,Supply Chain,Operations Division,3.31
+E0059,3.52,4.42,3.52,3.09,2.88,79.86,89.97,23.4,52.58,64.56,68.03,Quality Assurance,Executive & Support Division,3.63
+E0060,3.29,3.51,3.64,3.55,2.44,63.47,77.08,84.7,86.0,86.45,71.77,Commercial,Commercial Division,4.19
+E0061,3.17,3.68,3.46,3.22,3.18,68.85,76.51,51.36,85.75,86.38,79.95,Supply Chain,Operations Division,3.86
+E0062,3.13,4.28,3.66,3.09,3.09,59.8,59.02,32.94,70.83,54.6,75.52,Commercial,Commercial Division,3.81
+E0063,3.17,4.06,3.52,2.97,3.19,66.31,85.96,61.01,77.13,89.52,94.98,Field Operations,Operations Division,4.54
+E0064,3.16,4.16,3.9,4.1,3.57,100.0,98.73,30.92,100.0,100.0,80.05,Design & Engineering,Commercial Division,4.41
+E0065,3.22,2.87,4.01,3.66,3.27,98.21,61.92,64.81,98.3,59.82,73.66,Supply Chain,Operations Division,2.56
+E0066,3.68,4.45,3.71,2.84,4.23,48.97,51.93,59.73,92.01,100.0,72.32,Design & Engineering,Commercial Division,3.62
+E0067,3.12,3.95,3.33,3.32,3.01,72.56,86.3,46.18,93.06,78.5,100.0,IT Services,Executive & Support Division,4.63
+E0068,3.61,3.6,3.28,3.25,3.48,34.79,71.26,55.39,69.28,91.96,62.23,IT Services,Executive & Support Division,3.59
+E0069,3.47,3.75,4.07,3.83,3.5,74.62,73.83,64.4,73.79,44.2,84.42,IT Services,Executive & Support Division,3.67
+E0070,3.39,3.58,3.34,3.38,3.32,56.61,73.5,49.04,79.12,48.06,99.92,Quality Assurance,Executive & Support Division,4.35
+E0071,3.11,4.65,3.14,3.45,3.54,79.35,94.35,55.79,85.55,82.31,56.12,Technical Services,Executive & Support Division,3.88
+E0072,3.22,3.57,3.46,3.6,3.72,68.39,89.03,24.02,95.53,82.62,82.09,Technical Services,Executive & Support Division,4.33
+E0073,3.92,4.19,3.4,4.47,3.26,88.09,100.0,9.36,82.22,56.86,84.66,IT Services,Executive & Support Division,3.17
+E0074,3.38,3.64,3.4,3.58,3.06,58.07,70.13,53.49,71.42,63.49,82.81,Warehouse Operations,Operations Division,3.83
+E0075,3.51,3.51,3.52,3.77,3.65,60.48,87.39,33.53,73.53,67.87,82.67,Equipment Services,Operations Division,3.62
+E0076,3.54,3.84,3.64,4.19,3.49,90.52,68.7,53.3,100.0,44.36,86.58,Safety & Compliance,Executive & Support Division,3.52
+E0077,3.66,4.4,3.41,3.59,2.97,93.78,66.47,40.31,77.92,78.58,100.0,IT Services,Executive & Support Division,3.68
+E0078,3.28,3.49,4.11,3.59,3.44,71.28,77.31,63.18,85.24,51.0,84.05,Safety & Compliance,Executive & Support Division,4.01
+E0079,3.17,2.97,3.58,2.9,3.03,82.36,63.78,30.63,80.09,60.06,100.0,Safety & Compliance,Executive & Support Division,4.32
+E0080,3.33,4.16,3.62,3.19,3.05,60.1,70.04,56.46,85.14,91.62,91.04,IT Services,Executive & Support Division,4.18
+E0081,3.27,3.37,3.86,5.0,3.04,60.23,93.6,69.35,71.56,61.37,59.57,Quality Assurance,Executive & Support Division,2.33
+E0082,3.58,4.02,4.09,3.31,2.89,61.71,49.94,64.01,75.15,77.96,54.9,Field Operations,Operations Division,3.2
+E0083,3.4,4.66,3.85,3.26,2.86,100.0,78.44,42.4,83.32,97.42,81.91,People Operations,People & Culture Division,3.42
+E0084,3.42,4.27,3.23,3.17,2.87,72.02,59.75,37.34,64.54,67.12,68.72,Field Operations,Operations Division,3.26
+E0085,3.39,4.24,3.28,4.2,3.9,64.59,87.57,75.55,79.39,83.43,86.52,Quality Assurance,Executive & Support Division,3.03
+E0086,3.71,2.73,3.41,3.45,3.6,44.46,50.54,45.8,54.68,95.28,77.34,Quality Assurance,Executive & Support Division,3.58
+E0087,3.19,3.84,2.88,3.63,2.62,100.0,31.44,46.67,66.26,80.3,100.0,Safety & Compliance,Executive & Support Division,4.29
+E0088,3.21,4.24,3.5,3.41,3.43,75.71,47.59,55.03,97.75,88.98,88.81,Finance,Finance Division,2.86
+E0089,3.61,3.97,3.38,3.8,3.1,80.56,46.11,45.52,62.58,52.94,100.0,Quality Assurance,Executive & Support Division,3.14
+E0090,3.32,4.03,2.66,3.83,2.74,45.92,58.37,28.36,74.1,73.72,70.18,People Operations,People & Culture Division,4.48
+E0091,3.45,3.54,3.89,3.95,3.64,87.75,47.7,100.0,99.13,46.82,83.98,Quality Assurance,Executive & Support Division,3.11
+E0092,3.14,4.6,3.51,3.03,3.7,68.05,72.88,63.71,47.25,72.18,85.61,Supply Chain,Operations Division,3.08
+E0093,3.36,3.49,3.4,4.15,2.84,62.21,48.81,11.05,69.45,74.43,76.36,Safety & Compliance,Executive & Support Division,3.52
+E0094,3.48,3.78,3.17,4.75,3.37,81.65,72.01,46.6,93.53,95.34,71.0,Commercial,Commercial Division,3.72
+E0095,2.97,3.38,2.84,3.08,3.38,94.72,54.73,55.38,73.28,80.59,60.08,Quality Assurance,Executive & Support Division,2.54
+E0096,3.15,4.18,3.28,3.36,3.23,82.13,86.77,68.37,54.11,45.98,69.08,Technical Services,Executive & Support Division,4.5
+E0097,3.47,4.23,4.07,4.16,2.96,68.32,64.65,55.11,88.97,69.59,70.44,Safety & Compliance,Executive & Support Division,3.08
+E0098,4.0,3.82,3.34,3.7,2.67,83.97,57.34,30.59,73.45,54.96,62.41,Technical Services,Executive & Support Division,3.98
+E0099,3.48,3.69,3.19,3.99,2.76,59.5,70.73,40.22,76.0,54.79,84.03,Safety & Compliance,Executive & Support Division,3.95
+E0100,3.33,3.88,3.46,4.25,2.58,69.48,40.61,60.0,71.71,65.94,77.4,Safety & Compliance,Executive & Support Division,4.02
+E0101,3.1,5.0,3.29,3.04,2.37,51.39,73.57,73.61,74.77,82.81,81.91,Equipment Services,Operations Division,2.17
+E0102,3.46,2.77,3.3,3.64,2.73,98.05,55.21,58.1,74.91,61.21,76.76,Equipment Services,Operations Division,3.96
+E0103,2.62,3.8,4.06,4.05,2.59,65.82,65.31,46.63,85.84,63.93,81.84,Field Operations,Operations Division,3.51
+E0104,3.34,4.35,3.01,3.77,2.46,50.6,67.97,71.76,82.14,80.29,55.82,People Operations,People & Culture Division,3.23
+E0105,3.25,4.06,2.82,3.54,3.35,77.14,79.65,80.93,71.81,77.44,88.26,Design & Engineering,Commercial Division,3.73
+E0106,3.2,3.79,3.9,3.82,3.55,89.14,63.85,55.8,100.0,64.61,69.67,Technical Services,Executive & Support Division,3.59
+E0107,4.02,4.03,4.03,4.18,3.31,56.61,60.94,63.51,80.12,87.48,78.11,Technical Services,Executive & Support Division,3.23
+E0108,2.63,3.71,3.7,3.99,2.16,65.93,53.77,60.28,73.92,64.91,84.19,Technical Services,Executive & Support Division,4.43
+E0109,3.34,3.46,2.85,4.38,3.0,67.04,79.71,76.57,77.92,67.68,67.13,Quality Assurance,Executive & Support Division,3.11
+E0110,3.37,3.71,3.62,3.99,3.12,91.64,54.55,33.76,68.7,61.26,92.77,Quality Assurance,Executive & Support Division,3.44
+E0111,3.49,4.63,3.57,3.51,2.9,63.28,34.35,63.07,74.24,83.61,58.83,IT Services,Executive & Support Division,4.26
+E0112,2.89,4.4,2.91,3.15,3.23,100.0,95.46,37.48,45.29,92.92,70.88,Quality Assurance,Executive & Support Division,3.71
+E0113,3.21,3.72,3.27,4.24,3.38,81.32,54.78,40.92,100.0,60.34,72.56,Safety & Compliance,Executive & Support Division,3.75
+E0114,2.92,3.98,2.81,3.92,2.34,88.31,59.78,40.54,100.0,71.26,90.19,People Operations,People & Culture Division,3.64
+E0115,3.31,4.03,3.8,3.58,3.09,56.71,75.46,58.67,56.79,69.73,71.29,People Operations,People & Culture Division,3.25
+E0116,3.41,4.36,3.71,3.35,3.96,75.79,71.7,61.12,96.19,77.36,92.22,Quality Assurance,Executive & Support Division,4.24
+E0117,3.4,3.46,3.98,3.68,3.05,56.47,68.08,68.77,79.53,62.44,64.45,Quality Assurance,Executive & Support Division,3.5
+E0118,3.29,4.57,3.61,3.29,4.01,72.87,68.5,29.8,83.83,79.72,81.49,Safety & Compliance,Executive & Support Division,4.74
+E0119,3.4,3.63,3.55,3.43,3.27,53.69,62.41,25.35,83.25,83.09,63.99,Safety & Compliance,Executive & Support Division,3.38
+E0120,3.4,4.27,3.53,3.99,3.25,83.54,48.63,51.75,85.09,50.45,100.0,IT Services,Executive & Support Division,3.48
+E0121,3.47,4.16,3.63,3.28,3.47,57.29,99.93,52.37,58.62,61.55,65.79,Commercial,Commercial Division,3.74
+E0122,3.36,3.38,2.97,3.41,3.92,89.86,90.84,72.5,79.78,84.7,63.72,Quality Assurance,Executive & Support Division,3.6
+E0123,2.83,4.25,2.97,4.22,3.46,54.85,64.88,61.37,62.12,50.81,96.1,Quality Assurance,Executive & Support Division,3.26
+E0124,3.11,4.57,2.63,3.63,2.65,73.8,63.25,37.76,86.94,86.23,74.1,IT Services,Executive & Support Division,4.37
+E0125,3.45,5.0,3.31,4.38,2.14,83.42,67.69,79.97,76.85,53.15,88.09,IT Services,Executive & Support Division,2.9
+E0126,3.09,4.27,3.5,3.65,3.17,67.45,46.57,30.91,94.22,80.67,60.06,Supply Chain,Operations Division,2.68
+E0127,3.12,3.8,3.44,3.28,3.52,74.44,97.48,37.05,79.22,52.45,61.1,Finance,Finance Division,2.85
+E0128,3.38,3.88,3.89,3.97,3.36,90.28,48.77,91.95,70.02,76.44,75.63,IT Services,Executive & Support Division,3.7
+E0129,3.34,4.62,3.66,3.68,3.31,68.74,84.93,62.77,51.77,34.34,71.93,People Operations,People & Culture Division,3.58
+E0130,3.61,4.94,3.53,3.81,2.97,84.23,65.97,10.88,79.11,50.18,62.02,Safety & Compliance,Executive & Support Division,4.53
+E0131,3.5,4.21,3.37,4.13,2.73,39.76,24.24,61.2,59.79,68.51,75.02,Supply Chain,Operations Division,2.94
+E0132,3.22,4.03,3.85,4.22,3.94,80.1,66.05,55.86,78.54,61.88,66.83,Safety & Compliance,Executive & Support Division,4.24
+E0133,3.38,4.32,3.29,4.7,3.44,91.85,81.57,65.06,71.09,80.33,74.94,IT Services,Executive & Support Division,3.7
+E0134,2.52,4.27,3.32,4.2,3.1,64.71,53.01,25.3,49.2,82.98,84.02,Commercial,Commercial Division,3.38
+E0135,3.12,3.94,3.8,3.2,3.69,49.29,69.22,45.05,83.05,58.14,80.31,Quality Assurance,Executive & Support Division,3.96
+E0136,3.31,3.62,4.06,3.2,3.55,100.0,76.39,22.5,95.03,76.53,97.71,Technical Services,Executive & Support Division,3.44
+E0137,2.66,3.63,4.13,4.05,3.66,49.6,61.49,44.33,68.88,71.05,91.34,Quality Assurance,Executive & Support Division,4.39
+E0138,3.26,3.42,3.44,3.19,3.22,48.84,70.58,52.82,51.48,45.63,62.04,Quality Assurance,Executive & Support Division,4.2
+E0139,3.42,4.4,3.4,3.07,3.67,70.81,39.22,62.45,65.13,45.42,70.29,Quality Assurance,Executive & Support Division,3.71
+E0140,3.65,4.07,4.49,3.42,3.02,78.87,74.4,24.25,35.72,64.59,82.07,Finance,Finance Division,2.87
+E0141,3.47,4.37,3.42,3.44,3.91,93.44,30.69,48.74,66.56,83.34,89.06,Safety & Compliance,Executive & Support Division,3.71
+E0142,3.9,3.14,3.73,3.75,3.88,69.06,87.25,77.89,91.28,90.83,86.85,Quality Assurance,Executive & Support Division,2.86
+E0143,3.79,3.87,3.81,3.69,2.75,76.03,42.65,47.58,76.44,100.0,72.02,Finance,Finance Division,3.78
+E0144,2.88,3.97,3.96,3.06,3.0,82.05,77.8,76.5,70.96,83.78,72.06,Supply Chain,Operations Division,2.67
+E0145,3.28,4.13,3.49,3.99,3.34,81.2,33.46,66.36,100.0,87.61,75.88,Safety & Compliance,Executive & Support Division,4.61
+E0146,3.3,3.59,3.59,2.85,2.93,81.15,52.35,15.32,92.58,91.01,71.45,Safety & Compliance,Executive & Support Division,3.83
+E0147,3.38,4.57,4.17,3.98,3.03,73.97,85.16,57.21,98.94,86.76,49.19,Commercial,Commercial Division,2.55
+E0148,3.18,3.57,3.76,3.2,3.03,76.45,83.45,64.88,57.58,71.96,61.64,Quality Assurance,Executive & Support Division,4.59
+E0149,3.53,2.96,2.94,3.85,4.0,77.97,49.7,37.11,62.7,81.45,72.92,Safety & Compliance,Executive & Support Division,4.03
+E0150,3.57,3.37,3.18,3.08,3.02,56.17,88.74,64.07,66.07,61.24,95.31,People Operations,People & Culture Division,3.85
+E0151,2.91,3.76,3.75,3.65,3.18,70.51,53.6,65.81,71.0,57.22,63.77,Field Operations,Operations Division,3.85
+E0152,3.62,4.25,3.65,2.35,3.09,84.66,72.61,11.19,76.35,94.68,84.91,Supply Chain,Operations Division,3.19
+E0153,3.16,2.82,3.24,3.55,3.5,50.54,69.02,35.44,100.0,77.82,76.41,People Operations,People & Culture Division,4.78
+E0154,3.66,3.91,3.39,3.66,3.1,51.39,60.05,42.93,78.21,92.78,94.16,Supply Chain,Operations Division,2.82
+E0155,3.51,4.48,3.31,3.48,2.14,69.72,83.19,66.03,75.21,82.97,85.27,Supply Chain,Operations Division,3.53
+E0156,3.31,4.47,3.85,4.62,3.38,64.44,68.21,48.43,71.97,46.78,86.68,Safety & Compliance,Executive & Support Division,3.72
+E0157,3.93,3.87,3.39,3.66,3.07,88.71,91.02,47.48,78.04,81.58,86.53,Technical Services,Executive & Support Division,4.15
+E0158,3.61,4.58,3.31,3.3,4.67,71.73,70.42,51.01,69.17,73.4,77.19,IT Services,Executive & Support Division,4.29
+E0159,3.36,3.91,3.29,3.9,3.09,68.57,85.31,39.64,73.29,63.53,69.1,Technical Services,Executive & Support Division,3.81
+E0160,3.42,4.15,2.09,4.29,3.04,53.2,97.28,48.03,84.49,71.13,81.56,Safety & Compliance,Executive & Support Division,3.91
+E0161,4.05,3.85,3.57,3.33,3.76,43.91,69.76,85.87,79.94,69.77,69.23,People Operations,People & Culture Division,3.21
+E0162,3.76,3.96,3.83,2.95,4.08,54.56,63.06,60.73,60.47,72.4,73.89,People Operations,People & Culture Division,3.65
+E0163,3.63,5.0,3.68,3.82,4.24,74.31,83.11,75.53,70.64,44.46,96.95,Supply Chain,Operations Division,4.37
+E0164,3.41,4.3,3.6,3.59,2.81,92.8,80.57,93.61,95.23,76.76,61.82,Commercial,Commercial Division,2.65
+E0165,3.51,4.42,3.44,3.76,3.09,93.59,69.15,59.21,93.29,37.65,87.83,Supply Chain,Operations Division,4.48
+E0166,3.39,3.85,3.15,3.81,3.55,57.57,79.07,37.46,90.18,71.79,87.98,Safety & Compliance,Executive & Support Division,3.96
+E0167,2.91,3.47,3.62,3.27,3.66,64.72,59.63,59.95,76.66,84.02,78.75,Supply Chain,Operations Division,3.35
+E0168,3.61,3.78,2.99,2.82,3.54,75.9,47.68,47.08,75.29,59.07,86.78,Finance,Finance Division,2.62
+E0169,3.47,4.12,3.88,4.52,2.97,66.47,85.08,80.72,100.0,88.21,95.83,Field Operations,Operations Division,3.53
+E0170,2.96,3.61,3.61,3.14,3.24,89.37,77.85,52.99,78.92,81.69,57.57,Commercial,Commercial Division,3.67
+E0171,3.16,4.44,3.49,3.53,3.64,82.79,62.05,32.56,77.32,51.98,91.36,Safety & Compliance,Executive & Support Division,3.94
+E0172,3.28,2.97,3.3,3.88,3.16,66.18,42.65,47.59,71.84,79.0,78.3,Finance,Finance Division,3.71
+E0173,3.44,4.97,3.56,3.25,3.07,93.09,88.82,67.52,64.95,45.75,92.64,Warehouse Operations,Operations Division,3.42
+E0174,3.85,3.9,2.67,3.59,3.34,54.73,66.53,45.01,77.26,66.51,87.82,Supply Chain,Operations Division,3.46
+E0175,3.36,5.0,3.9,3.85,3.6,75.8,62.76,23.22,64.65,81.38,91.61,Supply Chain,Operations Division,3.57
+E0176,2.79,4.97,2.84,2.92,3.22,35.64,61.19,30.09,85.97,67.53,86.39,Commercial,Commercial Division,3.46
+E0177,3.54,4.89,3.71,3.85,2.9,80.75,79.69,42.88,81.31,52.18,70.03,Safety & Compliance,Executive & Support Division,4.9
+E0178,3.3,3.96,3.64,3.34,3.14,42.41,89.61,51.41,79.1,49.29,91.07,Technical Services,Executive & Support Division,3.43
+E0179,2.84,4.28,3.89,3.98,3.18,77.01,73.2,54.58,81.92,78.29,84.89,Safety & Compliance,Executive & Support Division,3.34
+E0180,2.69,3.41,3.29,3.18,3.3,42.25,68.8,52.56,92.28,65.83,81.88,IT Services,Executive & Support Division,3.3
+E0181,3.04,4.07,3.68,3.19,3.02,90.99,67.25,75.06,100.0,84.49,77.43,Technical Services,Executive & Support Division,4.61
+E0182,3.46,3.95,2.9,3.77,3.18,71.62,71.86,38.53,95.54,71.24,78.16,Safety & Compliance,Executive & Support Division,4.28
+E0183,3.13,2.99,3.07,3.6,3.05,54.7,75.4,52.89,100.0,69.72,80.03,Field Operations,Operations Division,3.73
+E0184,3.52,3.53,3.81,4.14,3.46,79.54,43.89,47.64,76.41,83.97,70.04,Safety & Compliance,Executive & Support Division,4.4
+E0185,3.27,4.65,3.43,2.9,2.67,59.34,88.18,54.24,65.05,75.35,71.24,People Operations,People & Culture Division,3.23
+E0186,3.4,3.35,2.92,4.0,2.95,33.93,53.94,18.27,77.31,62.63,81.1,Safety & Compliance,Executive & Support Division,4.5
+E0187,3.55,4.46,3.76,3.89,3.68,74.02,61.17,38.96,73.58,74.96,78.16,Technical Services,Executive & Support Division,3.97
+E0188,3.52,3.97,2.97,3.36,2.16,87.5,51.41,12.9,99.36,77.83,80.81,Finance,Finance Division,2.44
+E0189,3.04,3.88,4.11,3.35,3.36,68.69,66.48,77.04,92.28,46.53,76.01,Equipment Services,Operations Division,3.24
+E0190,3.91,3.21,3.12,3.89,3.35,92.5,88.31,78.01,67.81,62.97,98.61,People Operations,People & Culture Division,3.38
+E0191,2.78,4.18,3.79,3.67,2.51,81.82,72.58,42.86,73.73,46.38,62.11,Quality Assurance,Executive & Support Division,3.01
+E0192,3.3,4.31,3.36,4.06,3.33,86.52,73.22,85.14,100.0,77.7,82.59,Supply Chain,Operations Division,3.12
+E0193,3.05,5.0,2.82,3.12,2.22,80.91,47.93,45.19,82.72,76.4,64.61,Technical Services,Executive & Support Division,4.08
+E0194,3.7,3.85,3.45,4.37,4.47,83.04,82.47,29.84,39.53,60.38,50.27,Technical Services,Executive & Support Division,2.8
+E0195,2.97,3.66,3.3,3.41,4.03,62.11,85.65,54.05,100.0,68.23,69.02,IT Services,Executive & Support Division,3.51
+E0196,3.05,4.28,3.37,3.92,3.99,71.74,72.36,81.88,76.74,74.14,82.9,Supply Chain,Operations Division,3.74
+E0197,3.02,4.03,4.09,4.19,3.08,83.37,50.93,37.0,68.58,76.96,53.94,Technical Services,Executive & Support Division,2.89
+E0198,2.95,3.69,3.6,3.51,3.63,68.41,71.68,31.85,65.4,71.09,63.62,People Operations,People & Culture Division,3.91
+E0199,3.18,4.4,3.76,3.56,4.05,71.87,80.3,71.57,71.0,38.6,85.65,Safety & Compliance,Executive & Support Division,3.25
+E0200,3.4,4.08,3.15,3.03,3.57,54.44,73.54,56.29,67.13,60.48,82.09,People Operations,People & Culture Division,3.03
+E0201,3.07,4.1,3.58,3.98,3.77,84.79,80.16,36.24,64.36,75.68,80.9,People Operations,People & Culture Division,4.73
+E0202,2.86,4.6,3.42,3.86,3.78,90.7,73.44,88.45,74.09,59.39,85.36,Warehouse Operations,Operations Division,3.92
+E0203,3.27,3.56,3.83,3.22,3.36,50.03,84.72,72.86,71.7,80.82,100.0,Technical Services,Executive & Support Division,3.74
+E0204,3.34,4.46,3.95,3.87,3.44,55.25,60.26,48.56,81.84,66.57,79.87,IT Services,Executive & Support Division,4.43
+E0205,3.55,3.61,3.71,4.34,3.58,100.0,75.12,46.41,73.5,64.98,66.85,Safety & Compliance,Executive & Support Division,3.93
+E0206,3.11,4.19,2.74,4.35,2.47,56.38,78.57,58.62,78.72,88.3,70.21,IT Services,Executive & Support Division,4.01
+E0207,3.29,3.94,3.11,3.95,3.5,87.39,74.8,55.72,71.95,56.34,76.04,Supply Chain,Operations Division,3.58
+E0208,3.61,3.89,2.62,3.83,3.19,80.9,51.28,31.24,58.35,40.4,81.75,Supply Chain,Operations Division,3.46
+E0209,3.06,2.05,3.18,3.24,3.87,100.0,32.89,51.73,74.95,67.55,83.97,Technical Services,Executive & Support Division,3.45
+E0210,3.32,3.85,3.08,3.34,3.08,73.95,82.26,76.84,72.98,78.93,70.74,Technical Services,Executive & Support Division,4.0
+E0211,3.24,3.42,3.48,4.07,3.23,68.85,100.0,52.04,83.58,73.88,88.64,IT Services,Executive & Support Division,3.52
+E0212,2.93,3.89,3.51,4.0,3.1,54.34,84.04,24.42,84.23,60.27,76.92,Technical Services,Executive & Support Division,4.01
+E0213,3.31,3.84,3.45,4.02,3.31,73.57,79.09,53.18,74.38,56.36,80.56,Quality Assurance,Executive & Support Division,4.0
+E0214,3.67,4.22,3.9,3.73,3.76,89.4,45.97,39.31,98.6,55.16,86.24,IT Services,Executive & Support Division,3.75
+E0215,4.0,3.03,3.25,3.0,3.75,69.87,83.23,42.71,74.48,77.05,71.32,Technical Services,Executive & Support Division,4.14
+E0216,2.93,3.84,3.78,3.43,3.06,87.52,82.35,60.33,92.72,57.95,76.74,Technical Services,Executive & Support Division,3.28
+E0217,3.62,4.38,3.63,3.38,4.05,82.69,66.06,63.89,83.72,66.15,69.69,Commercial,Commercial Division,2.68
+E0218,3.67,3.47,3.71,3.83,3.51,88.96,100.0,34.02,48.34,73.84,55.25,IT Services,Executive & Support Division,4.77
+E0219,3.7,4.05,4.33,3.66,3.04,43.75,48.14,71.67,90.68,74.52,86.88,Technical Services,Executive & Support Division,4.37
+E0220,3.22,4.87,3.86,3.61,3.54,44.15,80.97,41.81,51.41,71.93,83.78,IT Services,Executive & Support Division,4.6
+E0221,3.44,4.05,4.29,4.2,3.38,90.46,62.84,100.0,72.46,71.71,90.55,Commercial,Commercial Division,3.24
+E0222,3.17,4.25,3.15,4.51,2.33,56.05,81.6,65.78,44.88,58.64,67.21,IT Services,Executive & Support Division,4.26
+E0223,3.51,3.77,3.48,4.04,3.08,74.67,93.24,45.68,85.77,81.68,100.0,IT Services,Executive & Support Division,3.82
+E0224,3.7,3.22,3.94,3.42,3.37,64.96,67.95,38.61,62.21,61.63,79.63,Technical Services,Executive & Support Division,3.43
+E0225,3.28,3.57,3.51,3.79,1.8,68.9,43.93,60.92,78.34,80.64,68.25,Quality Assurance,Executive & Support Division,2.91
+E0226,3.41,4.25,3.64,3.99,4.14,88.16,91.43,65.29,86.23,81.19,94.27,Commercial,Commercial Division,4.2
+E0227,3.6,5.0,3.21,2.67,3.14,82.27,50.19,65.98,90.05,68.4,76.56,Supply Chain,Operations Division,3.65
+E0228,3.56,3.31,3.62,3.65,3.81,75.84,92.63,75.5,88.95,63.64,77.75,Warehouse Operations,Operations Division,3.35
+E0229,3.16,3.48,4.19,3.28,3.39,84.7,56.16,89.66,56.89,84.83,81.18,Supply Chain,Operations Division,4.47
+E0230,3.75,3.83,3.56,2.95,3.37,52.64,50.14,30.99,74.45,60.26,82.67,Safety & Compliance,Executive & Support Division,4.12
+E0231,3.49,3.27,3.64,3.86,2.83,45.44,65.7,24.42,95.31,70.25,87.71,IT Services,Executive & Support Division,4.21
+E0232,3.39,3.92,2.02,3.47,3.57,76.98,80.96,72.66,95.11,99.78,75.11,Quality Assurance,Executive & Support Division,2.41
+E0233,3.36,4.16,4.0,4.84,3.19,86.6,66.54,47.86,75.11,72.36,91.34,Technical Services,Executive & Support Division,3.99
+E0234,3.55,4.04,4.27,3.55,3.25,48.1,66.65,67.3,58.59,57.78,55.0,Technical Services,Executive & Support Division,3.66
+E0235,3.65,3.74,3.98,4.54,2.97,70.24,95.02,57.03,92.03,67.48,69.47,Technical Services,Executive & Support Division,4.22
+E0236,2.98,3.0,3.35,4.63,3.0,94.87,75.15,24.74,82.98,95.28,76.25,People Operations,People & Culture Division,3.89
+E0237,3.1,4.35,4.26,3.24,3.92,87.14,81.79,26.77,75.61,55.95,62.39,Safety & Compliance,Executive & Support Division,3.99
+E0238,2.85,3.58,3.37,3.41,3.79,82.28,90.69,72.09,79.71,73.7,65.0,Field Operations,Operations Division,3.31
+E0239,3.48,3.97,3.48,3.93,3.6,82.72,68.29,5.79,75.82,79.89,66.64,Supply Chain,Operations Division,3.35
+E0240,3.46,3.68,3.26,3.83,3.28,51.55,54.33,78.49,81.92,63.85,45.58,Supply Chain,Operations Division,3.44
+E0241,3.25,3.46,3.48,2.95,3.19,72.03,66.54,50.69,94.25,61.63,76.6,IT Services,Executive & Support Division,3.63
+E0242,3.03,3.63,3.71,3.75,4.01,79.41,92.2,61.7,77.26,82.63,77.62,People Operations,People & Culture Division,2.98
+E0243,3.73,3.65,3.85,3.75,2.93,74.19,85.02,20.87,85.89,70.63,62.67,People Operations,People & Culture Division,3.33
+E0244,3.81,3.04,3.77,4.38,3.38,54.9,78.17,71.23,100.0,66.29,62.22,Finance,Finance Division,3.42
+E0245,3.81,3.23,4.41,3.7,3.04,50.7,89.92,40.92,48.56,80.55,89.76,People Operations,People & Culture Division,3.26
+E0246,3.36,4.07,3.06,3.66,3.42,81.77,96.92,0.0,62.39,72.0,84.35,Supply Chain,Operations Division,4.35
+E0247,3.39,4.33,3.02,3.32,4.07,84.85,65.51,76.64,56.71,75.87,69.87,Design & Engineering,Commercial Division,4.55
+E0248,3.39,3.87,3.47,2.97,2.7,71.66,55.77,21.26,57.31,79.76,59.36,IT Services,Executive & Support Division,4.22
+E0249,3.31,3.35,3.18,4.26,3.71,88.02,71.03,57.33,100.0,58.37,74.83,Quality Assurance,Executive & Support Division,4.32
+E0250,2.99,3.82,3.18,2.86,3.66,54.1,74.69,52.65,88.32,76.5,63.54,Design & Engineering,Commercial Division,3.39
+E0251,3.17,4.42,2.85,3.96,2.92,89.84,50.69,58.26,68.63,81.79,74.59,Quality Assurance,Executive & Support Division,3.19
+E0252,3.59,3.61,3.13,3.22,3.66,88.5,58.94,60.37,81.0,75.61,83.98,Safety & Compliance,Executive & Support Division,3.13
+E0253,3.35,4.5,3.43,3.28,3.54,100.0,61.95,47.85,60.22,88.77,87.49,Supply Chain,Operations Division,3.76
+E0254,3.21,3.74,3.58,3.53,3.5,65.64,50.36,62.24,55.37,90.89,100.0,Quality Assurance,Executive & Support Division,3.56
+E0255,3.28,3.93,3.44,4.01,3.3,75.57,54.99,75.69,58.76,73.66,72.1,Supply Chain,Operations Division,3.26
+E0256,3.86,3.47,3.89,4.38,3.32,82.86,70.78,73.55,100.0,59.1,95.97,Quality Assurance,Executive & Support Division,4.17
+E0257,3.78,4.14,3.75,3.45,3.53,56.9,58.64,66.87,78.69,100.0,71.03,Equipment Services,Operations Division,4.11
+E0258,3.67,4.62,3.6,3.1,2.94,56.74,69.11,42.08,92.73,48.16,98.01,Design & Engineering,Commercial Division,3.44
+E0259,3.4,3.69,3.35,3.81,3.71,72.69,51.71,58.59,99.61,61.25,81.92,Field Operations,Operations Division,3.23
+E0260,3.0,4.1,3.72,4.21,2.89,87.24,38.23,35.21,71.46,85.09,97.96,Commercial,Commercial Division,4.92
+E0261,3.41,3.52,3.99,3.42,4.36,43.16,83.27,47.31,91.51,78.6,85.54,Safety & Compliance,Executive & Support Division,3.04
+E0262,3.26,4.11,3.61,3.3,3.02,56.99,30.56,21.38,77.04,99.23,78.81,Supply Chain,Operations Division,3.13
+E0263,3.53,4.17,3.71,3.31,3.81,70.86,49.86,73.11,100.0,64.25,63.18,Technical Services,Executive & Support Division,3.9
+E0264,3.65,4.39,3.65,3.34,2.56,38.91,65.03,77.34,99.75,92.74,79.86,Technical Services,Executive & Support Division,3.58
+E0265,3.15,3.77,3.54,2.94,2.58,55.93,70.49,58.02,66.72,90.69,65.36,Design & Engineering,Commercial Division,3.09
+E0266,3.73,3.03,3.91,3.42,2.95,70.84,72.81,37.81,94.45,75.46,93.81,IT Services,Executive & Support Division,4.15
+E0267,3.37,4.02,3.59,4.34,2.94,68.19,52.93,100.0,100.0,79.71,84.32,Supply Chain,Operations Division,3.08
+E0268,3.38,3.89,3.31,2.98,3.9,73.23,57.17,21.75,72.07,72.36,85.35,Safety & Compliance,Executive & Support Division,4.54
+E0269,3.19,3.52,2.77,3.85,3.41,70.43,81.65,31.09,74.52,75.62,56.05,Technical Services,Executive & Support Division,3.55
+E0270,3.3,4.38,3.46,3.51,2.16,96.66,45.22,32.44,96.87,67.21,72.32,IT Services,Executive & Support Division,3.44
+E0271,3.38,3.79,4.04,3.79,3.57,61.45,67.69,55.55,53.25,66.77,55.37,Field Operations,Operations Division,3.34
+E0272,3.29,4.06,2.79,4.2,3.75,72.46,92.56,40.97,86.46,64.56,73.09,Safety & Compliance,Executive & Support Division,3.86
+E0273,3.26,3.98,3.08,3.61,3.15,87.53,54.84,58.53,67.16,65.65,63.58,Technical Services,Executive & Support Division,4.1
+E0274,3.24,4.21,3.75,4.35,1.72,79.32,65.28,81.67,77.88,59.55,84.2,Quality Assurance,Executive & Support Division,4.0
+E0275,3.94,4.3,3.25,3.6,2.49,63.13,66.44,56.43,59.42,80.8,92.07,Technical Services,Executive & Support Division,4.47
+E0276,3.29,3.64,2.99,4.36,2.03,74.79,72.02,62.16,66.97,91.54,82.54,Supply Chain,Operations Division,4.34
+E0277,3.57,4.14,4.1,3.13,3.31,91.73,51.25,31.22,73.48,70.23,86.39,Safety & Compliance,Executive & Support Division,3.94
+E0278,3.37,4.44,3.45,4.06,2.86,82.64,60.82,65.03,81.08,65.33,91.37,Commercial,Commercial Division,3.69
+E0279,2.5,4.37,3.76,3.84,2.85,84.17,62.88,59.74,86.2,55.84,74.71,People Operations,People & Culture Division,4.55
+E0280,4.26,4.36,2.93,3.93,3.66,60.41,86.0,85.58,85.98,56.18,47.34,Commercial,Commercial Division,4.04
+E0281,3.35,2.95,3.03,2.99,3.18,79.5,86.22,26.12,68.15,100.0,66.64,People Operations,People & Culture Division,4.03
+E0282,3.19,3.64,4.02,4.17,3.32,73.95,70.98,100.0,66.77,84.45,82.64,IT Services,Executive & Support Division,3.92
+E0283,3.73,3.9,3.54,3.51,2.82,96.18,64.75,82.47,91.81,79.89,86.91,Technical Services,Executive & Support Division,4.17
+E0284,3.78,3.84,3.45,3.68,3.42,68.97,78.49,67.17,55.0,95.71,100.0,Safety & Compliance,Executive & Support Division,3.49
+E0285,3.18,3.62,2.54,3.62,3.18,76.0,100.0,60.85,80.75,66.89,86.42,Design & Engineering,Commercial Division,3.7
+E0286,3.11,3.98,4.0,3.99,3.05,42.62,65.57,62.12,90.45,59.27,60.28,Quality Assurance,Executive & Support Division,3.85
+E0287,3.09,5.0,3.96,3.84,2.96,75.89,91.27,76.91,65.58,69.46,73.03,Commercial,Commercial Division,3.78
+E0288,3.45,3.73,3.69,3.32,2.88,81.37,76.75,54.48,55.32,85.52,59.04,Quality Assurance,Executive & Support Division,3.09
+E0289,3.4,3.8,3.09,3.59,3.02,67.04,63.72,67.3,57.43,39.79,86.08,IT Services,Executive & Support Division,3.44
+E0290,3.58,4.4,3.62,3.51,2.51,53.89,58.34,54.06,80.5,49.64,62.67,Field Operations,Operations Division,3.62
+E0291,3.32,3.16,3.45,3.98,3.95,69.75,65.84,65.94,69.08,92.96,75.25,Technical Services,Executive & Support Division,3.86
+E0292,3.2,3.49,3.03,3.4,4.09,63.13,82.96,54.72,93.98,52.28,88.91,Supply Chain,Operations Division,2.89
+E0293,3.38,3.37,3.5,3.51,3.68,87.68,58.95,71.67,90.2,64.12,79.56,Safety & Compliance,Executive & Support Division,3.83
+E0294,3.18,3.98,2.87,3.64,2.41,55.34,52.99,58.35,86.78,91.96,82.33,Commercial,Commercial Division,3.36
+E0295,3.54,3.48,3.95,3.65,2.89,69.26,70.9,55.49,100.0,68.78,77.83,Field Operations,Operations Division,3.98
+E0296,3.47,3.77,3.76,3.92,2.57,86.71,54.26,81.36,55.65,92.38,50.86,Safety & Compliance,Executive & Support Division,3.33
+E0297,3.51,3.29,3.66,3.98,3.83,68.86,53.46,45.17,63.78,77.46,85.07,Warehouse Operations,Operations Division,3.27
+E0298,3.48,4.04,3.03,3.26,3.47,57.9,77.82,70.14,49.32,82.48,88.62,Safety & Compliance,Executive & Support Division,3.3
+E0299,3.23,4.71,3.49,4.12,3.97,63.13,79.96,77.91,89.2,69.57,61.82,Quality Assurance,Executive & Support Division,3.63
+E0300,2.85,3.87,3.19,3.92,3.47,65.89,70.37,56.21,61.2,78.71,98.64,IT Services,Executive & Support Division,4.04
+E0301,3.72,3.7,3.61,3.56,3.26,70.0,62.26,55.53,61.19,59.18,75.15,Warehouse Operations,Operations Division,3.99
+E0302,3.66,3.92,3.46,2.92,3.31,66.82,56.73,33.78,100.0,62.3,55.53,Safety & Compliance,Executive & Support Division,3.52
+E0303,3.13,3.85,3.31,3.74,3.41,91.5,50.73,63.72,67.7,89.86,66.32,Safety & Compliance,Executive & Support Division,2.9
+E0304,3.61,4.41,3.76,3.57,2.97,97.15,83.02,52.04,79.64,57.31,74.73,Safety & Compliance,Executive & Support Division,4.57
+E0305,3.39,4.76,3.33,4.47,4.03,50.35,45.1,62.23,94.89,46.97,81.61,Technical Services,Executive & Support Division,3.12
+E0306,3.33,3.41,3.86,2.97,2.75,79.23,60.67,32.75,58.85,67.64,90.31,IT Services,Executive & Support Division,3.03
+E0307,3.35,4.11,3.32,3.65,4.07,94.32,69.92,69.05,65.91,69.13,100.0,Finance,Finance Division,3.5
+E0308,3.11,5.0,3.25,3.73,3.71,63.11,78.05,100.0,68.15,89.51,81.83,Safety & Compliance,Executive & Support Division,4.29
+E0309,3.31,4.29,3.9,4.18,3.62,90.28,65.64,35.76,70.82,66.42,69.6,Quality Assurance,Executive & Support Division,3.22
+E0310,3.37,3.32,3.57,3.58,3.41,60.57,67.92,54.2,70.31,74.0,68.24,Field Operations,Operations Division,3.87
+E0311,3.41,4.62,3.98,4.18,3.37,76.98,69.36,85.2,93.62,59.01,90.36,IT Services,Executive & Support Division,4.63
+E0312,3.17,3.6,3.08,3.49,3.3,63.09,40.87,65.54,95.67,55.89,61.32,Technical Services,Executive & Support Division,3.54
+E0313,3.46,3.6,2.58,3.61,3.29,72.73,67.69,44.18,67.8,67.27,88.65,Field Operations,Operations Division,3.76
+E0314,3.18,3.78,3.6,4.5,2.92,62.51,51.54,62.46,78.68,68.87,100.0,Supply Chain,Operations Division,3.51
+E0315,3.2,3.5,3.52,2.9,3.38,86.84,71.99,44.96,70.39,67.37,64.27,Quality Assurance,Executive & Support Division,4.05
+E0316,3.37,4.01,2.87,3.44,3.81,72.2,68.27,37.17,87.77,67.96,81.91,Supply Chain,Operations Division,3.65
+E0317,3.22,4.08,3.71,2.73,3.67,81.18,86.39,40.1,83.5,75.45,54.64,Safety & Compliance,Executive & Support Division,3.94
+E0318,3.05,4.26,3.66,3.82,3.37,99.56,79.84,44.1,59.57,74.4,89.06,Technical Services,Executive & Support Division,4.64
+E0319,3.2,4.12,3.88,4.1,3.99,84.38,60.5,17.36,85.18,82.79,87.18,Technical Services,Executive & Support Division,3.88
+E0320,3.15,4.08,3.28,4.19,4.64,50.65,87.2,67.38,92.78,69.21,78.48,Safety & Compliance,Executive & Support Division,4.39
+E0321,3.39,4.1,3.6,3.44,3.35,62.87,40.19,59.6,76.42,82.51,61.76,IT Services,Executive & Support Division,4.12
+E0322,3.54,4.39,3.05,3.1,3.36,94.81,75.77,72.0,73.2,71.4,73.55,Commercial,Commercial Division,3.9
+E0323,3.52,4.13,3.87,3.45,2.9,77.44,68.88,65.39,78.25,77.3,63.64,Technical Services,Executive & Support Division,3.86
+E0324,3.15,3.3,3.4,3.02,4.03,70.69,63.84,48.87,66.91,50.83,41.62,Supply Chain,Operations Division,3.18
+E0325,3.24,3.31,3.75,3.45,3.04,64.79,42.54,33.21,76.94,84.9,92.8,Technical Services,Executive & Support Division,4.24
+E0326,3.43,3.58,3.58,4.29,2.82,85.12,58.46,56.43,95.26,73.91,97.69,Equipment Services,Operations Division,3.61
+E0327,2.88,3.85,3.54,3.37,3.13,69.81,49.18,56.67,63.88,80.01,85.49,Quality Assurance,Executive & Support Division,2.99
+E0328,3.6,4.04,3.88,3.53,2.87,67.94,55.65,42.75,65.54,54.77,71.14,IT Services,Executive & Support Division,4.06
+E0329,3.7,2.73,3.04,3.62,3.66,62.59,37.92,63.57,100.0,67.71,55.23,Quality Assurance,Executive & Support Division,3.06
+E0330,3.55,3.9,3.75,4.0,3.71,68.82,68.23,39.4,76.17,49.15,60.71,Supply Chain,Operations Division,3.57
+E0331,2.71,4.19,3.81,3.52,3.51,39.8,56.66,56.27,76.17,92.57,82.84,Supply Chain,Operations Division,3.64
+E0332,3.42,4.36,3.59,3.83,3.2,99.79,33.73,73.18,83.63,73.96,59.86,Field Operations,Operations Division,3.79
+E0333,2.81,3.79,3.14,3.7,2.73,48.09,38.82,72.79,87.28,61.06,74.05,Quality Assurance,Executive & Support Division,3.68
+E0334,3.62,3.75,3.61,3.66,2.88,58.14,61.75,63.24,74.45,61.39,82.26,IT Services,Executive & Support Division,3.41
+E0335,2.72,4.17,3.51,4.32,3.89,46.09,71.02,100.0,68.4,62.7,64.22,IT Services,Executive & Support Division,4.62
+E0336,2.94,4.49,2.65,4.31,2.91,73.67,83.92,63.96,89.85,73.18,64.49,Supply Chain,Operations Division,2.39
+E0337,3.45,4.37,3.2,3.43,2.41,70.94,78.67,80.61,72.25,64.84,75.81,Technical Services,Executive & Support Division,3.72
+E0338,2.93,3.95,3.05,3.34,2.93,80.22,74.02,42.39,66.93,68.55,94.26,Quality Assurance,Executive & Support Division,3.57
+E0339,2.55,4.12,3.81,3.35,2.92,58.5,93.11,100.0,78.0,73.32,49.33,Supply Chain,Operations Division,3.34
+E0340,3.03,4.17,3.15,2.93,4.1,91.98,86.22,36.49,74.78,63.46,98.28,Technical Services,Executive & Support Division,4.54
+E0341,3.47,3.64,3.71,3.75,3.04,63.56,85.4,69.15,46.66,49.77,73.28,IT Services,Executive & Support Division,3.27
+E0342,3.0,3.3,3.65,2.93,3.07,51.77,92.89,94.13,42.18,94.93,56.49,Technical Services,Executive & Support Division,2.98
+E0343,3.03,3.4,3.47,3.61,2.22,82.5,88.68,67.03,100.0,66.71,88.23,IT Services,Executive & Support Division,2.79
+E0344,3.4,4.14,3.31,3.62,3.38,80.15,62.53,56.45,66.79,80.87,71.93,Safety & Compliance,Executive & Support Division,4.32
+E0345,3.34,4.3,3.89,3.5,3.68,87.85,49.02,35.18,71.47,81.78,83.94,Quality Assurance,Executive & Support Division,3.43
+E0346,3.71,3.26,3.45,3.4,3.17,84.24,86.51,51.23,51.68,57.04,69.07,Supply Chain,Operations Division,3.01
+E0347,3.59,4.49,3.91,3.77,3.36,64.55,66.61,37.17,66.93,84.16,58.68,Supply Chain,Operations Division,3.36
+E0348,3.25,4.11,3.53,3.64,3.05,82.77,68.68,51.26,76.37,50.8,61.97,Equipment Services,Operations Division,3.07
+E0349,3.14,3.88,3.38,3.85,3.71,55.0,54.69,82.14,91.44,81.29,73.84,Safety & Compliance,Executive & Support Division,4.32
+E0350,3.66,3.69,3.15,3.82,4.66,50.1,80.89,90.88,69.22,69.15,64.33,Finance,Finance Division,3.72
+E0351,3.15,3.92,4.09,4.1,3.21,99.34,71.97,49.74,70.88,66.97,91.15,Safety & Compliance,Executive & Support Division,4.31
+E0352,3.03,3.48,3.61,3.47,3.42,47.62,72.97,22.88,79.18,79.13,100.0,Safety & Compliance,Executive & Support Division,2.71
+E0353,3.48,4.69,2.95,3.68,3.18,100.0,69.09,64.22,49.25,69.23,88.16,Quality Assurance,Executive & Support Division,3.87
+E0354,3.17,3.18,3.87,2.95,2.84,80.76,58.09,100.0,84.88,100.0,82.9,Safety & Compliance,Executive & Support Division,4.28
+E0355,2.89,3.93,3.45,3.97,3.24,63.66,74.85,83.02,72.39,57.44,70.11,Warehouse Operations,Operations Division,4.2
+E0356,3.52,3.51,3.33,3.34,3.28,44.02,78.0,71.36,89.59,52.66,83.13,Supply Chain,Operations Division,3.81
+E0357,3.61,4.31,3.57,3.57,3.29,72.76,64.0,70.02,69.54,76.04,63.26,IT Services,Executive & Support Division,3.48
+E0358,3.0,2.96,3.32,3.65,3.09,61.19,60.28,76.16,97.79,70.64,57.22,Safety & Compliance,Executive & Support Division,3.79
+E0359,3.24,3.53,3.1,4.66,3.97,50.56,61.59,33.42,81.44,86.26,88.16,Safety & Compliance,Executive & Support Division,4.06
+E0360,3.21,3.63,3.5,3.59,2.91,72.73,42.46,48.9,81.38,65.99,63.24,Design & Engineering,Commercial Division,3.47
+E0361,3.3,4.63,3.75,3.73,3.55,56.66,90.6,64.65,93.18,90.02,62.23,Quality Assurance,Executive & Support Division,3.5
+E0362,3.22,4.33,3.19,3.26,3.74,45.13,64.82,43.58,88.22,95.18,72.9,Safety & Compliance,Executive & Support Division,3.41
+E0363,2.91,4.26,3.32,3.71,3.35,49.34,82.13,20.05,88.65,68.78,75.37,Commercial,Commercial Division,3.91
+E0364,3.36,3.5,3.51,3.35,3.84,64.07,69.86,17.31,78.93,79.95,80.03,Technical Services,Executive & Support Division,3.25
+E0365,3.25,4.66,3.88,3.45,3.72,71.84,51.54,79.27,85.03,90.23,72.11,Commercial,Commercial Division,4.02
+E0366,3.39,3.63,3.59,3.39,3.26,51.47,74.25,48.24,84.66,84.82,55.65,IT Services,Executive & Support Division,3.15
+E0367,3.54,4.07,3.85,3.24,3.44,47.15,49.9,60.24,72.42,63.13,65.46,Field Operations,Operations Division,4.6
+E0368,3.59,4.23,3.37,3.94,2.82,80.57,40.85,60.35,79.85,83.88,71.89,Quality Assurance,Executive & Support Division,3.86
+E0369,3.47,3.85,3.5,4.25,2.17,92.94,66.8,61.38,50.41,77.01,69.94,People Operations,People & Culture Division,3.08
+E0370,2.58,3.75,3.43,2.73,3.43,57.83,87.24,42.05,94.5,52.74,64.74,Commercial,Commercial Division,3.95
+E0371,3.05,3.98,3.2,3.9,2.95,89.6,59.74,58.17,84.41,92.43,97.2,Safety & Compliance,Executive & Support Division,4.78
+E0372,3.37,2.73,3.5,3.37,3.31,57.15,65.41,79.61,87.87,79.86,81.46,Technical Services,Executive & Support Division,4.09
+E0373,3.59,4.5,3.33,3.75,3.43,100.0,87.73,44.0,91.78,79.98,70.24,Design & Engineering,Commercial Division,4.07
+E0374,3.05,3.74,3.59,3.59,3.63,66.2,70.21,41.19,72.68,69.74,62.7,People Operations,People & Culture Division,3.25
+E0375,3.12,3.65,3.58,3.97,4.02,85.5,54.74,45.14,96.12,67.55,72.52,Technical Services,Executive & Support Division,3.66
+E0376,3.85,4.91,4.05,3.87,3.3,58.84,61.04,55.43,61.45,66.83,82.93,Warehouse Operations,Operations Division,3.34
+E0377,2.61,4.19,3.13,3.61,2.77,80.25,61.8,85.86,70.86,87.07,81.18,Supply Chain,Operations Division,3.31
+E0378,3.25,4.29,3.43,3.74,3.76,75.6,67.77,39.24,65.77,65.03,66.08,Commercial,Commercial Division,3.49
+E0379,3.15,4.41,2.8,4.13,3.68,62.86,58.21,33.64,62.08,60.08,56.41,Commercial,Commercial Division,4.4
+E0380,3.23,4.68,3.25,3.95,3.9,73.25,50.5,39.49,97.89,58.1,52.71,Safety & Compliance,Executive & Support Division,3.66
+E0381,3.24,3.35,3.33,3.83,2.39,54.15,91.46,57.35,69.73,56.03,82.83,IT Services,Executive & Support Division,2.92
+E0382,3.54,5.0,3.19,2.99,3.14,71.6,54.76,47.34,97.31,80.21,92.15,IT Services,Executive & Support Division,4.09
+E0383,3.63,4.21,3.66,3.71,2.64,84.79,68.18,84.51,68.6,91.37,59.67,Design & Engineering,Commercial Division,4.29
+E0384,4.25,3.33,3.73,3.56,3.7,54.45,49.76,26.06,82.95,61.41,88.59,IT Services,Executive & Support Division,3.52
+E0385,3.87,4.05,3.72,3.95,3.43,90.83,65.56,88.8,92.61,66.69,53.23,Equipment Services,Operations Division,3.71
+E0386,3.33,4.73,3.89,3.54,3.78,42.72,55.66,31.92,100.0,50.45,66.34,Quality Assurance,Executive & Support Division,3.43
+E0387,3.42,3.58,3.21,3.53,3.55,77.47,82.23,62.35,78.25,93.04,75.31,Technical Services,Executive & Support Division,3.14
+E0388,3.66,4.01,3.22,2.98,3.26,78.55,58.02,59.09,95.03,81.77,80.19,IT Services,Executive & Support Division,3.02
+E0389,4.13,3.64,3.58,4.19,3.44,87.91,87.17,48.03,72.98,61.03,89.36,Quality Assurance,Executive & Support Division,3.19
+E0390,3.3,2.69,3.87,3.56,3.35,96.58,65.2,40.76,60.81,95.93,84.56,Safety & Compliance,Executive & Support Division,3.76
+E0391,3.47,3.6,3.14,3.56,2.98,74.57,70.62,77.66,70.71,68.89,93.53,Safety & Compliance,Executive & Support Division,3.84
+E0392,3.3,3.49,4.38,3.52,3.4,68.88,44.56,53.27,80.16,49.46,89.1,IT Services,Executive & Support Division,4.16
+E0393,3.7,3.54,2.93,3.75,2.85,71.28,89.25,42.79,59.83,72.56,72.3,Quality Assurance,Executive & Support Division,3.26
+E0394,2.96,4.54,3.57,3.57,3.49,94.75,85.38,71.44,78.68,52.92,55.6,Safety & Compliance,Executive & Support Division,4.69
+E0395,3.4,3.87,3.75,3.66,3.36,51.01,66.33,62.56,70.44,87.55,87.63,Design & Engineering,Commercial Division,3.39
+E0396,2.97,4.43,3.33,3.91,3.67,63.51,60.85,54.78,87.96,63.52,73.46,Technical Services,Executive & Support Division,3.73
+E0397,3.43,4.32,3.86,3.16,2.76,62.29,52.36,38.08,55.14,68.09,84.67,Technical Services,Executive & Support Division,4.02
+E0398,3.59,3.62,3.72,3.92,2.8,74.14,81.41,48.85,50.39,64.15,70.98,Commercial,Commercial Division,3.99
+E0399,3.24,3.67,3.82,3.56,3.32,55.45,61.22,76.51,95.56,70.92,100.0,Safety & Compliance,Executive & Support Division,3.64
+E0400,3.29,3.51,3.53,3.21,2.96,64.9,44.77,67.65,66.18,70.58,66.58,Commercial,Commercial Division,3.38
+E0401,3.68,4.55,3.42,3.76,2.87,75.03,63.59,94.71,93.55,59.2,90.87,Safety & Compliance,Executive & Support Division,3.07
+E0402,3.32,3.15,3.53,3.19,3.68,85.22,48.19,80.53,93.75,100.0,86.98,Field Operations,Operations Division,3.08
+E0403,3.52,3.27,3.57,3.27,3.82,64.89,63.57,60.04,70.3,63.96,72.9,Safety & Compliance,Executive & Support Division,3.45
+E0404,3.28,4.13,3.33,3.97,3.92,96.48,69.55,40.06,65.26,79.75,75.52,Quality Assurance,Executive & Support Division,3.61
+E0405,3.08,3.74,3.17,4.18,2.83,62.78,75.98,79.48,97.03,51.56,69.01,Technical Services,Executive & Support Division,4.15
+E0406,3.23,4.78,3.7,3.39,3.15,97.99,44.68,24.32,92.12,61.66,77.69,Technical Services,Executive & Support Division,3.6
+E0407,3.97,3.46,4.02,3.51,3.27,89.19,71.32,15.87,85.16,86.46,62.81,Quality Assurance,Executive & Support Division,1.97
+E0408,3.27,3.92,3.29,3.77,2.62,69.51,66.46,42.18,80.17,24.22,99.3,People Operations,People & Culture Division,3.96
+E0409,3.37,3.98,3.92,3.51,3.18,76.89,73.73,46.31,80.64,64.21,100.0,IT Services,Executive & Support Division,3.77
+E0410,3.7,3.35,3.46,3.86,3.63,74.84,79.1,20.07,65.31,68.9,87.2,Quality Assurance,Executive & Support Division,3.23
+E0411,3.46,3.89,3.81,3.4,2.5,98.0,58.99,11.88,85.54,82.93,78.81,Supply Chain,Operations Division,3.05
+E0412,3.51,4.04,2.92,3.38,3.99,55.7,71.72,67.25,64.78,95.64,69.08,Field Operations,Operations Division,3.54
+E0413,4.02,3.86,3.7,3.45,3.89,91.08,40.39,42.18,82.71,44.87,68.44,Safety & Compliance,Executive & Support Division,4.45
+E0414,3.62,3.69,3.58,4.25,3.5,63.55,41.27,63.0,73.48,75.89,77.52,Safety & Compliance,Executive & Support Division,3.35
+E0415,3.12,4.91,3.83,3.81,4.03,48.43,79.73,52.93,75.07,86.37,79.06,Quality Assurance,Executive & Support Division,3.03
+E0416,3.55,3.86,2.76,3.87,3.6,46.67,68.9,48.57,78.31,100.0,72.53,Field Operations,Operations Division,4.23
+E0417,3.18,3.58,3.08,4.39,3.79,80.59,75.92,64.7,56.65,73.79,90.92,Supply Chain,Operations Division,3.15
+E0418,3.25,4.06,3.52,3.32,2.98,75.36,84.13,49.82,95.76,54.48,96.96,Finance,Finance Division,3.47
+E0419,3.67,4.38,3.9,3.92,2.99,85.48,46.28,71.7,78.76,59.84,88.57,Commercial,Commercial Division,3.2
+E0420,3.38,3.46,3.18,3.85,2.15,100.0,48.92,31.77,58.03,69.88,73.85,Quality Assurance,Executive & Support Division,2.85
+E0421,3.27,3.37,3.13,2.54,3.94,67.43,56.47,35.91,98.3,61.86,87.86,Commercial,Commercial Division,3.79
+E0422,3.19,4.34,3.45,4.15,2.32,66.03,70.02,34.11,81.2,79.84,65.59,Quality Assurance,Executive & Support Division,3.06
+E0423,3.4,3.89,3.05,3.08,3.85,49.59,73.68,46.59,76.36,47.54,100.0,Safety & Compliance,Executive & Support Division,4.65
+E0424,3.28,4.73,2.88,3.5,3.39,90.74,70.02,89.72,59.69,67.33,82.82,Technical Services,Executive & Support Division,3.12
+E0425,3.64,4.81,3.4,3.12,3.02,75.35,56.92,14.72,67.68,72.7,100.0,Quality Assurance,Executive & Support Division,3.4
+E0426,3.41,3.75,3.57,3.91,2.99,15.88,91.67,85.82,84.51,47.02,100.0,Supply Chain,Operations Division,2.78
+E0427,3.31,3.72,3.75,3.94,3.13,73.12,62.34,70.62,74.17,79.32,100.0,Supply Chain,Operations Division,3.35
+E0428,4.25,3.92,3.66,3.76,2.55,79.65,74.9,72.28,74.17,70.57,91.65,IT Services,Executive & Support Division,4.32
+E0429,3.45,4.02,4.0,3.23,3.5,64.99,52.45,38.0,52.16,89.69,82.21,Field Operations,Operations Division,3.97
+E0430,3.14,4.33,3.45,3.36,4.76,94.75,68.55,44.49,91.66,76.59,68.42,Technical Services,Executive & Support Division,4.11
+E0431,2.99,3.96,3.06,3.78,2.82,66.01,52.9,64.62,95.23,67.02,72.31,People Operations,People & Culture Division,3.64
+E0432,3.03,4.31,2.97,3.66,3.02,58.77,84.0,34.14,100.0,68.75,94.18,IT Services,Executive & Support Division,3.35
+E0433,2.96,4.12,2.7,3.79,3.25,38.66,51.55,54.78,59.07,69.7,72.59,Safety & Compliance,Executive & Support Division,4.53
+E0434,3.33,3.02,3.74,3.47,2.1,55.03,44.13,32.21,65.02,77.01,45.93,Quality Assurance,Executive & Support Division,2.84
+E0435,3.34,3.35,3.4,3.66,4.08,80.77,60.98,86.43,78.84,74.22,67.5,Supply Chain,Operations Division,2.68
+E0436,3.53,4.75,2.72,3.41,2.56,61.1,57.53,69.31,75.47,66.37,68.41,IT Services,Executive & Support Division,3.91
+E0437,3.06,4.15,3.6,3.3,3.22,58.2,54.88,39.96,88.98,100.0,87.45,Field Operations,Operations Division,3.31
+E0438,3.22,3.47,3.6,3.75,3.47,55.16,63.95,52.17,93.68,71.95,63.38,Design & Engineering,Commercial Division,3.33
+E0439,3.18,5.0,3.13,3.38,3.68,90.72,58.17,60.59,55.38,51.52,68.89,Field Operations,Operations Division,4.44
+E0440,3.83,4.66,3.97,4.34,3.19,65.3,59.07,41.08,61.51,87.28,84.71,Technical Services,Executive & Support Division,4.01
+E0441,3.39,3.24,3.28,3.83,3.16,75.0,77.16,40.96,93.01,77.81,79.95,Field Operations,Operations Division,3.9
+E0442,3.48,3.9,3.78,2.84,3.6,87.77,47.59,86.26,79.99,48.45,91.95,Equipment Services,Operations Division,2.95
+E0443,3.67,4.13,3.41,3.7,3.06,65.64,45.82,39.07,61.01,64.9,85.16,Technical Services,Executive & Support Division,3.49
+E0444,3.42,3.8,3.72,3.91,3.4,87.08,59.78,100.0,81.4,55.67,79.34,Equipment Services,Operations Division,3.55
+E0445,3.33,3.5,3.61,4.34,3.29,62.91,51.28,40.95,89.05,55.1,84.72,Commercial,Commercial Division,3.42
+E0446,3.23,4.34,3.25,3.47,3.48,65.1,52.78,19.69,41.64,75.08,70.62,Safety & Compliance,Executive & Support Division,2.94
+E0447,3.27,3.85,3.18,3.94,4.11,67.38,88.84,85.25,71.35,58.51,90.19,Quality Assurance,Executive & Support Division,3.71
+E0448,3.34,3.85,4.03,3.61,3.76,83.86,67.17,49.51,74.37,65.69,77.09,Supply Chain,Operations Division,3.23
+E0449,3.28,4.85,3.04,3.05,3.38,89.65,59.01,26.79,97.13,90.58,77.68,IT Services,Executive & Support Division,4.1
+E0450,3.28,3.95,3.32,2.94,3.19,55.71,56.0,44.63,79.45,39.81,52.67,Technical Services,Executive & Support Division,4.36
+E0451,3.9,3.43,3.2,3.5,3.36,61.99,68.96,75.14,81.06,73.53,74.5,Technical Services,Executive & Support Division,4.94
+E0452,2.96,3.93,3.32,3.94,2.58,88.69,91.54,47.48,54.98,45.2,72.16,Supply Chain,Operations Division,3.66
+E0453,2.75,4.29,3.34,3.87,3.12,70.73,60.84,83.82,58.41,68.27,77.33,Commercial,Commercial Division,4.16
+E0454,3.46,4.64,3.46,3.98,2.0,59.26,90.86,72.21,90.76,80.32,70.04,Supply Chain,Operations Division,3.53
+E0455,3.75,4.18,4.03,3.51,2.88,89.03,78.46,58.39,73.04,88.83,80.03,Field Operations,Operations Division,3.27
+E0456,3.27,3.16,3.79,2.86,2.39,64.68,75.89,54.6,98.31,45.32,83.83,Technical Services,Executive & Support Division,3.54
+E0457,3.59,3.43,3.03,3.77,3.23,82.13,55.76,54.15,74.31,29.99,95.62,IT Services,Executive & Support Division,3.21
+E0458,3.83,3.69,3.92,2.64,2.74,75.82,75.8,44.49,74.75,92.69,86.46,Warehouse Operations,Operations Division,2.31
+E0459,3.29,3.58,4.11,3.88,3.42,53.41,61.68,77.85,63.48,71.3,68.25,Supply Chain,Operations Division,3.07
+E0460,3.41,4.26,3.22,4.3,3.56,58.86,50.64,48.79,75.47,58.67,92.01,Warehouse Operations,Operations Division,3.96
+E0461,3.11,3.53,3.74,3.86,3.48,58.46,60.94,25.71,46.28,70.58,52.1,IT Services,Executive & Support Division,3.5
+E0462,3.17,4.49,3.63,3.32,2.34,79.67,81.25,38.75,76.92,89.48,74.35,IT Services,Executive & Support Division,3.16
+E0463,3.24,4.6,3.19,3.66,3.91,74.74,31.73,77.81,94.67,61.69,100.0,Safety & Compliance,Executive & Support Division,3.5
+E0464,3.57,3.96,3.61,3.71,3.51,61.65,44.06,59.99,83.2,69.05,88.35,Safety & Compliance,Executive & Support Division,4.47
+E0465,3.78,3.21,3.39,3.75,4.18,56.52,95.97,68.44,58.16,62.08,78.17,Quality Assurance,Executive & Support Division,4.46
+E0466,3.55,4.35,3.4,3.8,3.95,64.74,76.66,35.44,100.0,70.7,73.04,Field Operations,Operations Division,3.41
+E0467,3.1,4.19,3.81,3.71,2.22,74.48,69.09,62.35,92.82,85.21,75.86,Supply Chain,Operations Division,2.55
+E0468,3.13,3.82,2.77,3.83,3.2,91.57,62.03,65.82,79.74,53.21,77.63,Supply Chain,Operations Division,3.15
+E0469,3.25,3.76,3.77,3.67,3.64,50.67,67.5,13.28,49.43,51.86,74.37,Supply Chain,Operations Division,4.68
+E0470,3.36,3.82,3.04,3.11,3.3,58.77,44.17,55.75,51.85,54.7,68.38,Quality Assurance,Executive & Support Division,3.08
+E0471,3.52,3.61,3.68,3.09,4.11,74.3,66.9,26.8,77.63,75.12,65.07,Commercial,Commercial Division,4.47
+E0472,2.92,3.75,2.74,3.83,4.23,70.99,68.13,84.01,85.55,87.58,82.01,Design & Engineering,Commercial Division,3.51
+E0473,3.05,4.35,3.54,4.12,3.39,52.27,79.56,29.74,59.1,81.76,65.16,People Operations,People & Culture Division,3.78
+E0474,3.87,3.7,3.51,3.23,2.65,96.08,59.07,78.19,73.14,87.65,93.94,Finance,Finance Division,3.51
+E0475,3.49,4.64,3.23,3.53,3.38,88.63,46.96,65.34,76.17,56.26,69.98,IT Services,Executive & Support Division,4.31
+E0476,3.48,3.34,3.24,3.17,3.11,61.58,64.25,11.45,67.74,76.51,69.61,Commercial,Commercial Division,4.81
+E0477,2.95,4.68,3.56,3.82,3.0,77.9,58.62,65.42,72.68,95.23,76.11,Field Operations,Operations Division,4.08
+E0478,3.66,4.33,3.32,3.5,4.5,73.34,76.03,63.44,91.77,73.89,82.84,Commercial,Commercial Division,3.77
+E0479,3.52,4.08,4.05,3.09,2.27,68.37,72.87,58.74,66.13,82.01,69.07,Safety & Compliance,Executive & Support Division,4.31
+E0480,2.94,3.7,3.2,3.67,3.21,76.9,87.26,33.17,69.13,70.26,51.9,Supply Chain,Operations Division,2.74
+E0481,3.0,3.37,3.31,3.47,3.12,98.52,42.84,90.66,70.85,85.97,93.02,Technical Services,Executive & Support Division,3.64
+E0482,3.54,4.56,3.25,3.57,3.47,71.37,66.47,39.12,70.42,79.55,63.31,Equipment Services,Operations Division,4.39
+E0483,2.98,3.84,3.36,3.85,3.43,89.31,51.92,43.3,56.48,62.96,66.47,Quality Assurance,Executive & Support Division,3.15
+E0484,3.54,3.41,3.76,3.58,3.96,84.19,70.54,66.98,100.0,81.62,54.88,IT Services,Executive & Support Division,4.37
+E0485,3.21,4.16,3.95,3.66,3.54,60.2,33.5,70.76,63.07,68.83,83.28,Safety & Compliance,Executive & Support Division,3.84
+E0486,3.55,3.35,3.48,2.85,3.77,95.9,74.68,43.73,70.77,68.13,67.57,Warehouse Operations,Operations Division,3.53
+E0487,3.63,4.14,3.48,4.31,3.22,92.86,66.92,72.65,55.44,77.25,79.31,Supply Chain,Operations Division,3.67
+E0488,3.9,4.08,3.89,4.05,2.18,76.86,66.85,55.1,54.68,84.9,61.86,Supply Chain,Operations Division,4.24
+E0489,2.85,4.95,3.33,4.02,4.46,66.19,65.52,42.21,74.2,73.63,95.53,Safety & Compliance,Executive & Support Division,4.13
+E0490,2.94,2.6,3.54,3.6,2.92,55.94,71.97,50.78,92.38,94.14,77.4,Commercial,Commercial Division,3.85
+E0491,3.33,4.27,3.87,2.53,3.62,73.3,71.13,40.04,85.86,94.85,74.86,IT Services,Executive & Support Division,4.31
+E0492,3.85,3.78,3.33,4.08,3.53,70.76,54.39,51.47,91.57,70.9,58.39,Field Operations,Operations Division,3.38
+E0493,3.51,4.03,3.49,3.8,3.42,92.04,57.17,60.96,58.67,64.41,64.17,People Operations,People & Culture Division,3.91
+E0494,2.97,4.05,3.55,4.16,3.53,57.88,80.23,86.09,69.01,79.22,96.42,Safety & Compliance,Executive & Support Division,3.79
+E0495,3.62,4.03,3.65,3.61,3.56,77.81,58.21,60.02,78.21,69.88,79.16,Field Operations,Operations Division,3.74
+E0496,3.34,3.92,3.94,3.93,3.68,63.42,34.25,56.84,94.2,81.63,72.67,Quality Assurance,Executive & Support Division,4.1
+E0497,3.73,4.08,3.56,3.89,3.19,62.06,41.24,37.13,81.11,76.33,88.19,Safety & Compliance,Executive & Support Division,3.77
+E0498,3.02,3.64,3.36,3.6,3.42,63.27,56.36,80.34,82.58,75.49,69.68,Quality Assurance,Executive & Support Division,4.1
+E0499,3.63,3.37,2.98,3.91,3.28,81.26,83.55,66.84,89.59,72.87,79.04,Field Operations,Operations Division,3.95
+E0500,3.76,3.32,3.8,3.93,2.73,75.54,41.63,71.15,79.79,81.66,64.37,Technical Services,Executive & Support Division,3.63
+E0501,3.07,4.18,3.62,3.96,2.75,64.52,59.58,83.83,85.64,63.56,48.22,Design & Engineering,Commercial Division,3.25
+E0502,3.4,4.34,3.44,2.83,3.18,74.21,68.88,68.02,80.57,63.86,89.47,Technical Services,Executive & Support Division,3.21
+E0503,3.49,4.13,3.45,3.52,3.27,60.19,82.69,71.83,76.43,81.11,85.93,IT Services,Executive & Support Division,3.18
+E0504,3.42,3.46,3.87,3.62,3.11,64.08,77.35,36.09,85.71,68.87,66.44,People Operations,People & Culture Division,3.33
+E0505,3.11,4.66,3.94,3.72,3.61,73.94,100.0,31.38,87.08,63.94,98.24,Safety & Compliance,Executive & Support Division,3.9
+E0506,3.66,3.61,3.66,4.15,3.35,60.64,53.11,35.79,74.09,56.94,74.9,Equipment Services,Operations Division,3.65
+E0507,3.1,3.53,3.89,2.81,4.09,55.54,54.35,35.62,63.88,73.39,96.35,Commercial,Commercial Division,4.29
+E0508,3.39,3.69,3.05,3.67,3.5,91.6,92.69,47.48,69.46,42.88,71.84,Commercial,Commercial Division,3.48
+E0509,3.51,4.16,3.15,3.49,2.62,73.89,100.0,35.78,86.38,92.43,76.18,Commercial,Commercial Division,3.04
+E0510,3.47,2.92,3.8,3.69,3.93,71.25,78.2,59.51,77.58,73.85,100.0,Technical Services,Executive & Support Division,4.92
+E0511,3.54,3.35,3.18,3.83,3.07,70.52,63.38,82.72,63.75,71.84,82.61,Supply Chain,Operations Division,2.69
+E0512,2.83,4.85,2.65,4.05,3.58,64.58,47.45,28.29,50.3,65.44,96.77,IT Services,Executive & Support Division,3.09
+E0513,2.7,3.53,3.41,3.96,3.38,66.74,85.21,55.46,96.06,79.88,68.72,Finance,Finance Division,3.71
+E0514,3.43,3.36,3.26,2.82,2.95,100.0,38.7,18.07,72.52,72.69,81.77,Supply Chain,Operations Division,3.68
+E0515,3.46,3.41,3.32,3.62,4.29,79.88,60.82,40.58,79.3,90.16,75.54,Field Operations,Operations Division,3.68
+E0516,3.77,3.09,4.37,3.64,2.96,60.74,69.96,74.59,80.57,55.72,88.18,Technical Services,Executive & Support Division,4.41
+E0517,3.29,4.0,2.95,3.53,2.75,96.9,91.59,26.3,88.61,81.18,74.03,Design & Engineering,Commercial Division,4.62
+E0518,3.31,3.78,3.44,3.46,3.84,61.57,65.24,70.99,53.43,90.38,80.43,Technical Services,Executive & Support Division,5.0
+E0519,2.92,4.2,3.17,4.02,3.52,88.88,59.47,65.83,69.9,76.58,96.81,Finance,Finance Division,3.93
+E0520,3.47,2.42,3.69,3.07,2.55,64.85,58.44,61.93,93.18,100.0,60.2,IT Services,Executive & Support Division,3.29
+E0521,3.77,4.32,4.02,3.87,3.98,75.98,77.41,62.85,99.22,81.95,64.93,IT Services,Executive & Support Division,4.24
+E0522,3.24,3.63,3.65,3.57,2.61,72.07,58.7,60.48,71.63,82.4,100.0,Supply Chain,Operations Division,3.78
+E0523,3.49,4.8,3.06,3.45,2.48,73.9,95.92,5.43,78.55,38.9,78.95,IT Services,Executive & Support Division,3.42
+E0524,3.7,3.01,3.25,2.63,3.54,71.67,57.74,58.45,74.18,69.12,90.84,Quality Assurance,Executive & Support Division,3.16
+E0525,3.7,4.09,3.83,3.7,4.04,65.68,93.98,63.13,54.97,93.73,79.32,IT Services,Executive & Support Division,2.79
+E0526,3.63,3.49,3.93,3.67,3.96,74.52,55.15,95.67,54.14,77.13,74.81,Supply Chain,Operations Division,2.88
+E0527,3.66,3.43,3.52,4.25,3.26,93.98,83.86,50.3,51.6,70.12,50.9,Safety & Compliance,Executive & Support Division,2.67
+E0528,2.38,3.85,4.04,4.1,3.3,65.87,76.83,55.77,75.32,71.25,100.0,Finance,Finance Division,4.55
+E0529,2.82,3.92,3.33,3.46,3.4,53.48,59.78,70.22,98.62,79.63,45.45,Design & Engineering,Commercial Division,3.0
+E0530,3.47,2.98,3.56,3.94,3.66,48.98,54.98,100.0,74.97,76.23,79.1,Safety & Compliance,Executive & Support Division,2.58
+E0531,2.87,3.64,3.27,4.5,3.71,55.1,57.49,41.39,62.85,46.75,59.37,Commercial,Commercial Division,4.38
+E0532,3.64,5.0,3.28,2.62,3.85,43.81,46.65,51.09,67.96,70.83,79.67,Field Operations,Operations Division,4.52
+E0533,3.19,3.69,3.56,3.59,2.71,39.66,66.66,81.33,98.91,81.54,77.79,People Operations,People & Culture Division,4.75
+E0534,2.9,4.64,3.68,3.76,2.87,79.04,55.58,73.35,88.88,51.99,82.67,Safety & Compliance,Executive & Support Division,2.65
+E0535,3.61,3.22,3.53,4.29,3.15,80.16,58.37,22.39,72.87,84.85,74.24,IT Services,Executive & Support Division,4.27
+E0536,3.17,3.95,3.86,3.44,2.87,75.78,56.15,86.07,76.19,54.97,82.44,People Operations,People & Culture Division,3.41
+E0537,3.07,5.0,3.42,3.55,4.19,50.71,49.24,74.15,64.72,81.86,78.46,Safety & Compliance,Executive & Support Division,4.35
+E0538,3.57,4.23,3.3,3.39,2.65,70.43,39.96,56.62,69.43,86.2,69.92,Technical Services,Executive & Support Division,3.5
+E0539,3.29,3.47,3.4,3.9,3.25,73.6,31.82,11.51,80.7,74.5,56.63,Commercial,Commercial Division,3.64
+E0540,3.01,3.21,2.85,4.16,3.13,73.5,77.41,49.52,85.68,64.84,79.4,Safety & Compliance,Executive & Support Division,3.92
+E0541,3.04,4.15,3.74,3.51,3.19,86.57,80.44,72.08,68.02,81.08,47.3,Quality Assurance,Executive & Support Division,3.22
+E0542,2.88,3.77,3.43,3.57,1.81,79.17,61.07,57.09,86.22,77.17,67.4,Safety & Compliance,Executive & Support Division,3.77
+E0543,3.83,3.81,3.56,3.85,3.54,73.77,40.28,21.67,74.0,51.45,74.81,IT Services,Executive & Support Division,3.06
+E0544,3.74,3.13,3.81,3.23,3.52,87.99,65.5,50.02,89.21,61.83,74.42,Commercial,Commercial Division,4.44
+E0545,3.37,4.57,3.28,3.23,2.75,81.15,59.96,37.32,57.42,75.5,84.53,Supply Chain,Operations Division,2.71
+E0546,3.15,3.23,4.19,3.18,2.77,80.96,61.44,57.48,78.21,83.79,97.66,Design & Engineering,Commercial Division,3.11
+E0547,3.49,3.88,3.69,4.38,2.91,78.26,55.42,63.65,59.52,90.37,72.69,IT Services,Executive & Support Division,3.81
+E0548,3.29,3.94,3.81,3.69,4.06,66.1,81.15,75.34,80.08,80.88,78.1,Commercial,Commercial Division,4.33
+E0549,3.58,4.51,3.21,3.91,3.7,96.36,58.74,39.74,81.54,76.57,61.52,Commercial,Commercial Division,3.98
+E0550,3.54,3.57,3.49,4.13,2.81,72.83,75.53,43.32,52.19,57.72,56.77,Safety & Compliance,Executive & Support Division,3.91
+E0551,3.37,3.07,2.65,3.54,3.01,51.99,49.56,66.58,73.16,69.53,90.93,Design & Engineering,Commercial Division,2.95
+E0552,3.27,4.02,3.22,3.72,4.06,75.36,77.32,93.03,94.73,62.62,87.85,Quality Assurance,Executive & Support Division,2.65
+E0553,3.53,3.78,2.65,3.58,3.55,76.45,45.68,0.0,77.35,50.26,71.53,IT Services,Executive & Support Division,4.1
+E0554,3.35,3.23,3.9,3.02,1.95,100.0,71.81,86.23,35.73,34.26,91.84,Quality Assurance,Executive & Support Division,2.27
+E0555,2.87,3.62,3.28,3.75,2.42,65.64,73.36,45.61,82.09,73.86,66.51,Design & Engineering,Commercial Division,3.51
+E0556,3.44,4.02,3.51,3.45,2.77,76.79,93.74,42.9,84.31,56.09,71.91,Supply Chain,Operations Division,3.92
+E0557,3.88,4.29,3.5,3.55,2.94,83.75,66.38,69.14,88.08,65.61,100.0,Safety & Compliance,Executive & Support Division,4.24
+E0558,3.25,4.44,3.58,4.2,3.94,78.94,50.75,75.27,88.72,81.48,87.3,Technical Services,Executive & Support Division,3.12
+E0559,3.43,4.54,3.15,3.4,2.42,83.24,48.4,35.09,100.0,78.81,75.93,Supply Chain,Operations Division,3.91
+E0560,3.26,4.35,3.75,4.62,4.21,75.69,79.69,77.46,41.51,71.24,79.33,Supply Chain,Operations Division,3.16
+E0561,3.43,3.57,3.71,4.02,3.8,83.29,80.81,45.21,63.44,65.77,61.12,Finance,Finance Division,2.22
+E0562,3.27,3.97,4.0,4.0,2.94,42.06,67.75,52.78,100.0,81.97,83.83,IT Services,Executive & Support Division,3.74
+E0563,4.04,3.82,3.16,4.14,3.56,93.78,67.3,63.5,56.13,94.85,60.6,Finance,Finance Division,3.23
+E0564,3.49,3.5,3.81,3.0,2.56,72.95,52.09,47.79,62.5,69.19,76.79,Finance,Finance Division,4.61
+E0565,3.36,3.0,3.99,3.46,3.35,61.57,74.68,47.33,81.44,67.26,58.34,Supply Chain,Operations Division,3.13
+E0566,3.45,3.79,3.31,3.6,3.72,87.95,77.87,67.31,58.6,48.44,68.55,People Operations,People & Culture Division,4.44
+E0567,3.38,4.3,4.01,3.35,3.88,72.54,38.44,32.75,55.97,75.43,73.96,Safety & Compliance,Executive & Support Division,3.17
+E0568,3.78,3.54,2.71,3.2,2.83,53.93,71.32,2.81,96.25,44.78,84.92,Field Operations,Operations Division,3.51
+E0569,3.15,4.31,3.56,3.44,3.82,73.22,49.28,41.67,48.67,74.65,58.89,Field Operations,Operations Division,4.55
+E0570,3.12,3.73,3.22,4.02,3.11,80.29,72.34,49.87,69.86,94.27,93.64,Field Operations,Operations Division,3.08
+E0571,3.52,4.07,2.9,3.96,3.51,52.15,69.27,83.7,93.72,67.85,73.44,IT Services,Executive & Support Division,2.91
+E0572,3.3,3.91,3.39,3.72,2.55,51.96,66.31,71.8,94.14,83.27,63.23,Quality Assurance,Executive & Support Division,3.26
+E0573,3.17,4.53,4.05,3.73,2.84,76.37,57.8,90.28,55.25,36.87,74.42,Supply Chain,Operations Division,3.18
+E0574,2.81,3.76,3.67,3.98,2.92,59.61,88.24,57.06,50.4,81.25,64.96,Safety & Compliance,Executive & Support Division,3.97
+E0575,3.35,5.0,3.57,3.31,4.05,75.28,59.96,23.28,80.35,59.16,98.03,Quality Assurance,Executive & Support Division,4.54
+E0576,3.19,4.16,3.11,3.7,2.94,56.21,94.01,26.52,58.85,69.55,73.18,People Operations,People & Culture Division,4.24
+E0577,3.67,3.36,3.27,3.75,3.32,62.21,69.93,73.37,84.69,62.98,83.79,IT Services,Executive & Support Division,4.01
+E0578,3.04,3.84,3.26,4.26,3.15,59.07,67.86,46.17,57.63,57.57,83.59,Equipment Services,Operations Division,4.19
+E0579,3.48,3.3,3.26,3.85,3.24,76.45,66.01,44.35,59.34,92.21,82.87,Technical Services,Executive & Support Division,4.0
+E0580,3.34,3.87,3.42,4.1,3.26,69.27,51.41,47.32,84.69,69.12,68.39,Quality Assurance,Executive & Support Division,1.94
+E0581,3.16,3.66,3.22,4.44,3.39,60.59,58.65,71.89,84.8,63.64,82.09,Quality Assurance,Executive & Support Division,3.96
+E0582,3.73,4.76,3.5,3.41,4.3,99.76,48.06,47.69,78.06,88.18,86.46,IT Services,Executive & Support Division,4.36
+E0583,3.78,4.57,2.72,3.81,3.56,74.67,74.78,40.41,67.76,89.79,59.16,IT Services,Executive & Support Division,3.66
+E0584,3.27,4.24,3.49,4.33,3.17,61.42,32.1,48.35,41.99,40.69,77.77,Supply Chain,Operations Division,3.58
+E0585,3.3,3.77,2.81,2.83,2.99,63.06,72.9,32.62,60.06,54.73,73.4,Commercial,Commercial Division,3.77
+E0586,2.75,4.09,3.83,3.42,2.62,58.13,74.17,25.17,95.48,55.19,90.54,Quality Assurance,Executive & Support Division,2.45
+E0587,3.63,3.87,3.69,4.55,2.95,88.51,58.06,46.27,93.78,79.38,88.65,Quality Assurance,Executive & Support Division,3.65
+E0588,3.32,5.0,2.78,4.54,3.56,53.46,77.04,39.83,81.23,65.96,69.01,IT Services,Executive & Support Division,4.1
+E0589,3.7,4.25,3.75,3.6,2.37,67.45,61.74,48.19,55.49,72.95,77.42,Finance,Finance Division,3.1
+E0590,3.24,4.15,3.82,4.11,3.49,88.1,53.32,63.04,86.68,76.43,69.78,Finance,Finance Division,3.03
+E0591,3.53,3.57,3.38,3.48,3.34,57.57,61.97,85.6,64.42,66.8,78.31,Safety & Compliance,Executive & Support Division,3.64
+E0592,3.5,3.57,3.31,3.1,3.06,54.36,100.0,56.27,73.3,100.0,48.15,Technical Services,Executive & Support Division,4.2
+E0593,3.52,3.45,3.93,3.64,3.01,75.9,47.78,64.45,92.0,85.74,78.8,People Operations,People & Culture Division,2.54
+E0594,3.24,3.99,3.69,3.69,3.06,87.78,53.0,91.68,69.24,75.1,98.89,Field Operations,Operations Division,3.19
+E0595,3.18,4.62,2.73,3.97,3.49,57.05,65.21,51.75,90.64,45.31,86.8,Commercial,Commercial Division,4.6
+E0596,3.04,3.19,4.0,3.62,3.16,63.91,67.74,59.49,73.75,56.58,71.38,Quality Assurance,Executive & Support Division,3.39
+E0597,3.42,3.46,3.07,4.23,3.22,79.33,65.02,66.65,100.0,75.16,92.05,Commercial,Commercial Division,4.49
+E0598,3.12,3.58,4.25,3.26,3.63,70.95,53.0,43.1,71.42,85.6,64.72,Field Operations,Operations Division,3.56
+E0599,3.51,4.7,3.37,3.36,3.18,68.56,54.19,26.57,57.01,71.95,70.17,IT Services,Executive & Support Division,4.13
+E0600,2.81,4.52,3.8,3.75,2.48,63.56,42.97,44.61,83.65,79.76,65.14,Commercial,Commercial Division,3.48
+E0601,3.76,4.22,3.54,3.51,3.52,77.16,73.39,78.53,77.83,90.8,62.18,Commercial,Commercial Division,4.12
+E0602,3.52,3.84,3.64,3.47,3.16,43.99,54.2,31.65,92.42,46.66,84.21,IT Services,Executive & Support Division,3.32
+E0603,3.39,3.47,3.35,4.51,4.09,100.0,68.17,97.87,95.91,77.01,62.91,People Operations,People & Culture Division,3.65
+E0604,3.14,4.69,3.25,3.27,3.82,58.11,72.3,67.77,89.67,79.16,100.0,Field Operations,Operations Division,3.76
+E0605,3.13,3.52,3.3,3.94,3.36,85.71,62.81,39.95,73.16,70.99,92.51,Safety & Compliance,Executive & Support Division,3.9
+E0606,3.23,4.07,3.74,3.56,2.73,58.59,68.86,48.93,80.96,70.26,69.81,Design & Engineering,Commercial Division,3.21
+E0607,3.55,4.21,3.96,3.3,3.3,80.34,54.24,78.46,93.22,91.22,72.16,Quality Assurance,Executive & Support Division,3.79
+E0608,3.42,3.84,2.82,3.26,3.51,59.17,57.74,67.32,67.63,65.09,81.05,Safety & Compliance,Executive & Support Division,4.53
+E0609,3.48,4.76,3.45,3.86,3.93,89.14,43.41,46.11,66.26,72.37,77.43,Supply Chain,Operations Division,3.5
+E0610,3.63,4.24,3.49,3.57,3.6,86.96,51.98,75.51,62.16,60.17,63.81,Finance,Finance Division,2.81
+E0611,3.55,3.0,3.84,4.2,4.39,65.14,73.64,81.73,63.39,88.34,58.56,Technical Services,Executive & Support Division,3.48
+E0612,3.61,4.33,3.04,3.73,4.09,79.63,77.95,52.97,52.57,62.82,51.97,IT Services,Executive & Support Division,2.97
+E0613,3.35,3.21,3.54,2.67,3.49,60.98,34.55,42.8,78.5,89.15,92.72,IT Services,Executive & Support Division,3.02
+E0614,3.07,3.25,3.48,4.27,3.25,81.02,45.91,6.91,80.88,81.29,76.85,IT Services,Executive & Support Division,3.65
+E0615,3.77,4.03,3.66,4.11,3.19,84.36,85.32,54.12,36.58,51.43,100.0,Commercial,Commercial Division,2.63
+E0616,3.75,4.62,3.66,4.85,3.34,54.97,50.13,13.67,56.11,62.54,94.33,Technical Services,Executive & Support Division,3.45
+E0617,2.87,4.17,3.15,3.5,3.06,48.88,70.16,39.8,89.45,80.58,69.42,Safety & Compliance,Executive & Support Division,4.17
+E0618,3.3,3.9,4.24,3.57,4.62,79.7,68.72,90.96,65.09,85.15,57.9,Supply Chain,Operations Division,2.41
+E0619,4.04,3.93,3.35,2.83,2.7,51.18,95.7,56.19,58.87,98.81,71.23,Safety & Compliance,Executive & Support Division,3.76
+E0620,3.74,3.93,3.68,3.33,3.09,52.58,35.95,72.09,88.82,86.81,86.1,Equipment Services,Operations Division,4.0
+E0621,3.67,3.87,3.53,3.8,3.28,59.36,49.61,69.78,100.0,84.64,74.18,Warehouse Operations,Operations Division,3.51
+E0622,2.7,2.95,3.21,3.67,3.09,61.62,78.72,36.74,100.0,61.79,80.38,Technical Services,Executive & Support Division,4.08
+E0623,3.26,4.5,3.38,3.5,3.71,78.06,69.54,76.99,88.45,65.95,75.08,Design & Engineering,Commercial Division,4.44
+E0624,3.14,2.78,3.69,4.14,2.9,86.27,75.72,36.25,77.77,77.3,40.67,Safety & Compliance,Executive & Support Division,3.53
+E0625,3.34,3.78,3.62,3.55,3.29,78.06,71.15,27.54,72.18,97.07,82.9,People Operations,People & Culture Division,3.13
+E0626,3.34,4.68,4.39,3.55,3.34,68.32,56.24,46.54,100.0,53.23,94.25,Technical Services,Executive & Support Division,4.29
+E0627,3.67,4.29,3.6,3.71,3.95,72.54,42.36,31.28,100.0,100.0,88.18,Commercial,Commercial Division,4.05
+E0628,3.21,3.6,3.48,3.45,2.85,67.45,78.67,40.83,96.77,67.12,57.53,Safety & Compliance,Executive & Support Division,3.24
+E0629,3.3,4.77,3.75,3.5,2.98,72.35,60.58,60.34,71.6,54.02,100.0,Technical Services,Executive & Support Division,4.23
+E0630,3.09,4.68,2.81,3.43,2.34,66.7,57.09,17.42,77.11,80.07,68.77,Field Operations,Operations Division,3.49
+E0631,2.93,3.54,3.55,3.3,2.87,89.09,74.74,42.34,61.59,68.72,71.14,Warehouse Operations,Operations Division,2.15
+E0632,3.47,3.92,2.79,4.04,4.15,55.51,67.19,50.1,76.0,61.76,72.85,Commercial,Commercial Division,2.36
+E0633,3.68,3.94,3.29,3.99,2.92,90.88,90.75,59.06,62.69,87.4,65.14,IT Services,Executive & Support Division,3.73
+E0634,3.35,3.84,3.27,3.14,3.39,86.51,64.33,35.06,50.49,64.92,80.28,Commercial,Commercial Division,3.44
+E0635,3.77,3.93,3.08,3.67,2.86,39.75,50.23,56.88,65.66,72.16,100.0,Commercial,Commercial Division,3.33
+E0636,3.24,4.04,3.38,3.42,3.43,92.83,86.68,52.78,64.62,56.26,65.41,Quality Assurance,Executive & Support Division,2.98
+E0637,3.51,4.71,3.63,4.38,2.68,73.86,72.17,25.18,69.36,86.01,73.34,Safety & Compliance,Executive & Support Division,3.98
+E0638,2.77,4.02,3.13,3.59,2.95,80.19,51.38,32.2,62.62,44.66,88.82,People Operations,People & Culture Division,4.43
+E0639,3.46,4.87,3.33,3.8,3.47,59.05,74.92,93.78,79.84,90.85,77.51,IT Services,Executive & Support Division,4.25
+E0640,3.86,3.72,3.41,4.01,3.02,87.75,75.71,58.82,72.39,52.71,67.32,Safety & Compliance,Executive & Support Division,4.42
+E0641,3.15,3.86,2.85,4.2,3.09,100.0,57.92,75.31,85.27,69.64,67.74,Technical Services,Executive & Support Division,4.8
+E0642,3.5,5.0,3.98,3.5,4.03,83.53,52.42,86.29,86.71,68.78,66.33,Quality Assurance,Executive & Support Division,2.7
+E0643,3.47,3.0,3.25,3.66,3.56,99.53,68.22,62.31,64.59,83.16,70.19,Safety & Compliance,Executive & Support Division,3.31
+E0644,3.26,3.64,3.45,3.3,3.22,65.24,65.62,48.01,80.7,98.78,75.2,Supply Chain,Operations Division,3.33
+E0645,3.42,3.68,3.13,3.74,3.3,69.7,54.58,62.32,84.23,85.69,79.76,IT Services,Executive & Support Division,3.09
+E0646,3.3,4.16,3.04,3.93,2.59,40.68,63.87,68.43,82.44,71.19,78.54,Supply Chain,Operations Division,3.69
+E0647,3.14,4.22,3.5,4.38,3.49,76.7,58.07,32.44,52.17,53.7,78.2,Safety & Compliance,Executive & Support Division,3.05
+E0648,3.35,3.34,3.57,3.76,2.55,57.07,72.51,100.0,79.86,87.67,54.02,People Operations,People & Culture Division,3.11
+E0649,3.27,4.11,3.32,3.56,3.09,55.58,81.11,68.31,100.0,59.07,77.66,Quality Assurance,Executive & Support Division,3.49
+E0650,3.38,3.23,3.04,2.97,3.89,71.01,85.87,61.15,69.49,70.78,59.64,Supply Chain,Operations Division,3.86
+E0651,2.7,3.09,3.78,3.62,3.48,69.85,75.8,66.19,86.22,58.24,66.92,Technical Services,Executive & Support Division,4.8
+E0652,3.23,4.16,3.47,4.24,3.15,44.98,66.87,58.28,81.91,86.08,82.01,Technical Services,Executive & Support Division,3.53
+E0653,3.67,4.79,4.17,3.04,3.4,61.67,61.66,69.33,69.65,82.41,66.31,IT Services,Executive & Support Division,2.92
+E0654,3.55,4.29,2.92,3.45,3.2,66.04,72.46,61.16,100.0,52.82,57.22,IT Services,Executive & Support Division,3.71
+E0655,3.7,3.65,3.64,4.01,3.47,100.0,41.4,78.16,59.16,69.66,69.79,Technical Services,Executive & Support Division,4.13
+E0656,3.33,3.66,3.34,3.03,3.11,85.96,93.58,29.6,82.57,69.47,80.12,Supply Chain,Operations Division,3.74
+E0657,3.65,4.02,3.65,3.99,3.38,70.77,57.57,65.44,81.05,89.7,82.76,People Operations,People & Culture Division,3.22
+E0658,3.83,3.0,3.42,4.1,3.39,81.12,71.09,54.76,79.57,70.05,84.85,Quality Assurance,Executive & Support Division,3.37
+E0659,3.22,3.8,3.04,4.24,4.43,58.05,69.25,57.7,60.2,74.96,95.15,Safety & Compliance,Executive & Support Division,3.33
+E0660,3.32,3.56,3.45,3.86,4.12,68.42,84.98,53.85,82.4,92.6,61.4,Quality Assurance,Executive & Support Division,2.75
+E0661,4.22,4.06,3.48,3.91,2.79,66.35,57.46,71.34,79.94,86.84,86.85,Equipment Services,Operations Division,3.87
+E0662,3.22,4.19,3.98,4.73,2.73,90.56,65.61,44.39,54.06,53.06,34.77,Supply Chain,Operations Division,4.93
+E0663,2.81,3.21,3.31,4.19,3.73,61.92,52.34,72.71,86.97,99.8,68.82,Safety & Compliance,Executive & Support Division,3.75
+E0664,3.81,4.16,3.25,3.73,4.99,50.41,58.15,56.83,87.16,62.23,71.43,IT Services,Executive & Support Division,4.81
+E0665,3.4,3.5,3.43,3.86,4.04,84.91,88.42,63.84,73.7,57.19,67.82,IT Services,Executive & Support Division,4.3
+E0666,2.92,3.21,2.94,3.19,4.21,70.18,100.0,40.45,100.0,72.62,64.76,Finance,Finance Division,3.61
+E0667,2.99,4.11,3.31,4.73,2.53,83.98,90.32,62.58,76.32,81.49,72.84,Technical Services,Executive & Support Division,3.86
+E0668,3.46,4.08,3.38,3.37,3.52,62.9,85.24,78.06,89.32,66.64,49.01,Quality Assurance,Executive & Support Division,4.07
+E0669,2.95,3.89,3.48,3.75,3.72,56.8,63.42,56.14,43.83,85.21,71.08,Field Operations,Operations Division,3.77
+E0670,3.12,4.22,3.13,4.32,4.17,65.38,59.35,57.05,50.06,74.25,84.84,Technical Services,Executive & Support Division,2.67
+E0671,2.93,4.35,2.9,3.72,2.71,92.14,79.0,64.88,67.42,80.37,80.49,IT Services,Executive & Support Division,4.57
+E0672,3.38,4.31,3.55,4.38,3.45,86.68,66.04,69.04,74.63,98.87,76.72,Commercial,Commercial Division,3.8
+E0673,3.34,4.16,3.15,3.3,2.89,50.85,39.19,80.85,67.41,71.71,69.26,Commercial,Commercial Division,4.0
+E0674,2.83,3.49,2.73,4.52,3.91,89.23,59.91,47.64,66.88,80.12,64.5,Field Operations,Operations Division,3.33
+E0675,3.8,3.18,3.4,3.83,3.79,84.18,84.97,53.33,60.72,93.73,86.35,Supply Chain,Operations Division,2.9
+E0676,3.06,3.01,3.21,4.02,3.04,76.18,100.0,50.12,76.63,90.57,80.07,IT Services,Executive & Support Division,3.91
+E0677,3.23,4.32,3.24,3.48,3.32,78.33,75.85,34.81,70.56,91.44,81.23,People Operations,People & Culture Division,3.38
+E0678,3.96,3.86,3.8,4.48,3.43,71.06,62.09,58.68,93.42,73.24,87.19,Equipment Services,Operations Division,3.47
+E0679,3.29,4.46,3.2,4.56,3.37,85.05,56.45,45.37,56.68,77.43,79.02,IT Services,Executive & Support Division,3.31
+E0680,3.19,4.07,3.71,2.73,3.71,69.69,78.27,91.02,64.64,63.83,89.18,Safety & Compliance,Executive & Support Division,3.91
+E0681,3.18,3.65,3.61,3.98,3.36,66.33,74.36,39.7,64.97,57.69,80.71,Supply Chain,Operations Division,3.61
+E0682,3.59,3.71,3.37,4.15,3.24,79.29,81.6,38.36,68.93,79.85,71.62,Quality Assurance,Executive & Support Division,3.28
+E0683,3.18,4.17,3.15,3.81,3.45,70.75,64.95,34.62,66.37,51.65,57.81,Field Operations,Operations Division,4.21
+E0684,2.77,3.87,3.96,3.35,2.12,44.65,66.1,96.96,94.54,83.34,65.65,Field Operations,Operations Division,4.19
+E0685,2.97,4.0,3.37,3.88,3.19,53.3,37.81,65.25,98.24,72.56,77.67,Quality Assurance,Executive & Support Division,2.58
+E0686,3.16,4.61,3.61,3.94,3.47,68.06,65.79,53.26,70.08,67.27,94.85,Quality Assurance,Executive & Support Division,2.8
+E0687,3.3,3.39,2.84,3.08,4.42,100.0,69.03,79.39,87.17,70.85,83.36,Safety & Compliance,Executive & Support Division,3.85
+E0688,2.88,4.07,3.35,3.79,3.1,74.82,60.59,47.98,85.17,67.57,86.3,Field Operations,Operations Division,3.45
+E0689,3.39,4.13,3.52,3.7,4.14,80.58,63.46,47.74,64.75,80.21,71.74,Quality Assurance,Executive & Support Division,3.39
+E0690,3.2,3.95,3.01,3.38,3.27,57.3,81.74,56.83,93.71,57.93,68.64,Warehouse Operations,Operations Division,3.02
+E0691,3.04,4.18,3.43,3.47,2.92,89.01,36.54,8.58,100.0,67.86,56.41,Technical Services,Executive & Support Division,4.4
+E0692,3.26,2.81,3.05,3.75,3.36,85.42,80.96,29.36,73.08,78.21,57.52,Warehouse Operations,Operations Division,3.87
+E0693,3.9,4.26,4.07,4.42,3.46,72.03,80.31,59.38,86.71,79.5,84.87,Supply Chain,Operations Division,3.09
+E0694,3.24,3.96,3.41,3.46,4.8,50.0,63.45,45.53,46.0,47.61,100.0,People Operations,People & Culture Division,3.55
+E0695,3.3,4.09,3.13,2.66,3.88,37.93,73.45,24.41,55.4,92.51,89.21,Quality Assurance,Executive & Support Division,3.61
+E0696,3.59,4.77,3.11,3.66,3.86,66.88,57.32,57.8,92.93,58.89,83.83,Supply Chain,Operations Division,3.19
+E0697,3.28,3.87,2.91,3.53,1.91,67.44,66.46,71.27,83.95,52.74,67.14,Quality Assurance,Executive & Support Division,3.61
+E0698,3.48,3.97,3.03,4.16,2.83,65.35,63.95,27.6,65.47,65.07,80.33,Quality Assurance,Executive & Support Division,2.44
+E0699,3.47,3.77,3.08,3.41,3.78,49.11,65.78,71.44,83.58,68.23,70.95,IT Services,Executive & Support Division,3.02
+E0700,2.96,3.11,3.36,3.97,3.39,91.56,85.78,62.29,91.53,63.56,57.06,Safety & Compliance,Executive & Support Division,2.78
+E0701,3.5,3.28,4.05,4.2,2.56,100.0,48.03,37.83,93.19,83.62,100.0,People Operations,People & Culture Division,3.26
+E0702,3.15,3.47,3.46,3.52,3.52,62.55,66.03,85.58,75.96,59.22,60.56,Design & Engineering,Commercial Division,4.06
+E0703,3.23,3.91,3.73,3.41,2.63,65.04,41.12,70.94,53.05,63.78,81.63,Finance,Finance Division,3.59
+E0704,3.33,3.91,3.27,4.17,3.89,52.5,44.93,30.99,62.31,67.25,79.63,Technical Services,Executive & Support Division,3.73
+E0705,3.0,4.08,3.03,3.32,3.99,52.47,64.91,52.24,66.5,56.1,76.0,Quality Assurance,Executive & Support Division,3.49
+E0706,3.56,4.25,3.31,3.73,3.49,43.16,75.73,68.41,71.49,64.79,66.92,Quality Assurance,Executive & Support Division,3.62
+E0707,3.58,4.36,3.91,3.14,2.88,67.62,43.59,74.67,93.49,89.21,67.17,Quality Assurance,Executive & Support Division,2.45
+E0708,4.0,3.81,3.59,2.82,2.87,77.85,66.73,69.48,59.74,91.93,78.44,Quality Assurance,Executive & Support Division,3.61
+E0709,3.19,4.39,3.22,4.18,2.4,68.02,64.19,82.99,54.36,82.38,66.07,Supply Chain,Operations Division,3.17
+E0710,3.24,3.7,3.54,3.32,2.8,60.74,87.68,52.74,85.99,79.42,72.24,IT Services,Executive & Support Division,3.17
+E0711,3.85,3.84,3.55,3.15,2.94,62.67,62.86,100.0,77.72,60.42,58.44,Quality Assurance,Executive & Support Division,2.87
+E0712,2.84,3.37,3.79,4.25,3.92,76.21,68.8,38.21,63.12,70.33,71.49,Equipment Services,Operations Division,2.67
+E0713,3.17,4.74,3.07,3.4,3.54,72.03,93.74,33.78,100.0,94.9,68.8,Equipment Services,Operations Division,3.65
+E0714,3.78,4.23,3.9,3.84,3.17,76.55,59.78,46.3,85.26,74.17,75.75,Technical Services,Executive & Support Division,3.46
+E0715,3.1,4.52,3.05,4.67,3.51,66.0,70.27,70.68,52.89,80.23,79.96,IT Services,Executive & Support Division,2.47
+E0716,4.04,3.7,3.62,3.65,3.48,64.9,60.62,27.28,78.23,91.95,59.55,Field Operations,Operations Division,3.95
+E0717,3.21,4.18,3.91,3.99,3.06,77.23,96.15,76.94,62.47,67.22,91.05,Safety & Compliance,Executive & Support Division,3.41
+E0718,3.03,3.6,3.43,2.87,2.41,69.89,60.3,81.31,89.92,76.55,81.11,People Operations,People & Culture Division,3.58
+E0719,3.36,3.54,4.11,3.29,3.4,70.52,80.07,22.97,58.17,73.64,63.28,Supply Chain,Operations Division,4.05
+E0720,3.35,4.11,3.89,3.71,2.21,49.9,67.86,65.12,66.23,68.44,73.28,Commercial,Commercial Division,3.67
+E0721,3.19,3.69,3.13,3.0,2.64,84.29,55.86,60.58,89.42,46.96,67.72,Design & Engineering,Commercial Division,3.87
+E0722,3.21,4.42,2.81,3.48,2.47,59.3,59.91,47.81,67.14,27.45,74.32,Technical Services,Executive & Support Division,3.6
+E0723,3.38,3.56,3.06,3.61,3.29,100.0,99.62,68.29,73.63,57.65,82.83,Supply Chain,Operations Division,3.16
+E0724,3.21,2.99,2.99,3.68,3.25,63.1,56.76,100.0,75.63,79.33,84.97,IT Services,Executive & Support Division,3.98
+E0725,3.06,4.17,3.62,3.96,3.65,62.05,76.59,58.85,60.49,40.66,89.73,Quality Assurance,Executive & Support Division,3.57
+E0726,3.35,4.18,3.46,2.95,3.8,62.88,50.01,66.76,92.42,86.36,46.02,Quality Assurance,Executive & Support Division,3.75
+E0727,3.31,3.5,3.67,3.86,2.62,82.52,68.17,65.32,100.0,87.08,69.67,IT Services,Executive & Support Division,3.15
+E0728,2.88,4.75,3.23,3.96,3.26,66.57,73.8,29.6,100.0,61.79,65.9,Warehouse Operations,Operations Division,3.17
+E0729,3.43,4.29,3.8,4.29,3.06,60.23,89.08,30.91,60.19,67.66,100.0,Field Operations,Operations Division,3.66
+E0730,3.31,4.78,4.2,4.04,2.89,75.19,77.95,31.14,85.48,52.54,87.35,Safety & Compliance,Executive & Support Division,3.42
+E0731,3.74,4.12,3.59,3.85,3.56,83.69,47.37,73.16,84.09,86.59,73.67,Supply Chain,Operations Division,2.71
+E0732,3.2,3.31,2.87,4.28,3.5,90.52,73.78,79.95,73.88,63.4,94.05,Commercial,Commercial Division,3.83
+E0733,3.03,4.17,3.59,3.81,3.6,91.47,100.0,46.33,90.82,57.29,47.5,Quality Assurance,Executive & Support Division,3.16
+E0734,3.11,3.9,3.79,3.08,3.4,69.8,79.45,40.01,60.45,51.94,89.41,Design & Engineering,Commercial Division,3.11
+E0735,3.7,4.02,3.94,4.07,3.55,60.76,61.78,19.51,98.68,79.3,66.86,Technical Services,Executive & Support Division,2.86
+E0736,3.5,4.17,3.28,3.77,2.8,87.05,70.6,59.15,74.34,51.87,67.94,Quality Assurance,Executive & Support Division,4.12
+E0737,3.32,3.96,3.15,4.07,3.45,66.78,80.05,64.48,63.29,51.92,74.87,Warehouse Operations,Operations Division,3.36
+E0738,3.02,3.82,3.44,4.17,3.59,57.02,52.12,67.86,81.54,100.0,60.85,Field Operations,Operations Division,4.21
+E0739,3.19,3.53,3.47,4.26,3.68,62.46,92.43,26.21,86.56,71.23,76.14,IT Services,Executive & Support Division,3.43
+E0740,3.35,4.59,3.91,3.92,3.71,69.79,61.05,80.62,69.77,100.0,73.71,Design & Engineering,Commercial Division,4.04
+E0741,3.51,4.6,3.29,3.3,3.77,85.87,92.22,55.24,59.46,76.96,59.1,Technical Services,Executive & Support Division,4.62
+E0742,3.22,4.02,3.56,3.48,3.89,95.59,77.09,68.13,76.53,64.52,66.46,Safety & Compliance,Executive & Support Division,4.0
+E0743,3.73,3.98,3.44,4.8,3.95,69.88,70.18,46.22,55.16,64.4,100.0,People Operations,People & Culture Division,5.0
+E0744,3.27,3.91,3.9,3.18,2.76,80.03,80.53,54.76,77.99,83.04,93.96,Equipment Services,Operations Division,3.87
+E0745,3.7,3.92,3.45,4.01,3.23,94.19,52.69,75.16,83.04,84.67,100.0,People Operations,People & Culture Division,3.68
+E0746,2.93,2.88,3.63,3.91,3.28,52.27,65.94,39.17,77.16,91.13,71.81,Safety & Compliance,Executive & Support Division,4.27
+E0747,3.53,3.75,3.36,3.64,3.05,57.62,74.64,54.09,45.25,97.25,85.43,Design & Engineering,Commercial Division,3.35
+E0748,3.25,4.59,3.53,4.0,4.01,74.3,100.0,75.75,73.45,53.22,67.79,IT Services,Executive & Support Division,4.03
+E0749,2.75,4.12,3.72,4.04,3.53,60.85,52.31,39.6,79.9,77.1,87.8,Quality Assurance,Executive & Support Division,2.28
+E0750,3.55,4.54,2.73,3.88,3.69,77.53,60.73,74.63,74.12,77.54,94.63,Quality Assurance,Executive & Support Division,3.88
+E0751,3.17,3.77,3.38,3.46,4.13,59.19,63.31,43.16,66.67,57.19,93.87,Quality Assurance,Executive & Support Division,2.85
+E0752,3.66,3.04,3.18,3.84,3.66,67.02,46.29,74.17,71.47,59.7,82.84,Technical Services,Executive & Support Division,3.52
+E0753,3.01,4.25,3.14,3.9,2.67,75.84,45.27,75.32,66.59,48.77,81.89,Safety & Compliance,Executive & Support Division,3.47
+E0754,3.32,4.6,3.51,4.02,3.09,93.6,49.86,80.78,100.0,71.89,56.07,Field Operations,Operations Division,3.44
+E0755,3.45,4.26,3.5,3.13,2.97,70.38,89.44,71.56,83.51,53.49,86.13,Technical Services,Executive & Support Division,3.94
+E0756,2.88,2.81,3.75,3.53,2.97,79.96,60.21,40.83,57.23,97.77,81.17,People Operations,People & Culture Division,4.43
+E0757,3.26,3.81,4.03,3.48,2.86,67.0,92.58,76.94,76.06,75.78,81.54,Safety & Compliance,Executive & Support Division,2.9
+E0758,3.51,4.32,3.11,3.32,2.71,94.03,75.53,47.88,59.14,76.96,77.41,Safety & Compliance,Executive & Support Division,2.68
+E0759,3.11,3.29,3.33,3.53,3.12,63.16,73.33,14.23,96.34,71.92,87.52,Quality Assurance,Executive & Support Division,3.22
+E0760,3.15,3.76,3.64,3.48,2.28,79.06,56.02,58.42,63.6,97.08,79.23,Safety & Compliance,Executive & Support Division,4.77
+E0761,3.59,3.54,3.49,4.22,2.77,79.92,68.49,84.45,86.17,71.27,64.52,Quality Assurance,Executive & Support Division,2.94
+E0762,4.16,4.68,4.03,3.85,3.76,60.88,84.8,42.36,98.84,82.27,69.49,Design & Engineering,Commercial Division,3.16
+E0763,3.16,3.33,3.15,3.98,2.78,57.36,51.74,55.08,100.0,77.26,68.23,Technical Services,Executive & Support Division,3.91
+E0764,3.49,4.17,3.63,3.68,3.6,70.53,89.07,70.84,56.79,57.13,62.17,Technical Services,Executive & Support Division,3.48
+E0765,3.16,2.86,3.11,3.93,3.1,79.99,64.52,29.81,59.21,71.25,69.73,IT Services,Executive & Support Division,3.52
+E0766,3.8,3.78,3.8,3.92,2.87,98.75,64.29,44.28,99.66,74.46,83.98,Design & Engineering,Commercial Division,4.76
+E0767,3.19,4.66,3.89,4.03,3.49,58.82,64.4,16.57,63.61,77.17,100.0,Quality Assurance,Executive & Support Division,3.36
+E0768,3.42,3.21,3.5,4.03,2.81,73.21,72.34,21.25,80.23,84.12,82.54,People Operations,People & Culture Division,3.3
+E0769,3.7,4.54,3.51,3.6,2.42,75.12,79.99,76.07,72.98,75.84,64.82,Finance,Finance Division,3.54
+E0770,3.04,4.43,2.71,2.96,3.94,63.05,72.49,45.33,74.72,84.29,58.7,Technical Services,Executive & Support Division,2.5
+E0771,3.52,4.21,3.19,3.83,3.28,69.19,60.27,21.12,94.19,67.15,69.07,Design & Engineering,Commercial Division,3.06
+E0772,3.27,4.6,3.26,3.88,3.43,59.55,84.68,48.23,68.76,59.47,55.1,Design & Engineering,Commercial Division,4.13
+E0773,2.85,4.01,2.31,2.98,4.12,69.34,79.0,37.44,90.29,57.77,100.0,Supply Chain,Operations Division,3.99
+E0774,3.18,4.18,3.25,3.89,3.45,76.3,91.78,59.35,71.69,80.6,63.22,Technical Services,Executive & Support Division,4.88
+E0775,3.35,3.39,3.4,3.46,3.07,87.07,65.11,83.19,78.69,91.43,73.13,Field Operations,Operations Division,2.63
+E0776,3.19,3.63,3.75,3.65,2.19,70.42,75.05,54.66,88.43,63.77,81.16,IT Services,Executive & Support Division,3.82
+E0777,3.6,4.2,2.97,3.46,2.89,69.08,70.16,9.08,55.02,45.08,63.89,Supply Chain,Operations Division,3.36
+E0778,3.25,3.16,3.75,3.59,2.14,90.2,89.28,49.27,86.38,74.16,85.98,Commercial,Commercial Division,2.29
+E0779,3.41,4.18,3.46,3.98,2.82,50.12,86.06,21.96,84.58,61.93,100.0,Field Operations,Operations Division,3.35
+E0780,3.49,4.66,3.95,4.39,3.27,48.07,58.51,61.88,64.45,86.77,89.72,Commercial,Commercial Division,4.42
+E0781,3.96,3.62,3.97,3.97,3.14,73.73,67.99,61.98,100.0,74.66,90.77,Safety & Compliance,Executive & Support Division,3.54
+E0782,3.55,3.56,4.03,3.58,3.11,61.61,69.38,60.95,65.88,62.91,73.84,Commercial,Commercial Division,3.75
+E0783,3.13,4.18,3.62,2.38,2.73,85.98,48.12,64.91,83.3,79.78,76.55,IT Services,Executive & Support Division,3.97
+E0784,3.81,4.31,3.33,3.49,2.96,76.06,63.8,33.4,62.56,78.28,79.92,Equipment Services,Operations Division,3.71
+E0785,3.4,3.32,3.9,3.48,3.44,70.05,84.04,58.43,72.4,79.2,70.59,Commercial,Commercial Division,3.24
+E0786,3.43,3.82,3.41,3.5,2.46,98.22,77.83,56.46,76.5,60.33,100.0,Equipment Services,Operations Division,3.51
+E0787,3.0,4.18,3.34,3.15,2.96,93.8,70.25,33.15,67.08,100.0,66.35,IT Services,Executive & Support Division,4.5
+E0788,3.26,3.97,3.29,3.28,3.19,43.14,51.62,48.13,83.64,62.17,100.0,Safety & Compliance,Executive & Support Division,4.63
+E0789,3.42,4.2,3.45,4.12,2.86,81.88,75.13,74.47,49.0,79.22,100.0,Technical Services,Executive & Support Division,3.15
+E0790,2.9,4.08,3.65,3.98,2.87,88.51,64.15,43.97,95.46,95.48,84.62,Technical Services,Executive & Support Division,3.41
+E0791,3.25,4.14,3.83,3.61,3.7,62.6,58.46,47.26,100.0,100.0,71.56,IT Services,Executive & Support Division,4.36
+E0792,3.35,3.86,3.3,4.0,2.9,64.98,51.66,0.0,86.3,75.62,66.83,Equipment Services,Operations Division,1.95
+E0793,3.13,4.66,3.7,3.46,2.99,67.75,83.82,75.6,62.18,88.18,100.0,Warehouse Operations,Operations Division,4.47
+E0794,3.76,3.85,2.84,4.28,3.69,67.4,73.52,66.32,75.7,73.22,61.87,Commercial,Commercial Division,3.43
+E0795,3.83,4.14,3.34,3.36,3.72,100.0,65.94,30.61,76.86,69.91,77.99,Quality Assurance,Executive & Support Division,3.09
+E0796,2.96,3.78,3.85,3.49,3.05,88.19,59.97,34.29,99.26,77.59,75.44,IT Services,Executive & Support Division,3.79
+E0797,2.79,3.98,3.34,3.94,2.82,56.27,87.19,92.85,82.06,59.2,58.72,Quality Assurance,Executive & Support Division,3.66
+E0798,2.94,3.43,3.27,3.48,2.98,64.88,55.7,37.09,75.89,83.28,86.9,Technical Services,Executive & Support Division,3.61
+E0799,3.74,3.99,3.21,3.62,3.19,77.31,78.33,38.35,74.49,49.38,60.15,Warehouse Operations,Operations Division,3.63
+E0800,3.0,4.52,3.22,3.26,3.34,88.61,61.5,76.7,59.82,59.32,83.13,Supply Chain,Operations Division,3.78
+E0801,3.28,3.82,3.08,4.18,3.81,62.74,55.76,34.29,62.76,78.9,71.52,Commercial,Commercial Division,3.95
+E0802,3.75,3.69,2.71,3.53,2.92,66.13,71.51,72.81,81.58,92.63,74.86,Commercial,Commercial Division,3.58
+E0803,3.55,3.45,3.3,3.63,2.54,71.53,56.54,46.21,77.68,70.87,99.78,Commercial,Commercial Division,2.8
+E0804,3.63,3.33,3.14,3.09,3.73,54.74,62.56,54.62,44.83,49.82,87.33,Field Operations,Operations Division,3.8
+E0805,3.38,3.58,2.83,4.14,3.8,87.79,52.19,73.13,100.0,87.14,87.84,IT Services,Executive & Support Division,3.78
+E0806,4.0,3.64,3.58,2.97,3.2,82.29,40.45,73.38,87.22,47.3,48.73,People Operations,People & Culture Division,4.08
+E0807,3.22,4.1,3.1,4.49,3.44,76.62,76.09,64.41,82.05,46.95,93.06,Quality Assurance,Executive & Support Division,3.4
+E0808,3.0,4.01,4.07,3.71,3.34,76.76,57.6,28.48,69.59,74.28,81.33,Equipment Services,Operations Division,3.09
+E0809,3.39,3.21,2.76,2.58,3.29,76.9,68.66,75.39,59.44,73.0,64.34,Supply Chain,Operations Division,2.6
+E0810,4.18,4.58,3.49,3.83,3.83,72.0,43.54,56.23,65.83,67.05,68.92,Commercial,Commercial Division,3.52
+E0811,3.82,3.59,4.0,2.77,3.44,82.57,69.99,51.55,71.38,66.36,87.47,Supply Chain,Operations Division,4.04
+E0812,3.28,4.17,3.81,4.04,3.3,48.77,51.01,42.43,75.8,80.15,71.36,Technical Services,Executive & Support Division,3.17
+E0813,2.88,3.14,2.8,4.36,2.73,70.17,32.28,77.92,90.79,78.85,81.68,Technical Services,Executive & Support Division,4.51
+E0814,3.37,3.23,3.53,3.18,3.22,89.22,47.36,61.96,75.21,66.66,80.53,Field Operations,Operations Division,4.83
+E0815,3.5,4.42,3.56,3.28,3.56,77.72,57.04,67.26,100.0,54.63,81.96,IT Services,Executive & Support Division,4.01
+E0816,3.53,4.17,3.71,3.67,2.99,82.49,74.5,21.83,74.21,82.15,72.22,Safety & Compliance,Executive & Support Division,3.48
+E0817,3.32,3.98,3.41,3.96,2.99,51.51,58.28,31.41,44.82,75.73,75.13,Warehouse Operations,Operations Division,2.49
+E0818,3.05,4.51,3.59,4.0,2.95,70.18,58.82,62.88,77.91,49.57,66.09,Equipment Services,Operations Division,3.28
+E0819,3.2,4.32,3.99,3.21,3.23,67.04,38.57,43.64,84.25,100.0,72.35,Quality Assurance,Executive & Support Division,3.79
+E0820,3.47,3.5,3.33,3.34,2.1,62.89,58.96,36.54,96.41,68.23,80.17,Commercial,Commercial Division,3.17
+E0821,3.76,3.32,3.7,2.62,3.21,50.64,74.31,51.91,85.78,43.49,80.74,Technical Services,Executive & Support Division,3.05
+E0822,3.65,4.32,2.92,3.23,3.49,65.07,74.75,51.9,58.46,62.5,100.0,Finance,Finance Division,4.67
+E0823,3.28,3.22,3.29,3.45,2.61,69.1,81.18,68.92,73.11,56.96,74.58,Quality Assurance,Executive & Support Division,3.62
+E0824,3.29,4.46,3.26,3.83,3.87,90.77,66.78,81.64,77.13,34.62,83.11,IT Services,Executive & Support Division,4.2
+E0825,3.7,4.06,4.03,3.98,3.15,56.56,58.06,84.31,52.96,82.84,61.25,Technical Services,Executive & Support Division,4.41
+E0826,3.67,3.78,4.11,3.91,4.44,72.34,42.33,53.24,81.43,61.34,79.17,Commercial,Commercial Division,3.5
+E0827,3.5,4.15,3.04,3.45,4.45,70.32,78.41,100.0,65.19,60.72,95.77,People Operations,People & Culture Division,3.11
+E0828,2.69,3.94,3.51,3.23,2.87,77.88,54.22,58.72,71.25,77.81,80.6,Technical Services,Executive & Support Division,4.05
+E0829,2.94,3.92,3.33,3.37,3.39,74.89,50.43,37.29,63.5,75.64,57.8,Design & Engineering,Commercial Division,3.96
+E0830,3.56,4.71,3.6,3.44,3.99,68.48,54.68,63.49,94.22,69.5,94.75,Supply Chain,Operations Division,2.53
+E0831,3.68,4.18,3.21,4.1,2.97,49.58,55.13,46.17,76.71,88.84,89.7,People Operations,People & Culture Division,3.46
+E0832,3.49,4.15,3.53,3.94,3.32,64.61,64.88,77.89,56.11,81.58,89.06,Safety & Compliance,Executive & Support Division,4.43
+E0833,3.38,3.49,3.46,4.34,3.41,84.23,88.05,46.13,63.16,55.46,82.83,Quality Assurance,Executive & Support Division,2.47
+E0834,3.35,4.38,3.76,4.04,2.67,81.89,73.92,48.48,60.51,75.19,62.32,Design & Engineering,Commercial Division,4.06
+E0835,3.46,4.29,2.8,3.26,3.3,74.73,38.77,39.07,63.41,62.76,86.15,Field Operations,Operations Division,3.19
+E0836,2.93,3.67,3.9,3.17,3.27,57.57,67.59,22.37,59.92,73.26,72.92,Supply Chain,Operations Division,2.7
+E0837,3.15,3.7,3.3,3.86,3.73,100.0,72.6,46.75,66.96,79.69,62.45,Technical Services,Executive & Support Division,3.25
+E0838,3.52,4.5,2.98,3.53,3.87,89.52,64.68,70.93,83.21,77.14,64.45,Technical Services,Executive & Support Division,2.94
+E0839,3.26,3.92,3.65,4.4,3.69,46.98,82.11,48.04,93.33,78.27,47.55,Finance,Finance Division,3.02
+E0840,3.3,3.02,3.3,3.74,3.08,82.62,95.78,77.93,64.8,52.27,71.45,Warehouse Operations,Operations Division,3.62
+E0841,3.34,4.64,4.05,4.04,2.68,92.96,70.39,22.15,100.0,67.15,75.35,Quality Assurance,Executive & Support Division,3.92
+E0842,3.45,3.69,3.07,3.8,3.29,72.93,60.5,62.47,100.0,71.34,87.97,Design & Engineering,Commercial Division,3.83
+E0843,3.19,4.24,3.4,3.25,3.16,87.02,69.86,58.17,77.47,58.96,81.17,IT Services,Executive & Support Division,3.13
+E0844,3.04,4.42,3.8,3.4,3.94,79.8,83.04,85.63,59.98,55.62,82.05,Quality Assurance,Executive & Support Division,4.24
+E0845,3.44,4.26,3.27,3.77,3.23,78.87,67.44,82.11,77.66,48.41,75.32,Quality Assurance,Executive & Support Division,3.66
+E0846,2.85,3.83,3.23,2.68,4.04,98.15,62.6,75.84,78.45,59.47,81.54,Technical Services,Executive & Support Division,3.83
+E0847,3.3,3.61,4.09,3.06,3.74,67.48,63.93,37.47,100.0,77.81,93.08,Technical Services,Executive & Support Division,4.82
+E0848,2.94,4.61,3.47,4.27,3.75,65.33,96.62,38.03,99.83,69.51,55.33,Commercial,Commercial Division,4.56
+E0849,3.66,3.26,3.41,3.83,3.33,79.56,58.8,48.0,81.66,63.26,82.22,Safety & Compliance,Executive & Support Division,3.6
+E0850,4.04,4.29,3.24,2.79,2.46,76.85,70.52,69.27,70.33,57.44,95.48,Field Operations,Operations Division,3.74
+E0851,3.01,4.23,3.24,4.12,3.47,70.61,89.96,47.58,78.89,78.15,93.11,Safety & Compliance,Executive & Support Division,3.16
+E0852,3.62,4.01,3.31,2.41,3.6,93.87,65.89,69.55,100.0,60.4,68.17,Quality Assurance,Executive & Support Division,3.41
+E0853,3.21,3.58,3.37,4.31,3.1,68.23,65.5,47.38,65.97,59.88,77.02,Supply Chain,Operations Division,2.47
+E0854,3.17,4.51,3.32,4.38,3.49,90.47,69.92,30.21,72.04,84.27,88.48,Design & Engineering,Commercial Division,2.92
+E0855,3.22,4.19,3.21,4.37,3.89,80.69,87.1,34.21,65.51,75.68,66.91,Supply Chain,Operations Division,3.01
+E0856,3.46,3.83,3.81,3.99,3.0,77.42,78.1,83.37,85.97,73.88,91.54,Technical Services,Executive & Support Division,2.74
+E0857,3.53,4.12,2.95,3.95,2.81,68.29,69.05,67.3,74.64,78.36,88.63,People Operations,People & Culture Division,3.3
+E0858,3.15,3.42,2.64,3.25,3.52,60.76,69.6,22.0,58.05,66.01,98.77,Supply Chain,Operations Division,2.89
+E0859,3.17,3.24,3.56,3.92,3.69,61.98,75.02,39.74,49.23,92.24,60.08,Quality Assurance,Executive & Support Division,3.61
+E0860,3.67,3.98,3.45,3.33,2.98,91.47,46.08,68.61,82.55,68.69,99.58,People Operations,People & Culture Division,4.39
+E0861,3.75,3.89,3.06,3.47,4.56,69.07,39.8,73.48,67.43,88.46,75.6,Commercial,Commercial Division,3.88
+E0862,3.04,4.31,2.97,2.99,2.63,69.24,42.77,76.04,100.0,51.3,89.51,Quality Assurance,Executive & Support Division,3.59
+E0863,3.26,4.24,3.72,4.32,2.94,54.49,62.97,57.72,78.93,80.24,67.88,Design & Engineering,Commercial Division,3.52
+E0864,3.65,3.47,3.69,3.49,3.31,60.12,72.19,67.5,59.29,35.48,92.09,Technical Services,Executive & Support Division,4.63
+E0865,3.96,4.21,3.22,2.76,3.58,67.87,55.3,72.81,82.32,69.51,94.89,Supply Chain,Operations Division,4.04
+E0866,3.42,4.0,3.4,3.29,2.55,57.68,72.78,66.01,54.02,52.66,67.23,Technical Services,Executive & Support Division,4.7
+E0867,3.49,3.65,3.59,3.28,4.07,85.47,75.85,80.79,75.34,59.4,68.4,Design & Engineering,Commercial Division,4.19
+E0868,3.09,4.23,3.0,3.63,3.23,53.06,72.31,66.77,84.99,76.01,91.34,Field Operations,Operations Division,3.5
+E0869,3.65,4.08,3.52,3.75,3.42,87.09,81.68,75.45,90.41,71.05,77.22,Quality Assurance,Executive & Support Division,2.96
+E0870,3.5,3.96,3.86,3.11,3.73,59.95,63.85,58.53,79.58,75.97,64.37,Safety & Compliance,Executive & Support Division,4.57
+E0871,3.25,3.54,3.55,4.19,3.54,43.96,43.56,29.82,71.14,73.42,71.99,Technical Services,Executive & Support Division,5.0
+E0872,3.36,3.78,3.71,3.96,3.96,72.27,91.73,55.13,70.77,64.44,81.96,Safety & Compliance,Executive & Support Division,3.05
+E0873,4.0,4.79,3.82,3.33,3.76,67.69,70.86,68.71,71.74,74.8,100.0,IT Services,Executive & Support Division,2.91
+E0874,3.8,3.8,3.54,3.51,2.45,79.96,79.73,55.92,82.82,80.45,77.27,Safety & Compliance,Executive & Support Division,3.55
+E0875,3.8,3.53,3.28,3.84,2.67,57.98,71.56,93.01,94.3,83.45,74.94,Safety & Compliance,Executive & Support Division,3.87
+E0876,3.09,3.78,3.57,3.85,2.99,75.98,63.27,65.83,80.48,55.98,50.94,Finance,Finance Division,3.47
+E0877,3.0,3.91,3.6,3.5,3.25,88.89,71.49,70.61,97.61,90.62,80.43,IT Services,Executive & Support Division,3.6
+E0878,2.9,4.76,3.3,3.52,3.54,88.17,81.43,57.83,86.84,65.82,100.0,IT Services,Executive & Support Division,4.47
+E0879,3.54,3.37,3.43,2.78,2.64,81.17,40.74,79.54,84.93,74.37,81.26,Supply Chain,Operations Division,3.42
+E0880,3.01,3.67,3.21,3.72,3.8,95.09,54.96,89.55,69.44,70.75,73.19,IT Services,Executive & Support Division,3.61
+E0881,3.05,4.63,3.85,2.82,3.82,40.26,83.59,99.09,91.78,90.53,85.06,Supply Chain,Operations Division,3.88
+E0882,3.7,4.23,3.08,4.05,3.66,56.3,46.87,62.51,62.58,66.7,66.0,Quality Assurance,Executive & Support Division,3.1
+E0883,2.82,3.7,3.21,3.49,2.62,65.82,61.33,58.01,90.21,69.95,66.19,Safety & Compliance,Executive & Support Division,2.95
+E0884,3.51,3.23,3.25,3.38,3.26,58.39,42.1,44.6,61.87,77.12,68.15,Warehouse Operations,Operations Division,3.58
+E0885,3.0,3.57,3.72,4.43,2.73,91.21,48.8,47.17,85.82,68.92,67.56,Warehouse Operations,Operations Division,4.43
+E0886,3.39,4.65,3.95,2.72,2.66,86.54,71.65,31.41,90.64,68.26,77.98,Quality Assurance,Executive & Support Division,3.42
+E0887,4.04,4.71,3.18,3.19,3.72,65.61,62.12,63.46,72.07,68.69,77.5,Design & Engineering,Commercial Division,2.98
+E0888,3.46,3.79,3.46,3.94,3.04,74.82,49.81,38.21,71.39,74.94,73.67,Technical Services,Executive & Support Division,5.0
+E0889,3.28,4.36,3.85,3.86,4.08,65.61,98.36,65.99,94.51,100.0,85.2,Field Operations,Operations Division,4.15
+E0890,3.29,4.03,3.23,4.03,3.45,98.08,48.57,56.29,62.62,79.31,96.84,Warehouse Operations,Operations Division,3.16
+E0891,3.29,4.38,2.97,3.84,3.06,48.68,57.41,9.94,82.52,64.26,79.2,Technical Services,Executive & Support Division,4.01
+E0892,3.2,3.74,3.44,3.94,3.53,70.52,56.08,85.27,72.84,65.94,79.53,Quality Assurance,Executive & Support Division,3.38
+E0893,2.87,4.23,3.25,3.24,2.73,79.82,72.46,37.14,100.0,69.94,48.45,Warehouse Operations,Operations Division,3.46
+E0894,3.1,3.83,3.79,2.92,2.98,61.5,87.61,74.63,81.61,64.78,60.03,IT Services,Executive & Support Division,4.53
+E0895,3.75,4.06,3.66,2.88,3.03,72.18,77.28,61.61,73.92,24.66,74.66,Supply Chain,Operations Division,3.51
+E0896,3.72,3.86,3.98,3.64,3.41,96.25,68.25,58.69,69.73,67.83,63.27,Safety & Compliance,Executive & Support Division,3.95
+E0897,3.54,4.47,3.39,3.6,2.67,54.8,54.12,48.81,83.95,71.33,56.5,Quality Assurance,Executive & Support Division,2.61
+E0898,3.34,4.89,2.97,4.28,3.25,59.46,82.54,91.61,92.34,82.94,61.47,People Operations,People & Culture Division,4.08
+E0899,3.54,3.36,3.44,3.29,3.73,55.26,47.71,66.73,76.03,58.65,75.33,Supply Chain,Operations Division,3.07
+E0900,3.43,4.27,3.85,3.17,3.53,66.19,40.96,60.98,82.36,97.82,82.48,Safety & Compliance,Executive & Support Division,3.45
+E0901,3.53,4.08,2.82,4.18,3.41,100.0,44.85,55.27,76.84,51.76,93.54,Equipment Services,Operations Division,4.05
+E0902,3.81,3.59,3.46,3.16,2.95,78.77,36.57,37.84,57.24,63.0,79.55,Safety & Compliance,Executive & Support Division,3.28
+E0903,3.72,4.64,4.06,3.7,3.14,53.91,50.39,45.31,64.05,80.1,93.33,Technical Services,Executive & Support Division,3.56
+E0904,3.26,3.27,3.1,3.16,3.33,57.62,81.06,35.59,63.49,86.78,66.76,Safety & Compliance,Executive & Support Division,3.97
+E0905,3.1,3.22,3.76,3.26,3.55,96.2,78.21,53.14,76.38,69.39,95.33,Quality Assurance,Executive & Support Division,3.11
+E0906,2.76,4.3,2.86,4.33,3.98,77.13,73.03,91.29,81.16,75.16,73.33,Technical Services,Executive & Support Division,3.55
+E0907,3.14,3.55,3.57,2.82,3.02,75.4,67.39,94.21,81.01,79.88,65.77,IT Services,Executive & Support Division,4.15
+E0908,3.33,3.77,3.58,3.63,2.61,67.48,77.47,49.0,54.36,77.97,69.43,Safety & Compliance,Executive & Support Division,3.61
+E0909,3.32,4.38,3.46,4.0,2.07,64.47,66.2,38.31,66.85,81.05,78.18,Quality Assurance,Executive & Support Division,2.47
+E0910,3.35,3.88,3.68,2.99,3.79,83.24,83.46,40.64,81.78,59.08,66.68,Commercial,Commercial Division,4.55
+E0911,3.48,3.23,3.53,3.35,3.69,68.17,97.31,85.78,68.32,48.12,69.73,IT Services,Executive & Support Division,4.22
+E0912,3.65,3.65,3.88,3.43,3.22,74.15,55.11,57.68,74.05,87.04,100.0,Field Operations,Operations Division,3.97
+E0913,2.92,3.93,3.27,3.16,3.47,77.44,49.84,37.32,86.51,68.47,77.47,Supply Chain,Operations Division,4.14
+E0914,3.07,3.0,3.9,3.24,3.92,70.81,65.92,53.57,70.42,72.85,72.76,Supply Chain,Operations Division,4.25
+E0915,3.07,3.42,2.84,4.35,3.73,91.38,45.29,75.62,87.01,40.86,87.94,Quality Assurance,Executive & Support Division,4.08
+E0916,3.56,4.51,4.27,3.28,2.62,88.15,82.58,64.12,77.69,64.74,77.58,Finance,Finance Division,3.8
+E0917,3.89,3.94,3.85,3.7,2.82,96.47,59.24,37.07,88.32,76.0,90.55,Quality Assurance,Executive & Support Division,3.78
+E0918,3.42,4.65,3.91,3.5,2.26,100.0,62.13,51.58,84.44,63.62,87.73,Field Operations,Operations Division,3.9
+E0919,3.49,4.05,3.53,3.86,3.34,58.57,68.85,59.58,82.83,54.76,77.75,Quality Assurance,Executive & Support Division,2.63
+E0920,3.21,4.2,3.37,3.55,3.47,75.43,67.43,31.09,92.09,37.82,71.08,Finance,Finance Division,4.68
+E0921,3.08,2.97,3.34,2.89,2.74,62.52,99.48,50.84,80.07,85.23,63.71,Quality Assurance,Executive & Support Division,3.05
+E0922,3.17,4.18,3.99,3.67,3.03,50.04,64.72,95.66,80.34,76.28,60.13,People Operations,People & Culture Division,3.3
+E0923,3.82,3.6,3.8,3.77,3.35,58.03,17.19,55.7,86.2,67.47,70.09,Quality Assurance,Executive & Support Division,3.02
+E0924,3.35,3.53,3.69,2.96,3.62,69.65,69.89,91.27,73.78,60.91,65.39,Technical Services,Executive & Support Division,3.14
+E0925,3.3,4.56,3.08,3.44,3.39,65.9,73.86,71.83,48.54,97.53,66.76,Technical Services,Executive & Support Division,2.67
+E0926,3.54,4.62,3.54,4.23,2.97,69.38,72.64,58.01,93.43,54.89,77.32,Technical Services,Executive & Support Division,4.06
+E0927,3.39,4.08,3.51,4.28,3.33,76.9,55.75,54.68,63.79,66.11,77.75,Commercial,Commercial Division,3.42
+E0928,3.68,4.02,3.42,3.64,3.94,66.49,68.33,31.48,71.8,81.58,91.92,Technical Services,Executive & Support Division,3.17
+E0929,3.36,4.47,3.29,3.42,3.21,76.94,50.9,62.61,72.62,56.68,63.91,Commercial,Commercial Division,3.38
+E0930,3.45,3.59,3.0,4.32,3.2,70.72,92.51,43.83,72.5,79.09,74.41,Technical Services,Executive & Support Division,4.03
+E0931,3.51,5.0,4.48,2.84,4.4,87.46,62.13,67.45,76.04,50.37,84.26,Field Operations,Operations Division,3.0
+E0932,3.19,3.45,3.65,2.66,3.59,79.99,75.45,35.81,82.82,84.31,85.7,IT Services,Executive & Support Division,3.67
+E0933,3.25,3.92,3.98,3.72,3.09,61.94,59.1,41.19,91.53,74.55,61.02,Design & Engineering,Commercial Division,3.65
+E0934,3.55,3.44,2.77,2.58,3.17,73.97,87.72,43.05,65.07,69.74,62.65,Commercial,Commercial Division,3.62
+E0935,3.4,3.91,4.38,3.76,3.73,74.97,68.1,73.11,96.41,65.77,66.77,Supply Chain,Operations Division,3.62
+E0936,3.2,5.0,2.95,3.87,4.39,95.74,77.58,60.94,89.04,58.24,74.98,Safety & Compliance,Executive & Support Division,3.92
+E0937,3.36,4.29,3.66,3.93,2.5,58.86,74.95,56.91,100.0,77.35,49.93,Quality Assurance,Executive & Support Division,3.04
+E0938,4.1,4.26,3.45,3.28,3.66,87.41,75.57,63.93,81.81,54.42,81.57,Quality Assurance,Executive & Support Division,3.51
+E0939,3.31,4.84,3.73,4.5,3.26,87.58,74.45,55.33,89.11,52.85,62.35,Technical Services,Executive & Support Division,3.23
+E0940,3.14,3.36,3.53,3.49,2.91,70.34,70.48,27.69,75.22,63.74,68.98,Quality Assurance,Executive & Support Division,2.67
+E0941,3.48,4.05,3.89,2.78,4.07,68.87,77.64,48.39,42.71,85.71,83.0,IT Services,Executive & Support Division,3.91
+E0942,3.84,3.59,3.06,4.02,2.38,65.08,80.81,43.43,97.64,94.91,88.0,Quality Assurance,Executive & Support Division,3.04
+E0943,3.31,2.84,3.43,3.7,2.9,49.47,42.02,92.84,70.56,79.78,73.53,Technical Services,Executive & Support Division,4.2
+E0944,3.29,4.46,3.51,3.06,4.01,83.48,79.79,55.48,64.48,97.1,93.1,Field Operations,Operations Division,3.47
+E0945,3.24,5.0,2.86,4.0,3.04,34.41,55.36,46.01,85.98,68.41,64.1,Supply Chain,Operations Division,4.74
+E0946,2.98,4.23,2.83,4.16,3.63,64.47,79.35,79.68,61.12,82.98,64.5,People Operations,People & Culture Division,2.74
+E0947,3.33,3.32,3.16,3.26,3.61,56.27,84.37,66.01,75.26,94.11,69.98,Safety & Compliance,Executive & Support Division,2.54
+E0948,3.67,4.7,3.75,3.57,2.74,66.32,60.11,40.75,66.56,78.62,81.46,Commercial,Commercial Division,3.59
+E0949,3.48,3.52,3.52,2.88,2.83,71.63,67.33,36.55,55.75,64.9,74.27,Finance,Finance Division,3.49
+E0950,3.39,4.38,4.16,3.47,2.93,73.83,69.01,87.24,91.51,89.95,77.06,Safety & Compliance,Executive & Support Division,4.94
+E0951,2.87,4.31,4.2,3.54,3.47,77.37,75.77,5.4,91.0,61.35,81.62,Safety & Compliance,Executive & Support Division,3.34
+E0952,3.26,3.95,3.23,3.94,3.4,77.7,76.61,89.97,80.47,90.08,72.44,Technical Services,Executive & Support Division,4.17
+E0953,3.03,4.51,3.53,3.74,3.42,65.61,77.12,78.49,56.72,53.08,100.0,Quality Assurance,Executive & Support Division,3.85
+E0954,2.58,3.98,3.2,3.62,3.64,61.48,60.24,43.37,78.27,98.92,78.19,Supply Chain,Operations Division,2.66
+E0955,3.18,4.23,3.57,3.63,3.13,78.0,58.86,32.83,76.77,58.44,76.4,Quality Assurance,Executive & Support Division,3.28
+E0956,3.53,5.0,3.36,3.21,2.3,97.64,51.83,54.72,84.02,66.29,100.0,Technical Services,Executive & Support Division,4.25
+E0957,3.08,3.46,2.95,4.21,2.95,70.04,66.51,66.31,100.0,96.32,52.36,IT Services,Executive & Support Division,4.25
+E0958,3.11,3.78,3.18,3.98,3.31,47.5,79.23,39.85,78.65,55.29,76.72,Finance,Finance Division,4.23
+E0959,3.86,3.64,3.69,2.67,2.62,33.2,74.16,65.27,70.13,72.95,71.76,Commercial,Commercial Division,3.86
+E0960,3.55,3.92,3.3,3.86,3.48,48.08,77.88,55.96,62.87,78.28,59.11,IT Services,Executive & Support Division,3.49
+E0961,3.72,3.76,3.07,3.66,3.24,93.93,65.94,54.37,83.95,81.64,73.48,Safety & Compliance,Executive & Support Division,3.49
+E0962,3.74,4.72,4.08,2.95,3.34,91.3,60.73,43.85,85.43,65.98,91.91,Supply Chain,Operations Division,3.37
+E0963,3.55,3.48,4.17,4.2,3.54,54.85,56.0,32.61,83.9,61.01,86.7,Field Operations,Operations Division,3.74
+E0964,3.34,4.37,3.38,4.27,3.28,58.7,74.84,38.12,96.58,72.06,75.54,Technical Services,Executive & Support Division,3.27
+E0965,3.49,4.34,3.86,3.07,3.95,54.23,44.28,52.38,63.28,61.89,81.63,Quality Assurance,Executive & Support Division,3.75
+E0966,3.78,4.27,3.85,2.62,4.36,73.64,42.01,46.67,83.64,68.96,92.55,Technical Services,Executive & Support Division,4.05
+E0967,3.43,3.53,3.6,4.44,3.39,80.0,60.19,17.52,80.69,68.48,91.41,Warehouse Operations,Operations Division,4.37
+E0968,3.4,4.39,2.82,3.4,3.58,88.75,76.13,83.03,56.35,66.79,74.75,Safety & Compliance,Executive & Support Division,4.59
+E0969,3.41,3.9,3.43,3.8,2.29,93.59,56.93,71.24,82.51,95.34,83.84,Field Operations,Operations Division,3.33
+E0970,3.62,4.59,3.74,2.96,3.4,92.73,65.39,30.39,97.15,92.5,75.72,Technical Services,Executive & Support Division,4.31
+E0971,3.21,4.29,3.4,4.12,3.37,84.39,75.7,72.58,95.78,66.75,78.55,IT Services,Executive & Support Division,3.83
+E0972,3.84,4.36,4.08,4.07,3.67,95.34,38.31,55.23,77.61,84.96,89.18,Field Operations,Operations Division,2.96
+E0973,3.63,3.79,3.45,3.43,2.98,67.57,51.17,51.82,95.75,78.45,82.01,Technical Services,Executive & Support Division,4.67
+E0974,3.16,4.07,3.48,4.17,3.01,58.16,36.71,26.0,89.18,75.32,47.02,Commercial,Commercial Division,3.14
+E0975,3.87,4.54,3.18,3.41,3.61,65.38,55.86,41.87,74.58,73.01,72.64,IT Services,Executive & Support Division,3.48
+E0976,2.86,3.98,3.43,3.35,2.96,68.51,47.05,49.49,61.35,93.77,68.3,IT Services,Executive & Support Division,3.28
+E0977,2.68,3.44,3.52,3.61,3.05,83.55,74.4,39.4,43.19,38.47,80.08,Warehouse Operations,Operations Division,3.31
+E0978,3.53,5.0,3.47,3.65,3.54,62.51,81.45,67.76,77.25,70.62,74.7,Safety & Compliance,Executive & Support Division,3.92
+E0979,3.13,3.5,3.74,3.91,3.63,87.86,54.38,30.36,72.34,81.95,80.43,Quality Assurance,Executive & Support Division,3.94
+E0980,3.17,3.95,4.05,3.64,3.27,47.62,100.0,49.97,98.14,84.93,75.92,Technical Services,Executive & Support Division,2.74
+E0981,3.5,3.4,3.94,3.46,3.47,67.05,51.67,50.4,98.9,71.77,74.29,Technical Services,Executive & Support Division,3.71
+E0982,3.67,3.02,3.99,3.47,2.41,70.77,64.66,22.67,63.6,75.14,93.05,Safety & Compliance,Executive & Support Division,3.82
+E0983,4.0,3.55,3.47,4.42,3.12,97.97,89.69,100.0,61.9,67.97,92.19,Quality Assurance,Executive & Support Division,3.94
+E0984,3.49,4.29,2.77,3.68,2.28,65.2,78.74,54.35,100.0,81.66,99.35,Quality Assurance,Executive & Support Division,3.09
+E0985,3.14,4.74,3.05,3.5,3.05,79.85,89.07,68.09,73.98,58.1,40.53,Commercial,Commercial Division,3.52
+E0986,3.52,4.96,3.18,3.01,2.91,86.85,59.48,67.52,75.51,69.25,70.13,Supply Chain,Operations Division,3.96
+E0987,3.26,4.26,3.5,3.07,2.7,76.16,48.25,42.39,73.75,64.45,77.01,People Operations,People & Culture Division,3.27
+E0988,3.19,4.85,2.94,4.1,3.17,57.1,45.7,61.58,59.73,78.55,82.33,Field Operations,Operations Division,3.74
+E0989,3.67,3.26,3.67,4.17,3.43,47.24,84.51,59.48,85.69,56.27,64.14,Quality Assurance,Executive & Support Division,3.41
+E0990,3.72,3.57,3.38,3.55,3.11,77.52,80.52,31.71,84.8,58.83,72.79,Warehouse Operations,Operations Division,3.39
+E0991,2.8,4.92,3.71,3.75,2.98,92.35,61.12,60.51,54.85,76.88,99.58,Quality Assurance,Executive & Support Division,3.68
+E0992,3.65,4.43,4.02,3.75,2.37,80.66,72.02,75.19,90.37,99.68,82.14,Warehouse Operations,Operations Division,4.65
+E0993,3.39,3.8,3.07,3.39,2.38,84.54,76.18,69.95,72.07,52.9,73.96,Field Operations,Operations Division,3.17
+E0994,3.5,3.74,3.62,3.9,2.75,64.57,66.63,26.15,59.46,89.32,64.14,Supply Chain,Operations Division,3.19
+E0995,3.06,4.25,2.93,3.89,3.0,67.69,100.0,71.73,93.37,82.34,71.26,Field Operations,Operations Division,4.31
+E0996,3.03,4.35,3.34,4.47,3.61,74.45,69.72,95.92,80.26,87.27,67.09,Field Operations,Operations Division,4.11
+E0997,3.2,4.75,3.57,3.66,3.3,69.46,60.37,78.62,68.89,88.85,72.02,Technical Services,Executive & Support Division,3.56
+E0998,3.5,4.0,3.43,3.83,3.3,51.26,82.06,44.72,87.13,94.17,74.66,Safety & Compliance,Executive & Support Division,2.11
+E0999,3.29,4.22,3.0,4.3,3.11,84.84,39.07,14.75,84.26,46.8,100.0,Supply Chain,Operations Division,2.89
+E1000,3.23,3.99,3.55,3.56,3.33,70.94,75.81,54.45,62.49,86.29,84.94,Supply Chain,Operations Division,3.73
+E1001,3.61,4.45,3.48,4.14,2.26,61.79,42.24,23.67,59.56,57.17,77.83,Supply Chain,Operations Division,3.71
+E1002,3.11,4.42,3.23,3.12,3.69,62.06,59.92,58.4,72.26,45.67,85.45,Quality Assurance,Executive & Support Division,3.4
+E1003,2.78,3.72,3.51,3.98,3.39,75.94,48.92,31.24,98.31,91.23,90.52,Technical Services,Executive & Support Division,3.37
+E1004,3.47,4.46,3.71,3.76,2.61,51.52,82.46,60.93,87.23,82.9,84.54,Supply Chain,Operations Division,1.96
+E1005,2.99,3.0,4.11,4.24,2.49,74.93,59.87,52.86,98.65,76.92,81.8,IT Services,Executive & Support Division,3.26
+E1006,3.39,4.06,3.4,2.94,2.49,70.09,52.2,84.29,90.84,56.37,100.0,Field Operations,Operations Division,3.38
+E1007,3.65,3.73,3.56,3.58,3.59,42.64,70.54,61.31,79.26,76.04,75.98,IT Services,Executive & Support Division,4.45
+E1008,3.08,3.2,2.72,3.72,2.91,93.08,99.15,63.04,76.5,79.3,87.27,Design & Engineering,Commercial Division,3.16
+E1009,3.16,3.48,3.44,4.48,3.28,58.57,51.02,70.62,65.64,54.41,79.88,Quality Assurance,Executive & Support Division,2.82
+E1010,2.93,3.44,3.46,3.78,2.31,80.8,79.98,58.13,98.69,86.2,91.34,Commercial,Commercial Division,3.95
+E1011,3.31,3.79,3.85,3.7,3.35,67.18,84.66,58.06,87.48,61.29,92.56,Technical Services,Executive & Support Division,4.44
+E1012,3.1,4.08,3.45,2.87,3.14,64.61,94.31,37.05,76.2,71.73,66.74,IT Services,Executive & Support Division,3.25
+E1013,2.79,3.65,3.78,4.16,2.94,80.35,70.09,36.1,100.0,64.09,76.67,Safety & Compliance,Executive & Support Division,3.97
+E1014,3.25,4.16,3.03,3.33,3.0,60.0,44.03,62.64,63.53,81.21,77.67,People Operations,People & Culture Division,3.09
+E1015,3.61,4.56,3.8,3.53,3.4,81.83,68.51,42.7,59.45,46.56,81.19,Supply Chain,Operations Division,3.92
+E1016,2.95,3.59,4.11,4.18,3.5,86.83,68.51,76.66,87.06,54.61,89.36,IT Services,Executive & Support Division,3.55
+E1017,3.39,3.4,3.45,3.52,2.78,51.33,70.71,29.96,75.7,50.07,59.59,Quality Assurance,Executive & Support Division,3.52
+E1018,3.12,5.0,3.27,4.21,2.18,69.62,93.22,55.36,68.04,100.0,65.19,Technical Services,Executive & Support Division,4.74
+E1019,2.78,4.04,3.92,3.75,4.26,79.75,47.17,42.26,69.41,79.19,72.69,Technical Services,Executive & Support Division,3.91
+E1020,3.72,3.74,3.48,4.14,2.72,44.05,64.44,72.46,85.74,63.88,87.31,Technical Services,Executive & Support Division,4.69
+E1021,3.45,3.69,4.01,3.6,3.15,59.53,79.9,52.67,81.6,56.59,90.11,Design & Engineering,Commercial Division,2.46
+E1022,3.36,4.14,3.95,4.71,3.39,77.09,50.12,35.5,61.45,69.33,85.69,Field Operations,Operations Division,3.72
+E1023,3.1,4.78,3.37,2.98,3.32,48.4,57.54,73.49,89.44,85.93,78.31,Design & Engineering,Commercial Division,3.41
+E1024,2.78,4.48,3.74,3.86,3.53,78.17,54.07,54.89,61.62,65.12,69.86,Equipment Services,Operations Division,3.49
+E1025,3.58,4.2,3.21,3.48,3.86,66.14,63.71,23.52,91.65,68.27,78.05,Technical Services,Executive & Support Division,4.19
+E1026,3.11,3.92,2.54,4.1,3.23,88.6,73.56,34.93,36.04,85.65,50.02,People Operations,People & Culture Division,3.41
+E1027,3.85,3.58,3.18,3.97,3.05,65.03,56.49,40.71,69.65,75.87,88.67,Supply Chain,Operations Division,3.35
+E1028,3.11,3.48,3.17,3.52,3.97,66.97,74.56,55.17,95.37,67.24,69.84,People Operations,People & Culture Division,4.05
+E1029,3.22,4.27,3.01,3.67,4.43,61.9,62.41,41.63,93.23,89.33,81.3,IT Services,Executive & Support Division,3.69
+E1030,3.28,3.85,2.69,4.18,3.57,73.04,59.29,32.94,82.79,52.13,88.35,Warehouse Operations,Operations Division,3.16
+E1031,3.25,4.19,3.48,3.94,3.31,41.87,62.33,63.85,100.0,74.42,65.39,Safety & Compliance,Executive & Support Division,3.95
+E1032,3.44,4.48,3.76,3.54,2.89,70.34,84.87,60.78,86.13,66.48,55.23,People Operations,People & Culture Division,2.96
+E1033,3.3,4.66,3.91,3.77,3.78,37.82,81.6,15.88,76.82,35.61,87.09,Quality Assurance,Executive & Support Division,3.17
+E1034,3.36,3.79,3.44,3.51,2.89,44.05,84.74,40.77,85.27,71.03,61.7,Commercial,Commercial Division,3.93
+E1035,3.15,3.28,3.04,4.6,4.03,77.43,96.55,57.97,74.46,52.39,46.12,Warehouse Operations,Operations Division,4.22
+E1036,3.76,4.76,3.78,4.17,3.68,67.39,50.99,65.29,85.34,76.52,97.05,Field Operations,Operations Division,2.94
+E1037,3.35,3.42,3.42,2.87,3.36,62.31,83.24,25.86,37.56,84.15,100.0,Quality Assurance,Executive & Support Division,2.91
+E1038,3.23,4.0,3.25,3.52,3.79,70.12,64.81,39.87,59.8,100.0,78.35,IT Services,Executive & Support Division,3.1
+E1039,3.35,3.89,3.52,3.46,3.09,61.39,50.27,85.09,90.76,82.77,87.24,Finance,Finance Division,3.28
+E1040,3.05,4.48,3.6,3.74,2.72,59.91,64.61,58.61,87.27,88.57,74.52,People Operations,People & Culture Division,2.32
+E1041,3.2,4.45,3.19,3.74,3.07,45.59,61.32,80.21,77.19,87.92,100.0,Technical Services,Executive & Support Division,3.13
+E1042,3.4,4.41,3.46,3.23,3.6,81.92,93.33,0.0,97.06,76.41,78.7,Equipment Services,Operations Division,3.93
+E1043,3.4,3.85,3.09,3.66,3.34,80.6,64.49,93.99,89.86,68.39,66.39,Warehouse Operations,Operations Division,3.23
+E1044,3.84,3.96,3.29,4.37,3.24,85.78,78.58,43.12,77.26,57.11,74.55,Field Operations,Operations Division,4.37
+E1045,3.31,4.34,2.99,3.89,3.38,66.04,56.39,32.99,86.27,94.01,64.41,IT Services,Executive & Support Division,3.49
+E1046,3.43,3.72,3.65,3.57,2.64,65.41,56.79,56.03,100.0,77.73,83.23,Quality Assurance,Executive & Support Division,3.16
+E1047,3.05,4.18,3.81,3.36,2.96,76.23,51.57,61.59,79.74,69.0,85.27,Quality Assurance,Executive & Support Division,3.93
+E1048,3.69,4.07,3.57,3.07,3.8,68.37,82.76,78.09,82.51,52.51,58.04,Technical Services,Executive & Support Division,4.06
+E1049,3.26,4.33,3.83,2.89,3.21,100.0,67.3,39.27,63.38,72.97,75.77,People Operations,People & Culture Division,3.49
+E1050,3.91,3.54,2.97,3.44,3.87,83.86,64.49,67.6,96.23,68.43,68.8,IT Services,Executive & Support Division,4.29
+E1051,2.82,3.57,3.88,3.46,3.31,100.0,44.03,69.99,78.76,86.98,80.74,People Operations,People & Culture Division,3.98
+E1052,3.74,4.21,3.3,3.16,3.32,77.73,62.65,70.13,83.89,65.92,83.75,Quality Assurance,Executive & Support Division,3.28
+E1053,3.27,3.43,3.71,3.57,3.41,69.7,52.49,30.75,96.88,87.85,72.49,Warehouse Operations,Operations Division,3.83
+E1054,3.27,3.84,3.48,3.73,3.29,79.95,56.81,31.1,56.96,79.85,100.0,Commercial,Commercial Division,4.11
+E1055,3.0,3.6,3.58,3.31,3.51,66.26,39.78,59.44,60.98,99.75,85.75,Safety & Compliance,Executive & Support Division,3.75
+E1056,3.51,3.63,3.66,3.85,3.54,82.21,72.51,63.27,75.0,48.71,68.69,Safety & Compliance,Executive & Support Division,3.21
+E1057,3.68,3.56,3.72,3.52,3.23,72.66,90.32,76.99,74.89,61.89,89.1,IT Services,Executive & Support Division,4.22
+E1058,2.95,4.17,3.92,3.7,2.69,81.7,64.8,56.42,74.59,64.88,42.63,Supply Chain,Operations Division,3.49
+E1059,3.4,3.97,2.97,3.36,4.05,100.0,63.88,67.51,74.85,74.87,47.92,Design & Engineering,Commercial Division,4.32
+E1060,3.13,4.41,3.4,3.24,3.31,69.55,100.0,55.77,81.03,90.16,77.76,Supply Chain,Operations Division,3.9
+E1061,3.42,4.03,2.96,3.02,3.13,78.25,56.32,57.47,64.16,84.74,56.34,Design & Engineering,Commercial Division,4.08
+E1062,3.42,4.07,3.31,3.39,2.24,87.24,50.36,42.97,100.0,79.34,87.12,Warehouse Operations,Operations Division,3.08
+E1063,2.97,4.9,3.53,3.3,3.35,86.48,45.46,49.37,62.81,71.73,76.49,Technical Services,Executive & Support Division,3.84
+E1064,2.8,4.68,3.62,3.28,3.02,39.24,52.8,82.56,89.69,69.8,74.14,Supply Chain,Operations Division,3.08
+E1065,3.28,3.84,4.1,3.69,3.79,74.68,73.56,49.32,78.45,66.7,82.79,Safety & Compliance,Executive & Support Division,3.1
+E1066,3.56,4.0,3.54,4.12,3.87,59.99,55.8,50.07,61.72,53.67,73.08,Technical Services,Executive & Support Division,3.39
+E1067,2.98,4.52,3.5,4.03,3.16,77.86,58.01,52.66,100.0,92.83,70.88,Supply Chain,Operations Division,3.43
+E1068,3.32,3.08,3.36,2.87,3.93,73.02,59.26,52.83,85.73,48.95,94.88,Supply Chain,Operations Division,4.05
+E1069,3.51,3.88,3.13,3.58,3.31,93.77,57.04,38.93,46.4,57.71,74.49,Commercial,Commercial Division,3.57
+E1070,3.14,3.79,3.14,3.68,4.98,77.88,86.73,100.0,43.08,57.16,70.89,Quality Assurance,Executive & Support Division,4.43
+E1071,2.98,3.37,3.76,4.08,3.37,72.47,82.13,21.74,75.28,86.19,84.0,Safety & Compliance,Executive & Support Division,3.75
+E1072,3.22,3.91,3.75,3.66,3.11,67.74,59.73,21.04,92.74,86.95,81.95,Safety & Compliance,Executive & Support Division,4.09
+E1073,3.56,3.11,3.72,3.63,4.03,83.44,58.58,65.45,65.4,77.18,62.72,IT Services,Executive & Support Division,4.57
+E1074,3.32,5.0,3.81,4.0,2.78,69.35,76.16,12.6,83.3,74.77,62.14,Quality Assurance,Executive & Support Division,4.2
+E1075,3.7,3.93,3.53,3.67,3.01,100.0,83.78,35.81,87.38,91.97,100.0,Technical Services,Executive & Support Division,3.3
+E1076,2.97,3.97,3.58,4.03,3.21,76.55,55.56,56.39,84.7,76.29,84.53,Commercial,Commercial Division,3.42
+E1077,4.02,3.24,2.79,3.43,3.82,94.75,55.0,52.5,71.05,75.1,83.23,Commercial,Commercial Division,3.3
+E1078,3.42,4.06,3.67,4.44,3.56,78.64,70.82,77.4,55.55,70.56,84.03,People Operations,People & Culture Division,4.57
+E1079,3.12,4.96,3.66,3.77,3.64,56.11,41.67,57.99,75.6,79.61,70.54,Finance,Finance Division,4.58
+E1080,3.73,3.85,3.37,3.56,2.72,90.4,78.35,58.4,76.9,93.35,63.81,Design & Engineering,Commercial Division,3.66
+E1081,3.2,4.43,3.64,3.94,2.87,64.3,75.6,59.56,70.08,65.57,79.46,Technical Services,Executive & Support Division,3.43
+E1082,3.13,4.5,3.73,3.06,3.77,70.12,70.47,39.94,76.16,32.06,79.69,Quality Assurance,Executive & Support Division,3.63
+E1083,3.19,2.6,3.64,3.36,3.46,66.95,72.56,64.68,67.44,76.66,92.17,Supply Chain,Operations Division,4.19
+E1084,2.58,3.76,3.32,3.95,3.21,85.29,81.53,48.19,63.54,48.52,77.9,Warehouse Operations,Operations Division,3.67
+E1085,3.54,3.82,2.88,3.17,3.58,97.28,47.63,75.82,100.0,48.59,67.47,IT Services,Executive & Support Division,4.25
+E1086,3.28,3.61,3.27,3.69,3.42,50.49,86.19,63.7,93.84,73.46,85.05,Supply Chain,Operations Division,3.83
+E1087,3.2,3.25,3.24,3.79,3.75,87.49,80.66,29.19,73.9,64.44,82.35,Supply Chain,Operations Division,4.16
+E1088,3.01,3.59,3.55,3.31,3.19,73.11,48.8,52.4,78.41,50.8,84.1,IT Services,Executive & Support Division,3.29
+E1089,3.76,3.11,3.03,3.24,3.13,88.96,56.92,69.94,86.69,70.07,72.02,Supply Chain,Operations Division,3.48
+E1090,3.31,4.12,2.77,3.26,3.53,77.15,94.32,34.05,74.49,81.35,89.89,IT Services,Executive & Support Division,3.94
+E1091,3.21,4.23,3.24,3.13,3.4,65.36,47.65,40.92,65.23,89.01,85.1,Design & Engineering,Commercial Division,3.49
+E1092,3.56,4.4,3.09,4.19,2.96,71.26,81.86,78.75,90.87,89.0,78.94,IT Services,Executive & Support Division,3.64
+E1093,3.16,3.81,3.77,4.05,3.02,63.45,57.74,31.11,51.97,85.75,75.8,People Operations,People & Culture Division,4.85
+E1094,3.17,3.54,2.95,3.4,3.36,58.93,86.03,69.94,63.64,80.5,92.4,Technical Services,Executive & Support Division,2.69
+E1095,3.58,4.59,3.63,3.12,3.75,54.4,81.86,56.01,100.0,54.46,95.62,IT Services,Executive & Support Division,3.72
+E1096,3.53,3.88,3.05,3.22,3.65,88.27,75.73,58.02,52.03,81.71,99.49,Finance,Finance Division,3.94
+E1097,3.5,4.13,3.67,3.72,3.15,73.29,82.22,0.0,58.32,86.07,66.35,Design & Engineering,Commercial Division,3.68
+E1098,3.5,4.5,3.84,3.35,2.58,69.53,58.64,39.26,92.92,78.66,100.0,Safety & Compliance,Executive & Support Division,3.04
+E1099,3.33,3.52,3.64,4.46,3.93,74.75,81.92,50.59,79.52,66.2,96.4,Field Operations,Operations Division,4.16
+E1100,3.06,4.04,3.43,2.32,2.89,39.85,61.67,64.35,82.62,79.3,81.28,Quality Assurance,Executive & Support Division,3.64
+E1101,3.31,4.49,3.27,3.02,3.57,63.89,48.47,31.49,72.66,50.9,88.77,Field Operations,Operations Division,4.17
+E1102,3.84,4.05,3.37,3.33,3.46,86.22,64.27,64.96,80.19,85.89,83.33,Quality Assurance,Executive & Support Division,3.25
+E1103,3.25,3.88,3.62,3.85,3.5,100.0,78.16,80.22,99.49,84.11,78.09,Quality Assurance,Executive & Support Division,4.3
+E1104,3.63,4.53,3.71,4.71,3.11,70.87,73.44,81.98,80.22,72.76,65.98,Finance,Finance Division,3.06
+E1105,3.13,3.55,3.45,3.52,3.33,56.94,91.04,65.69,88.86,58.43,90.67,Technical Services,Executive & Support Division,4.3
+E1106,3.42,3.51,4.04,3.5,3.85,42.58,96.52,23.19,57.65,60.9,85.23,Equipment Services,Operations Division,4.84
+E1107,3.13,4.11,2.89,3.21,4.27,83.54,69.12,16.17,87.06,75.66,98.31,Commercial,Commercial Division,4.31
+E1108,3.4,3.5,2.94,3.62,2.05,79.32,57.61,69.46,85.7,61.46,69.87,Commercial,Commercial Division,4.0
+E1109,3.19,3.93,2.86,3.66,3.1,53.41,52.2,95.66,90.54,72.85,77.62,Design & Engineering,Commercial Division,3.88
+E1110,2.83,3.66,2.84,3.84,3.63,85.9,84.6,44.05,89.12,76.47,75.47,Safety & Compliance,Executive & Support Division,3.82
+E1111,3.24,3.79,3.54,3.01,3.75,58.61,59.93,33.29,72.96,72.63,65.48,Supply Chain,Operations Division,3.0
+E1112,3.61,4.32,3.36,3.31,3.08,72.76,54.14,47.61,100.0,73.05,74.67,Supply Chain,Operations Division,3.46
+E1113,3.15,4.19,3.24,3.76,3.44,98.28,52.46,53.77,65.12,60.31,68.92,Technical Services,Executive & Support Division,3.81
+E1114,3.18,3.79,2.86,3.76,2.63,73.33,70.28,28.39,81.93,62.32,84.65,Safety & Compliance,Executive & Support Division,4.23
+E1115,3.21,3.85,3.58,4.03,3.57,69.25,51.8,56.78,48.45,86.42,85.14,Safety & Compliance,Executive & Support Division,4.05
+E1116,3.2,3.96,3.38,3.88,2.96,100.0,45.38,76.31,49.48,77.52,90.0,Technical Services,Executive & Support Division,4.18
+E1117,3.57,3.98,3.36,3.31,3.95,69.75,57.62,52.33,64.22,65.28,53.45,Supply Chain,Operations Division,3.79
+E1118,3.38,3.84,3.3,3.4,2.88,63.15,30.6,35.83,57.01,77.45,91.78,Quality Assurance,Executive & Support Division,2.93
+E1119,3.26,3.8,3.3,3.36,4.03,74.51,74.78,81.52,78.44,95.42,76.35,Field Operations,Operations Division,4.2
+E1120,3.01,4.79,4.01,3.47,3.17,71.0,70.21,16.06,81.06,86.56,86.62,IT Services,Executive & Support Division,3.75
+E1121,3.75,3.92,3.79,3.25,2.8,49.17,94.4,88.87,63.94,57.59,85.4,Safety & Compliance,Executive & Support Division,4.01
+E1122,3.29,4.02,4.11,3.49,3.35,83.6,78.85,56.95,57.62,55.2,75.0,Design & Engineering,Commercial Division,3.12
+E1123,3.24,3.23,3.83,4.39,3.93,65.17,70.99,48.24,60.05,95.33,74.97,IT Services,Executive & Support Division,4.18
+E1124,2.98,3.62,3.24,3.61,2.79,69.88,77.21,65.75,81.07,61.46,76.11,Quality Assurance,Executive & Support Division,3.15
+E1125,3.51,4.86,3.93,3.69,3.61,75.12,60.55,4.98,57.44,60.14,84.26,Technical Services,Executive & Support Division,4.83
+E1126,3.4,4.9,3.98,4.44,3.1,72.52,35.28,33.12,42.57,45.66,91.89,Quality Assurance,Executive & Support Division,3.98
+E1127,3.34,3.86,3.75,3.75,3.27,90.61,43.51,19.94,67.31,71.6,65.31,Technical Services,Executive & Support Division,2.52
+E1128,2.88,3.22,3.72,3.96,4.01,46.02,72.49,43.21,63.18,84.82,97.32,Safety & Compliance,Executive & Support Division,4.35
+E1129,2.88,4.43,3.84,3.83,2.77,100.0,67.53,45.79,60.72,66.24,69.48,Safety & Compliance,Executive & Support Division,3.25
+E1130,3.25,3.55,3.9,3.63,4.31,67.72,79.56,72.74,75.67,72.53,84.27,Quality Assurance,Executive & Support Division,3.26
+E1131,3.99,4.61,3.27,3.14,3.36,91.71,69.14,59.37,53.7,58.58,86.41,Safety & Compliance,Executive & Support Division,2.98
+E1132,3.31,3.89,3.98,3.22,2.7,86.32,83.77,50.12,50.25,54.77,71.71,Commercial,Commercial Division,2.29
+E1133,3.57,3.72,3.75,4.05,3.18,97.68,44.45,37.81,91.57,86.34,79.6,Safety & Compliance,Executive & Support Division,3.71
+E1134,3.9,3.87,3.54,3.43,4.0,99.65,94.76,75.19,55.6,86.58,86.6,IT Services,Executive & Support Division,3.97
+E1135,3.76,4.46,3.43,3.72,3.47,56.91,65.25,10.93,69.95,46.09,58.23,Supply Chain,Operations Division,3.24
+E1136,3.4,3.81,2.94,3.6,3.04,88.87,69.49,58.79,88.37,98.57,61.57,IT Services,Executive & Support Division,2.92
+E1137,2.82,3.44,3.68,3.67,3.27,47.07,89.18,100.0,100.0,45.3,80.27,Technical Services,Executive & Support Division,4.23
+E1138,3.43,3.31,3.27,3.43,3.18,61.45,55.92,59.07,82.68,84.04,92.57,Technical Services,Executive & Support Division,3.79
+E1139,3.55,3.9,3.5,4.05,3.62,69.33,47.88,55.24,78.94,100.0,85.71,Supply Chain,Operations Division,3.96
+E1140,3.47,3.82,2.98,2.97,3.75,67.59,52.11,67.28,89.58,73.65,85.89,Technical Services,Executive & Support Division,3.92
+E1141,3.21,4.0,3.53,3.63,3.31,62.72,77.64,51.61,83.52,55.15,56.42,IT Services,Executive & Support Division,4.87
+E1142,2.97,3.78,3.29,3.54,2.79,59.62,56.1,8.41,49.25,77.67,97.98,IT Services,Executive & Support Division,3.75
+E1143,3.52,3.97,2.49,4.38,2.77,48.53,100.0,38.29,87.56,67.23,71.18,Commercial,Commercial Division,3.75
+E1144,3.68,3.78,3.36,3.2,3.05,58.05,100.0,77.4,70.66,67.6,62.93,Field Operations,Operations Division,3.39
+E1145,3.35,4.55,3.4,4.0,3.68,62.1,51.01,7.44,88.88,92.75,95.72,Technical Services,Executive & Support Division,2.7
+E1146,3.29,3.82,3.74,3.03,2.76,84.72,69.79,55.22,74.45,67.1,76.66,Quality Assurance,Executive & Support Division,3.49
+E1147,3.45,4.23,3.62,2.98,4.41,65.02,69.88,48.07,74.92,68.88,100.0,Commercial,Commercial Division,2.84
+E1148,2.95,4.07,3.68,3.57,3.27,93.7,62.59,75.46,67.28,70.3,82.24,Quality Assurance,Executive & Support Division,3.09
+E1149,3.16,3.58,3.34,3.37,3.84,99.48,74.68,55.52,93.41,59.91,90.1,Field Operations,Operations Division,3.06
+E1150,3.32,3.26,3.13,4.14,3.76,79.42,65.12,44.87,100.0,56.26,73.7,Quality Assurance,Executive & Support Division,3.88
+E1151,2.94,4.28,3.4,4.11,3.64,61.72,39.82,33.22,66.66,70.91,68.07,Quality Assurance,Executive & Support Division,3.51
+E1152,3.55,3.95,3.91,3.4,2.89,84.42,100.0,82.2,100.0,77.88,100.0,IT Services,Executive & Support Division,4.28
+E1153,3.36,4.69,3.6,3.56,3.66,58.26,29.33,75.23,51.14,98.97,81.75,Supply Chain,Operations Division,3.95
+E1154,3.54,3.77,3.41,3.66,3.93,92.89,74.95,84.52,83.16,100.0,82.23,IT Services,Executive & Support Division,3.62
+E1155,2.92,4.3,3.3,3.52,2.6,81.62,57.78,34.21,94.23,68.97,81.97,Finance,Finance Division,4.2
+E1156,3.43,3.49,3.88,4.3,3.11,89.42,78.97,37.9,88.02,80.96,88.88,Technical Services,Executive & Support Division,3.57
+E1157,3.08,3.79,4.07,3.54,3.8,99.32,50.03,40.14,81.12,43.25,91.94,Technical Services,Executive & Support Division,3.16
+E1158,3.44,3.61,3.83,3.53,2.57,80.45,70.22,89.93,73.12,73.29,100.0,Supply Chain,Operations Division,4.05
+E1159,3.06,3.85,3.24,4.05,3.12,76.24,44.67,35.41,69.62,69.93,70.47,Quality Assurance,Executive & Support Division,3.68
+E1160,3.43,3.98,3.19,3.72,3.28,79.34,63.44,48.83,95.44,76.09,82.65,IT Services,Executive & Support Division,4.42
+E1161,4.05,3.7,3.2,3.05,3.17,80.45,67.64,59.49,90.39,82.22,87.44,Safety & Compliance,Executive & Support Division,3.17
+E1162,3.12,3.97,3.74,4.56,3.22,54.13,73.02,68.43,86.64,77.31,90.85,Design & Engineering,Commercial Division,3.12
+E1163,3.45,4.29,3.72,4.3,2.69,88.95,56.03,30.13,87.3,76.4,58.36,Quality Assurance,Executive & Support Division,3.2
+E1164,3.47,3.36,3.44,3.84,3.1,75.17,61.51,79.35,35.77,88.74,86.79,Technical Services,Executive & Support Division,3.28
+E1165,3.67,3.94,3.1,2.79,3.8,73.79,61.97,77.47,82.56,59.79,88.79,Safety & Compliance,Executive & Support Division,3.58
+E1166,3.57,3.65,3.09,3.55,2.54,68.77,62.92,33.44,67.56,83.75,58.65,IT Services,Executive & Support Division,4.16
+E1167,3.59,3.65,3.24,3.56,3.23,44.16,64.08,100.0,88.66,82.06,98.37,Supply Chain,Operations Division,4.45
+E1168,2.97,4.27,3.73,3.5,3.5,61.16,76.72,77.15,80.83,58.41,65.22,Technical Services,Executive & Support Division,3.69
+E1169,3.22,4.0,3.38,3.62,3.14,84.43,67.62,63.33,89.94,97.29,97.14,People Operations,People & Culture Division,3.39
+E1170,2.96,4.38,3.5,3.82,2.81,53.43,83.77,37.95,98.93,81.12,79.68,IT Services,Executive & Support Division,3.19
+E1171,3.05,3.85,4.02,3.01,2.94,79.65,76.88,86.01,58.15,58.02,59.0,Technical Services,Executive & Support Division,4.01
+E1172,3.75,3.98,3.25,4.73,3.04,57.6,74.54,53.8,66.46,80.57,84.38,Technical Services,Executive & Support Division,2.62
+E1173,3.29,3.66,4.11,4.38,3.17,58.94,90.2,11.33,80.69,95.21,74.94,Commercial,Commercial Division,4.82
+E1174,3.02,4.12,3.93,3.53,3.72,96.65,38.82,52.8,79.87,43.74,72.2,IT Services,Executive & Support Division,2.59
+E1175,3.27,3.94,3.54,3.92,3.5,68.29,94.02,61.11,87.91,71.57,87.24,Technical Services,Executive & Support Division,3.74
+E1176,3.65,3.79,4.22,3.99,3.26,41.85,58.09,66.09,55.12,84.12,64.77,IT Services,Executive & Support Division,2.89
+E1177,3.11,4.41,2.8,3.71,3.77,88.46,34.54,58.48,54.98,84.77,77.97,Safety & Compliance,Executive & Support Division,3.96
+E1178,3.26,3.21,3.52,3.44,3.19,95.86,85.7,47.23,100.0,69.25,57.3,Quality Assurance,Executive & Support Division,3.34
+E1179,3.09,3.46,3.57,2.67,3.93,98.88,82.95,67.23,78.64,55.51,57.56,Quality Assurance,Executive & Support Division,3.33
+E1180,3.08,3.39,3.62,3.36,4.0,86.06,64.14,58.32,92.76,50.04,57.98,Supply Chain,Operations Division,3.5
+E1181,3.48,3.97,3.48,3.54,3.65,65.79,61.25,51.41,65.98,100.0,99.3,Field Operations,Operations Division,4.03
+E1182,3.74,3.91,3.18,3.97,4.51,94.17,42.48,96.05,92.56,83.63,96.28,Field Operations,Operations Division,4.47
+E1183,3.16,4.07,3.97,4.16,3.18,86.5,43.17,9.49,77.58,68.23,56.5,People Operations,People & Culture Division,3.18
+E1184,3.83,3.91,3.66,3.35,2.83,63.39,68.63,30.79,95.69,62.9,79.59,People Operations,People & Culture Division,2.68
+E1185,3.1,3.98,4.05,3.89,3.72,99.7,91.66,30.5,86.69,76.44,74.27,Quality Assurance,Executive & Support Division,3.14
+E1186,3.91,4.62,3.7,3.35,3.8,95.4,67.2,55.34,77.19,88.77,61.34,Design & Engineering,Commercial Division,3.46
+E1187,3.42,3.9,3.33,3.86,4.03,96.3,71.94,70.53,65.63,77.94,67.24,Quality Assurance,Executive & Support Division,3.64
+E1188,3.92,3.91,2.6,3.71,3.12,56.73,52.43,60.02,82.41,53.54,100.0,Field Operations,Operations Division,3.54
+E1189,3.05,3.64,3.46,3.73,3.33,57.27,64.28,39.46,84.85,85.15,76.95,Supply Chain,Operations Division,3.6
+E1190,3.6,4.94,3.56,4.12,3.82,74.69,61.15,68.33,100.0,84.87,95.78,Equipment Services,Operations Division,3.0
+E1191,3.63,3.47,3.1,3.97,3.31,59.03,67.78,13.0,57.6,60.52,64.54,Equipment Services,Operations Division,3.63
+E1192,3.08,3.99,3.55,4.32,3.77,100.0,55.06,55.46,68.12,59.22,68.19,People Operations,People & Culture Division,3.68
+E1193,3.03,3.65,3.19,3.52,3.07,96.37,55.59,60.11,65.1,90.99,75.38,Technical Services,Executive & Support Division,3.64
+E1194,3.31,3.21,3.6,4.51,2.7,46.7,49.42,33.83,92.12,64.61,80.37,Equipment Services,Operations Division,4.01
+E1195,3.14,3.67,3.2,3.86,2.94,88.32,84.71,29.2,73.51,73.16,74.57,IT Services,Executive & Support Division,3.85
+E1196,3.66,3.39,4.0,3.57,2.69,53.99,63.83,49.64,66.57,65.44,74.89,Field Operations,Operations Division,3.24
+E1197,3.2,3.56,3.48,3.03,3.11,76.68,72.96,53.35,73.28,90.13,100.0,Commercial,Commercial Division,3.75
+E1198,3.3,4.05,3.75,3.36,3.49,80.77,59.81,45.4,74.79,91.29,65.1,Quality Assurance,Executive & Support Division,3.58
+E1199,3.37,4.33,3.24,3.3,2.54,64.65,90.67,47.92,100.0,98.81,91.74,Safety & Compliance,Executive & Support Division,3.91
+E1200,3.88,4.08,3.34,3.77,3.85,68.98,79.23,87.45,78.36,62.46,83.87,IT Services,Executive & Support Division,3.88
+E1201,3.67,4.47,3.73,4.05,2.89,55.38,70.51,74.99,87.02,81.63,75.75,Finance,Finance Division,2.76
+E1202,3.59,4.21,3.25,3.3,2.7,50.27,98.24,29.73,78.08,56.13,97.17,Safety & Compliance,Executive & Support Division,3.56
+E1203,3.37,3.27,3.42,3.9,3.08,69.27,72.71,60.56,64.41,100.0,66.95,Field Operations,Operations Division,3.23
+E1204,3.46,4.25,3.23,4.27,3.59,59.72,81.0,54.92,78.99,67.56,86.1,Commercial,Commercial Division,4.27
+E1205,2.79,3.99,2.91,3.25,3.36,74.34,72.75,61.41,82.98,57.8,88.52,Technical Services,Executive & Support Division,3.83
+E1206,3.3,4.39,3.58,4.05,2.56,59.79,69.25,46.35,78.45,56.52,78.57,Supply Chain,Operations Division,2.76
+E1207,3.05,4.11,3.73,2.63,3.04,76.83,87.79,35.66,84.67,81.61,86.39,Safety & Compliance,Executive & Support Division,2.81
+E1208,3.37,3.75,3.32,4.11,3.92,82.37,60.05,40.4,75.85,74.06,65.25,Safety & Compliance,Executive & Support Division,4.09
+E1209,3.33,3.55,4.2,4.29,3.25,87.68,64.25,53.37,76.79,72.1,89.88,Technical Services,Executive & Support Division,3.19
+E1210,3.18,3.92,3.58,4.07,4.17,91.31,79.87,47.58,63.37,74.2,76.8,Commercial,Commercial Division,3.2
+E1211,3.38,4.26,3.46,3.01,3.85,33.36,63.89,74.09,65.54,65.5,61.32,Finance,Finance Division,4.2
+E1212,3.4,4.0,2.92,4.09,3.53,53.07,59.68,27.06,76.65,92.99,93.8,Design & Engineering,Commercial Division,4.27
+E1213,3.03,4.19,3.08,3.62,3.75,100.0,46.32,39.52,75.12,57.03,64.91,Quality Assurance,Executive & Support Division,2.96
+E1214,3.56,4.16,3.63,3.73,3.58,96.07,67.62,45.17,87.63,77.61,64.15,Safety & Compliance,Executive & Support Division,3.99
+E1215,3.46,3.41,3.71,3.85,3.4,65.74,68.91,88.93,68.03,82.66,97.96,Safety & Compliance,Executive & Support Division,3.38
+E1216,3.31,3.67,3.58,3.47,2.98,95.5,100.0,83.59,90.18,56.59,83.18,Finance,Finance Division,3.85
+E1217,3.47,3.07,3.05,4.01,3.16,77.55,46.64,70.76,82.79,41.18,82.89,People Operations,People & Culture Division,3.44
+E1218,3.72,3.78,2.71,3.56,3.53,60.01,74.23,54.52,74.54,71.71,64.07,Quality Assurance,Executive & Support Division,3.39
+E1219,3.69,3.44,3.36,3.67,2.27,59.69,49.82,70.86,58.95,66.48,63.64,Quality Assurance,Executive & Support Division,3.93
+E1220,3.63,4.14,4.02,3.55,3.17,62.43,74.25,94.44,57.37,81.42,52.19,Safety & Compliance,Executive & Support Division,2.97
+E1221,3.43,4.39,3.67,3.53,3.18,87.96,54.35,54.43,74.24,55.48,87.26,Design & Engineering,Commercial Division,3.63
+E1222,4.01,3.67,3.57,3.26,3.41,70.78,75.12,68.55,79.66,57.82,73.03,Supply Chain,Operations Division,3.58
+E1223,3.86,3.81,3.73,4.2,3.32,73.65,58.52,24.48,75.71,98.62,91.14,Commercial,Commercial Division,3.28
+E1224,2.78,4.21,3.48,3.81,3.68,73.58,49.56,47.28,74.95,63.78,54.21,Quality Assurance,Executive & Support Division,3.75
+E1225,3.6,3.6,2.77,3.64,3.59,73.15,86.1,49.0,78.81,56.35,76.34,Field Operations,Operations Division,2.97
+E1226,2.72,4.3,3.66,3.26,3.28,81.38,64.57,71.34,76.14,76.87,100.0,IT Services,Executive & Support Division,2.89
+E1227,3.65,2.75,3.4,3.1,3.23,86.5,70.51,49.62,85.92,77.06,72.37,Safety & Compliance,Executive & Support Division,3.42
+E1228,3.66,3.66,2.64,3.88,3.76,74.42,61.07,46.79,76.35,55.94,57.21,Technical Services,Executive & Support Division,3.93
+E1229,3.38,4.02,3.74,3.62,3.52,69.39,72.12,34.95,36.87,68.37,80.26,Finance,Finance Division,4.14
+E1230,3.36,3.09,2.6,3.64,3.33,69.05,77.83,34.87,62.02,60.09,76.76,Warehouse Operations,Operations Division,3.19
+E1231,3.5,4.59,3.6,3.89,3.13,62.42,38.87,44.46,66.41,89.04,69.99,Commercial,Commercial Division,3.23
+E1232,3.58,3.7,3.31,3.71,3.17,82.27,69.65,46.92,85.2,60.16,45.25,Commercial,Commercial Division,4.13
+E1233,3.43,3.9,3.26,4.2,3.33,59.57,42.56,40.78,66.5,83.63,79.74,Quality Assurance,Executive & Support Division,3.1
+E1234,2.94,3.9,3.24,3.26,3.11,55.23,62.95,49.25,86.85,77.33,74.42,Technical Services,Executive & Support Division,4.06
+E1235,3.19,3.93,3.56,3.62,2.92,78.89,63.07,64.86,67.63,73.91,87.79,Technical Services,Executive & Support Division,4.13
+E1236,3.67,3.78,3.66,3.8,3.21,80.93,60.19,43.64,83.76,74.15,78.38,Quality Assurance,Executive & Support Division,3.57
+E1237,3.4,3.36,4.12,3.13,3.62,69.38,64.64,59.85,100.0,80.51,87.06,Safety & Compliance,Executive & Support Division,2.94
+E1238,3.37,4.15,3.81,4.52,2.57,53.46,74.86,79.01,81.3,91.4,69.33,Warehouse Operations,Operations Division,4.56
+E1239,3.74,4.09,3.92,3.42,3.9,99.82,73.14,53.99,76.52,88.93,71.38,Supply Chain,Operations Division,4.06
+E1240,3.28,3.87,3.05,3.2,2.85,66.51,76.68,52.21,67.66,57.23,46.87,Supply Chain,Operations Division,2.57
+E1241,3.09,3.63,3.34,3.45,2.69,81.96,49.47,57.98,86.41,100.0,67.84,Supply Chain,Operations Division,2.95
+E1242,3.06,3.63,3.45,2.58,3.13,80.31,46.58,59.46,86.54,69.03,74.05,Quality Assurance,Executive & Support Division,2.74
+E1243,3.83,3.65,3.3,3.91,3.2,50.48,45.25,38.7,74.36,74.94,68.67,Quality Assurance,Executive & Support Division,4.17
+E1244,3.19,3.91,3.37,3.5,3.29,74.15,74.03,45.62,65.15,66.15,95.38,Quality Assurance,Executive & Support Division,3.63
+E1245,3.77,3.98,3.98,3.64,2.65,71.27,85.76,62.04,95.98,65.93,81.46,Safety & Compliance,Executive & Support Division,1.68
+E1246,3.39,4.41,3.76,3.32,2.59,71.37,67.93,84.15,100.0,69.47,85.52,Warehouse Operations,Operations Division,3.37
+E1247,3.3,4.79,3.92,4.15,4.11,80.51,39.28,64.52,73.81,48.87,75.38,Commercial,Commercial Division,3.87
+E1248,3.5,5.0,3.59,3.52,2.97,82.6,65.36,67.5,79.39,74.89,57.75,IT Services,Executive & Support Division,4.0
+E1249,3.27,3.21,3.27,3.18,2.79,85.62,54.55,36.89,56.56,60.82,73.81,Technical Services,Executive & Support Division,3.83
+E1250,3.04,4.17,3.55,4.39,3.0,80.12,56.93,54.19,65.71,49.81,78.78,IT Services,Executive & Support Division,4.98
+E1251,3.59,4.65,3.77,3.57,3.28,81.32,69.13,5.72,88.52,81.02,92.24,Safety & Compliance,Executive & Support Division,4.27
+E1252,3.58,3.86,3.45,3.48,4.04,66.96,56.92,93.04,78.4,57.83,51.2,Safety & Compliance,Executive & Support Division,3.59
+E1253,3.16,4.33,4.18,3.96,2.62,86.2,55.81,4.9,74.22,93.3,59.62,IT Services,Executive & Support Division,4.3
+E1254,3.12,3.39,4.01,3.62,3.17,62.88,58.81,54.46,75.22,51.8,89.46,IT Services,Executive & Support Division,3.37
+E1255,3.99,4.2,3.58,3.0,1.96,65.27,92.54,69.27,73.47,65.67,81.98,Quality Assurance,Executive & Support Division,2.98
+E1256,3.44,3.88,3.57,4.41,3.38,59.31,77.76,49.84,97.98,90.99,67.55,Supply Chain,Operations Division,2.74
+E1257,3.61,4.84,3.94,4.07,3.45,61.59,83.83,81.8,89.88,74.37,65.95,Supply Chain,Operations Division,4.92
+E1258,3.12,3.52,3.8,3.36,2.63,55.95,49.03,60.74,74.3,79.19,88.93,IT Services,Executive & Support Division,4.16
+E1259,3.09,4.77,3.9,3.98,3.67,59.93,48.7,29.05,53.29,40.09,80.43,Technical Services,Executive & Support Division,4.33
+E1260,3.88,4.19,2.83,3.98,3.23,85.21,57.82,37.36,83.5,72.89,76.49,Safety & Compliance,Executive & Support Division,4.53
+E1261,2.99,3.58,2.65,3.42,3.2,87.63,87.36,70.16,62.77,61.25,89.75,Supply Chain,Operations Division,2.9
+E1262,2.91,3.54,3.43,3.61,3.86,70.92,46.77,56.41,81.69,77.6,84.21,IT Services,Executive & Support Division,4.87
+E1263,3.54,4.13,3.43,3.81,3.68,18.89,49.66,70.61,55.73,47.8,75.08,IT Services,Executive & Support Division,4.36
+E1264,3.3,4.94,2.9,3.6,3.41,76.2,36.01,47.26,89.68,52.14,63.71,People Operations,People & Culture Division,4.08
+E1265,3.07,4.86,3.86,3.81,3.86,76.32,62.0,59.57,83.18,78.8,66.78,Technical Services,Executive & Support Division,3.8
+E1266,3.04,3.18,3.38,2.67,3.54,77.57,76.29,0.11,92.95,69.76,100.0,Quality Assurance,Executive & Support Division,3.09
+E1267,3.44,4.04,3.43,3.06,3.39,65.45,76.09,37.62,77.44,70.85,58.08,Field Operations,Operations Division,2.79
+E1268,3.41,4.49,3.2,3.87,3.8,69.81,28.66,81.53,80.15,82.83,78.85,Supply Chain,Operations Division,3.36
+E1269,3.31,4.03,3.11,4.01,2.89,72.91,45.42,42.04,72.5,52.8,64.43,Technical Services,Executive & Support Division,4.34
+E1270,3.16,3.85,3.69,3.24,4.0,69.84,61.61,48.79,100.0,50.38,74.09,Technical Services,Executive & Support Division,4.08
+E1271,3.74,3.67,3.46,4.39,3.44,57.51,77.74,69.99,70.31,62.53,100.0,Commercial,Commercial Division,2.81
+E1272,2.85,4.69,3.4,3.39,1.99,81.55,69.21,71.54,69.32,92.94,72.36,Field Operations,Operations Division,4.03
+E1273,3.66,3.96,3.31,4.13,3.28,76.47,50.28,58.64,73.38,74.22,80.12,IT Services,Executive & Support Division,4.22
+E1274,4.14,4.68,3.67,4.34,2.9,61.49,72.29,59.48,68.6,90.14,86.79,Finance,Finance Division,3.75
+E1275,3.25,4.12,3.67,3.65,3.18,100.0,80.35,67.37,48.57,63.8,77.8,Safety & Compliance,Executive & Support Division,2.58
+E1276,3.5,4.36,2.99,3.12,4.0,98.72,50.58,53.33,58.78,58.78,68.77,Quality Assurance,Executive & Support Division,3.21
+E1277,3.01,3.92,3.5,3.9,3.42,78.61,59.52,62.99,69.83,99.22,58.83,Quality Assurance,Executive & Support Division,3.65
+E1278,3.15,4.03,2.77,3.24,4.49,85.96,81.38,46.95,74.24,80.18,64.33,Finance,Finance Division,4.0
+E1279,4.02,4.3,3.61,2.9,2.98,62.03,84.7,72.99,77.19,55.02,92.19,Quality Assurance,Executive & Support Division,3.29
+E1280,3.53,4.79,3.61,3.66,3.28,66.86,40.05,33.21,37.94,58.12,100.0,Commercial,Commercial Division,2.86
+E1281,3.7,4.06,3.54,4.33,3.45,58.21,59.8,53.12,81.35,74.45,89.87,IT Services,Executive & Support Division,3.58
+E1282,3.63,4.24,2.85,3.95,3.82,88.3,56.17,25.97,94.17,64.01,43.87,Field Operations,Operations Division,2.96
+E1283,2.82,4.06,2.59,3.83,3.35,89.94,66.82,35.75,95.54,76.42,84.78,Safety & Compliance,Executive & Support Division,4.18
+E1284,2.86,4.16,3.13,3.83,3.72,85.21,80.96,14.32,66.69,83.36,70.78,Quality Assurance,Executive & Support Division,3.73
+E1285,3.17,4.87,3.38,2.95,2.76,35.39,47.12,57.14,76.68,72.07,76.16,IT Services,Executive & Support Division,3.8
+E1286,3.56,3.99,3.01,2.81,3.55,79.95,40.14,77.42,51.34,72.69,71.3,IT Services,Executive & Support Division,2.89
+E1287,2.85,3.84,2.98,3.47,4.36,84.43,56.44,56.08,79.02,66.45,70.73,Supply Chain,Operations Division,4.09
+E1288,3.54,3.67,3.6,3.8,3.68,76.17,62.17,11.96,63.51,67.76,74.96,Technical Services,Executive & Support Division,4.04
+E1289,3.35,3.59,2.76,3.99,3.36,75.93,42.53,96.09,88.32,72.49,73.61,Commercial,Commercial Division,3.5
+E1290,3.79,3.99,4.15,4.2,3.29,90.85,70.08,82.12,73.48,89.56,76.23,Field Operations,Operations Division,2.39
+E1291,3.25,3.18,3.8,3.28,3.97,72.54,63.26,36.53,78.51,70.29,82.77,Technical Services,Executive & Support Division,3.71
+E1292,3.15,4.24,3.75,3.2,3.33,54.25,67.2,87.43,75.29,39.93,78.94,IT Services,Executive & Support Division,3.18
+E1293,3.2,4.92,3.7,3.09,3.66,85.21,48.47,55.48,78.21,63.3,58.94,IT Services,Executive & Support Division,3.28
+E1294,3.21,4.16,3.32,3.14,3.18,72.24,54.59,84.89,74.44,62.19,62.72,Quality Assurance,Executive & Support Division,3.26
+E1295,3.12,4.33,3.5,3.51,3.29,44.53,58.06,51.65,54.56,98.63,86.74,Technical Services,Executive & Support Division,3.96
+E1296,3.01,3.9,3.46,3.79,3.2,95.45,54.74,59.72,40.28,74.96,60.53,Quality Assurance,Executive & Support Division,2.34
+E1297,3.43,4.69,4.21,3.0,3.08,70.51,51.95,62.47,76.01,78.96,74.74,Quality Assurance,Executive & Support Division,3.4
+E1298,4.06,4.43,3.52,3.51,3.36,87.94,70.59,75.29,87.99,78.72,76.33,Design & Engineering,Commercial Division,3.37
+E1299,3.49,3.72,3.5,3.82,3.85,40.3,77.35,47.39,79.16,81.51,86.55,Quality Assurance,Executive & Support Division,3.49
+E1300,3.81,5.0,3.25,3.36,2.94,88.13,50.69,63.61,73.81,77.74,72.96,People Operations,People & Culture Division,4.17
+E1301,3.04,3.78,3.64,3.75,3.53,48.24,44.71,75.07,43.76,65.63,76.14,Safety & Compliance,Executive & Support Division,2.56
+E1302,3.64,4.06,3.78,3.55,3.65,78.62,62.45,17.9,79.6,68.22,90.75,Quality Assurance,Executive & Support Division,2.66
+E1303,3.44,4.15,3.0,4.33,4.19,68.51,75.82,6.11,60.9,58.25,95.66,Warehouse Operations,Operations Division,3.63
+E1304,3.63,4.73,3.99,3.52,3.14,61.16,56.35,49.96,85.56,96.69,95.93,People Operations,People & Culture Division,2.74
+E1305,3.47,3.64,3.18,3.43,2.06,56.82,58.78,42.2,84.07,100.0,55.0,Finance,Finance Division,3.86
+E1306,3.14,4.26,3.31,3.21,2.79,99.91,76.12,50.78,76.96,77.54,87.97,People Operations,People & Culture Division,3.31
+E1307,3.1,3.43,3.29,3.63,3.95,84.5,58.88,38.34,92.88,76.5,77.96,Field Operations,Operations Division,2.68
+E1308,3.47,3.47,3.6,3.39,3.02,80.13,50.1,42.31,73.88,80.37,80.52,Commercial,Commercial Division,3.98
+E1309,3.21,3.29,4.0,3.56,3.13,84.83,68.5,48.96,70.07,84.59,91.91,People Operations,People & Culture Division,3.23
+E1310,3.59,4.69,3.42,4.23,2.42,86.04,38.28,18.15,97.54,59.01,78.79,Quality Assurance,Executive & Support Division,2.38
+E1311,3.14,3.9,3.5,2.81,3.6,76.37,58.57,54.43,89.43,100.0,62.42,Quality Assurance,Executive & Support Division,4.19
+E1312,3.34,3.65,3.74,3.82,3.21,69.45,77.13,94.59,67.85,80.68,39.85,IT Services,Executive & Support Division,4.52
+E1313,3.49,3.36,4.38,3.52,2.52,78.94,78.85,39.7,88.07,100.0,86.96,Safety & Compliance,Executive & Support Division,4.13
+E1314,3.42,4.82,4.28,3.64,3.77,65.0,56.77,38.58,86.42,62.68,81.76,IT Services,Executive & Support Division,3.96
+E1315,3.43,3.33,3.66,3.38,3.04,74.3,68.29,7.73,98.82,89.73,66.52,Quality Assurance,Executive & Support Division,4.26
+E1316,3.42,3.96,2.95,3.19,2.81,76.91,65.71,72.74,53.45,72.03,90.83,IT Services,Executive & Support Division,3.37
+E1317,2.82,4.11,2.97,3.72,3.16,77.98,67.78,73.1,75.05,97.13,73.51,Commercial,Commercial Division,2.81
+E1318,2.66,4.3,3.52,3.76,3.57,99.3,62.32,59.53,75.5,72.51,74.19,Warehouse Operations,Operations Division,3.58
+E1319,3.69,4.07,2.59,3.19,3.16,88.24,58.12,49.65,75.98,80.07,89.54,Field Operations,Operations Division,3.85
+E1320,3.76,4.81,3.62,3.18,2.53,86.9,75.74,60.18,100.0,89.68,88.84,Equipment Services,Operations Division,4.25
+E1321,3.58,4.39,3.19,3.48,3.02,61.82,52.3,72.11,66.06,52.85,76.25,Design & Engineering,Commercial Division,3.89
+E1322,3.63,4.8,3.65,3.82,4.09,82.55,62.01,62.97,69.34,57.13,93.58,People Operations,People & Culture Division,3.32
+E1323,3.25,4.1,3.54,3.39,3.17,66.69,71.13,74.42,67.57,63.2,61.81,Supply Chain,Operations Division,3.09
+E1324,2.6,4.61,3.68,3.45,2.9,64.77,61.81,68.0,82.93,62.08,64.12,Supply Chain,Operations Division,2.77
+E1325,3.24,3.61,3.1,3.95,4.31,67.24,100.0,63.32,100.0,74.42,77.69,Technical Services,Executive & Support Division,3.31
+E1326,3.73,3.35,3.86,4.11,3.25,83.85,85.94,57.77,56.89,67.11,89.33,Field Operations,Operations Division,2.76
+E1327,3.24,3.92,2.95,3.52,3.51,56.39,60.74,38.58,93.29,57.37,75.74,People Operations,People & Culture Division,4.31
+E1328,3.23,3.94,3.09,3.43,3.14,70.24,63.88,8.53,94.17,82.48,83.22,Commercial,Commercial Division,3.79
+E1329,3.55,3.78,3.32,2.72,3.73,86.05,69.11,38.06,64.7,72.23,59.62,Technical Services,Executive & Support Division,3.36
+E1330,3.22,3.45,4.19,4.11,3.31,67.18,25.2,73.28,70.56,62.77,79.63,Commercial,Commercial Division,3.29
+E1331,3.25,4.67,3.14,3.77,2.84,79.96,58.29,77.76,61.56,63.24,81.95,Design & Engineering,Commercial Division,3.66
+E1332,3.14,4.57,3.15,3.46,3.84,52.48,31.55,70.39,71.56,100.0,93.28,Warehouse Operations,Operations Division,3.73
+E1333,3.28,3.67,4.91,3.4,3.5,55.25,70.49,90.12,52.93,86.62,100.0,Finance,Finance Division,3.23
+E1334,3.48,3.62,2.6,3.04,3.32,63.16,60.61,50.14,77.38,82.83,85.71,IT Services,Executive & Support Division,3.32
+E1335,3.8,4.48,2.76,4.52,3.36,61.48,93.35,45.07,82.85,74.46,96.46,Quality Assurance,Executive & Support Division,2.52
+E1336,3.78,3.92,3.51,3.68,3.18,69.14,58.14,44.08,69.94,64.75,75.09,Field Operations,Operations Division,3.55
+E1337,3.22,3.6,3.37,3.41,3.27,69.67,55.19,79.63,94.85,84.91,80.06,Quality Assurance,Executive & Support Division,2.81
+E1338,3.3,3.68,3.99,4.08,3.18,67.72,51.19,46.58,100.0,55.45,65.51,Quality Assurance,Executive & Support Division,2.83
+E1339,3.54,4.06,3.34,3.51,3.05,40.11,92.06,42.31,54.76,48.72,75.44,Safety & Compliance,Executive & Support Division,4.04
+E1340,3.22,4.23,3.68,3.31,2.31,72.76,65.33,71.42,88.02,63.78,69.49,Technical Services,Executive & Support Division,3.89
+E1341,2.71,4.88,3.71,2.91,3.74,59.22,87.64,58.88,87.11,82.03,66.06,Safety & Compliance,Executive & Support Division,2.79
+E1342,3.88,3.44,3.37,4.25,2.61,100.0,62.19,33.31,75.23,85.35,86.0,Quality Assurance,Executive & Support Division,2.63
+E1343,3.07,4.4,3.18,4.27,3.21,52.31,42.15,51.69,63.56,76.99,77.95,Safety & Compliance,Executive & Support Division,3.54
+E1344,3.39,4.43,3.89,3.03,4.04,54.55,53.66,48.0,86.16,84.44,81.54,Safety & Compliance,Executive & Support Division,4.11
+E1345,3.32,4.09,3.58,4.08,3.36,55.47,81.69,38.25,82.13,70.25,93.06,Technical Services,Executive & Support Division,3.84
+E1346,3.39,3.9,3.29,2.82,2.64,67.55,91.03,37.8,60.1,60.14,92.83,Finance,Finance Division,3.69
+E1347,3.23,4.19,3.63,4.09,3.35,73.71,81.22,57.38,74.35,65.4,85.48,Equipment Services,Operations Division,3.7
+E1348,3.4,3.8,3.97,4.52,3.36,99.26,67.52,68.61,85.79,78.26,75.18,Technical Services,Executive & Support Division,4.21
+E1349,2.84,3.97,3.24,3.4,2.79,100.0,67.48,67.43,77.29,71.51,69.85,Field Operations,Operations Division,3.53
+E1350,3.4,3.79,4.29,3.66,3.97,76.27,58.87,37.56,74.03,74.48,85.33,People Operations,People & Culture Division,3.7
+E1351,3.15,4.06,4.18,4.28,3.21,73.91,72.01,55.85,90.0,66.52,81.84,Equipment Services,Operations Division,2.77
+E1352,3.27,2.98,3.61,3.27,3.72,54.62,71.06,68.6,81.35,62.61,86.09,Finance,Finance Division,4.07
+E1353,3.56,4.09,3.71,4.77,3.51,57.79,46.34,34.68,53.29,65.39,72.07,Supply Chain,Operations Division,3.3
+E1354,3.35,3.5,3.26,4.29,3.74,72.79,54.41,20.31,75.65,68.79,62.32,Technical Services,Executive & Support Division,4.19
+E1355,3.61,3.82,3.53,3.22,3.77,65.37,62.3,45.07,85.76,83.42,82.39,Warehouse Operations,Operations Division,4.24
+E1356,3.26,3.35,3.56,3.7,4.49,56.06,70.93,86.99,73.33,39.9,64.22,Finance,Finance Division,4.33
+E1357,3.97,3.58,4.03,3.41,3.54,74.56,86.84,67.28,43.28,85.76,64.61,Safety & Compliance,Executive & Support Division,4.43
+E1358,3.19,4.9,3.52,3.94,2.39,79.74,90.54,69.73,85.17,84.45,92.89,Technical Services,Executive & Support Division,3.68
+E1359,3.18,4.44,3.22,3.36,3.6,84.11,76.12,56.84,72.97,42.04,100.0,Equipment Services,Operations Division,3.85
+E1360,3.24,3.16,3.6,3.69,2.97,88.62,66.73,81.7,80.46,78.27,100.0,Equipment Services,Operations Division,2.83
+E1361,3.48,3.9,3.32,4.58,2.83,56.51,67.77,52.17,71.31,63.57,74.16,Supply Chain,Operations Division,3.45
+E1362,3.16,4.86,3.29,3.32,1.5,77.31,65.45,69.78,100.0,75.78,77.66,Commercial,Commercial Division,3.53
+E1363,3.58,4.27,3.98,4.2,3.22,71.55,92.1,57.39,59.02,96.53,70.78,Safety & Compliance,Executive & Support Division,3.87
+E1364,3.26,3.88,3.97,2.94,3.6,67.02,60.96,48.91,76.98,80.32,57.91,Field Operations,Operations Division,3.99
+E1365,3.42,4.43,3.79,4.25,3.57,57.01,66.99,55.63,78.78,73.75,80.05,Safety & Compliance,Executive & Support Division,4.09
+E1366,3.19,3.93,3.34,3.49,2.82,61.85,68.47,38.03,86.53,60.34,72.86,IT Services,Executive & Support Division,3.73
+E1367,3.78,4.35,2.96,3.42,3.09,95.51,82.01,41.9,100.0,83.14,100.0,Design & Engineering,Commercial Division,2.93
+E1368,3.02,3.63,2.81,3.34,3.4,62.63,64.43,47.27,75.68,92.62,63.07,Safety & Compliance,Executive & Support Division,3.37
+E1369,3.04,3.94,3.27,3.58,3.02,92.19,71.69,60.9,62.6,41.69,90.05,Warehouse Operations,Operations Division,4.1
+E1370,3.65,3.31,3.33,4.7,4.43,70.01,61.52,15.89,89.2,78.14,68.1,Quality Assurance,Executive & Support Division,3.87
+E1371,3.34,3.8,3.16,3.9,3.08,62.96,95.89,26.04,62.68,62.84,86.88,Safety & Compliance,Executive & Support Division,3.96
+E1372,3.55,4.37,3.0,3.27,3.6,78.55,65.55,79.88,88.79,71.57,92.64,Quality Assurance,Executive & Support Division,3.58
+E1373,3.76,4.1,3.46,3.87,3.43,50.63,60.76,78.28,87.0,36.78,82.83,Commercial,Commercial Division,3.05
+E1374,3.58,3.96,3.89,3.15,3.72,67.84,84.29,40.54,64.64,86.0,79.55,IT Services,Executive & Support Division,3.35
+E1375,3.13,3.48,2.86,4.13,3.01,70.46,39.36,47.45,60.38,71.01,84.84,Commercial,Commercial Division,4.52
+E1376,3.37,3.67,3.38,4.23,2.88,78.65,86.04,23.6,88.77,84.56,99.75,IT Services,Executive & Support Division,3.39
+E1377,2.84,3.61,3.64,3.54,3.48,68.86,45.34,69.12,79.75,92.96,81.59,Supply Chain,Operations Division,3.38
+E1378,3.21,3.71,4.12,3.54,3.12,69.78,72.43,53.44,70.85,96.81,100.0,Design & Engineering,Commercial Division,3.13
+E1379,3.17,3.14,3.85,4.05,3.76,50.72,81.65,71.87,77.85,71.13,87.05,IT Services,Executive & Support Division,3.36
+E1380,3.11,4.63,3.5,3.09,3.5,71.81,48.82,10.84,60.2,83.49,87.11,Quality Assurance,Executive & Support Division,4.9
+E1381,3.12,4.44,3.15,3.74,3.17,65.52,74.97,39.25,62.95,86.48,86.64,Field Operations,Operations Division,3.52
+E1382,3.32,3.98,3.52,3.97,3.55,71.81,56.61,25.06,76.83,45.33,72.25,Commercial,Commercial Division,2.9
+E1383,3.43,4.13,4.07,3.26,2.76,53.54,65.1,41.88,73.28,61.21,70.5,Design & Engineering,Commercial Division,3.14
+E1384,2.54,4.03,2.53,3.56,3.47,65.29,67.84,69.84,87.6,53.81,75.23,Quality Assurance,Executive & Support Division,3.55
+E1385,3.7,3.58,3.36,3.37,3.47,63.34,57.36,12.87,86.9,80.99,60.32,Commercial,Commercial Division,5.0
+E1386,3.26,3.11,3.9,3.17,3.03,71.57,55.34,28.72,46.87,72.8,89.86,Technical Services,Executive & Support Division,3.1
+E1387,3.29,3.79,3.54,3.94,3.1,72.61,60.78,27.33,85.2,73.61,87.17,Technical Services,Executive & Support Division,3.71
+E1388,3.48,3.66,3.62,2.91,4.39,68.91,78.85,36.94,74.22,48.54,80.58,Supply Chain,Operations Division,3.74
+E1389,4.04,3.51,3.62,3.37,3.63,50.51,57.27,57.97,57.32,69.68,45.08,Technical Services,Executive & Support Division,3.85
+E1390,4.02,4.97,3.14,3.16,3.3,76.44,85.2,48.35,100.0,63.43,77.57,Supply Chain,Operations Division,3.44
+E1391,3.17,3.64,3.76,3.27,3.27,79.96,100.0,6.8,87.8,82.11,67.56,Technical Services,Executive & Support Division,3.02
+E1392,3.65,3.78,3.42,3.95,3.81,55.71,66.65,67.91,72.08,88.15,87.87,Warehouse Operations,Operations Division,2.92
+E1393,3.44,4.25,3.57,3.78,2.77,62.33,79.12,59.3,72.86,67.39,86.78,Supply Chain,Operations Division,4.19
+E1394,3.35,3.65,3.13,3.94,3.83,84.29,78.54,77.83,100.0,75.75,62.2,Supply Chain,Operations Division,2.62
+E1395,3.1,3.58,3.73,4.36,3.5,70.46,70.11,64.33,100.0,55.21,79.58,Safety & Compliance,Executive & Support Division,3.82
+E1396,3.24,3.39,3.14,3.95,3.47,98.72,73.05,58.91,72.63,89.31,90.76,Finance,Finance Division,4.19
+E1397,3.5,4.4,3.45,3.75,3.9,75.63,83.92,83.35,87.73,58.68,74.43,People Operations,People & Culture Division,3.86
+E1398,3.42,3.55,3.67,4.39,2.82,68.43,63.83,73.61,62.96,84.55,80.56,Safety & Compliance,Executive & Support Division,3.69
+E1399,4.06,3.73,3.41,3.85,2.07,83.69,77.62,65.89,63.14,81.54,60.21,Equipment Services,Operations Division,3.51
+E1400,3.12,3.68,3.84,4.06,3.22,67.55,44.79,50.12,100.0,78.39,73.27,Quality Assurance,Executive & Support Division,3.54
+E1401,3.36,3.34,3.38,4.25,2.2,67.29,81.89,85.24,82.89,55.15,67.62,Supply Chain,Operations Division,3.4
+E1402,3.38,3.63,3.44,3.68,3.11,47.35,79.65,89.79,100.0,43.34,77.28,Field Operations,Operations Division,3.38
+E1403,3.69,3.77,2.82,3.61,3.24,80.24,71.22,45.03,100.0,81.58,91.26,Safety & Compliance,Executive & Support Division,3.95
+E1404,3.42,4.1,2.96,4.21,2.98,70.13,51.41,36.89,73.11,68.37,72.9,Commercial,Commercial Division,3.39
+E1405,3.52,4.02,3.41,3.17,3.36,76.61,58.99,1.93,83.58,60.48,49.17,Supply Chain,Operations Division,2.67
+E1406,3.13,4.88,3.29,2.94,2.99,83.7,51.13,87.68,56.61,78.66,54.7,Finance,Finance Division,3.6
+E1407,3.48,4.33,3.61,3.83,3.37,100.0,61.73,46.97,83.25,77.98,65.12,Field Operations,Operations Division,4.39
+E1408,3.27,4.43,3.6,3.76,3.61,93.19,50.79,48.92,76.77,64.9,79.43,Safety & Compliance,Executive & Support Division,3.6
+E1409,3.5,3.83,3.95,4.24,3.37,71.45,60.73,28.11,49.04,49.78,72.83,Safety & Compliance,Executive & Support Division,2.97
+E1410,3.94,3.76,3.64,3.29,3.49,66.05,61.46,74.26,78.07,63.11,73.01,Supply Chain,Operations Division,3.57
+E1411,3.6,4.78,3.73,3.62,2.75,75.76,81.15,55.51,72.85,67.94,88.9,People Operations,People & Culture Division,3.85
+E1412,3.17,3.9,3.64,3.82,3.92,56.84,76.59,41.56,49.68,57.28,72.07,Field Operations,Operations Division,3.05
+E1413,3.2,3.31,3.56,3.83,3.4,74.43,88.68,37.73,95.67,78.89,65.88,Commercial,Commercial Division,3.41
+E1414,3.34,3.43,3.17,3.34,3.03,77.35,77.54,47.86,85.74,56.67,63.55,Quality Assurance,Executive & Support Division,3.09
+E1415,3.5,4.04,3.33,4.65,3.09,75.4,80.93,31.41,70.58,86.16,69.7,Technical Services,Executive & Support Division,3.46
+E1416,3.55,3.61,3.26,3.22,3.15,83.71,75.65,48.0,71.18,93.9,82.82,Warehouse Operations,Operations Division,3.75
+E1417,3.08,3.82,2.77,3.85,2.5,77.42,91.45,48.0,84.12,63.09,50.47,Quality Assurance,Executive & Support Division,4.21
+E1418,3.73,3.9,3.08,3.52,3.49,93.28,74.28,65.13,71.24,67.46,69.12,Supply Chain,Operations Division,4.01
+E1419,3.38,3.79,3.7,3.49,3.7,100.0,50.33,63.41,75.92,85.11,74.85,Commercial,Commercial Division,3.01
+E1420,3.12,3.77,3.62,3.91,3.9,72.62,81.94,55.41,77.92,85.05,87.92,Equipment Services,Operations Division,2.85
+E1421,2.84,5.0,3.35,2.91,3.63,49.65,49.1,62.42,98.87,52.37,72.74,Design & Engineering,Commercial Division,3.67
+E1422,3.06,3.46,3.39,3.43,3.61,62.77,64.89,76.43,61.47,53.7,80.8,IT Services,Executive & Support Division,4.21
+E1423,2.8,4.38,3.12,4.37,2.81,63.15,68.95,70.39,67.48,70.96,96.68,Technical Services,Executive & Support Division,3.15
+E1424,3.68,4.03,3.61,2.93,3.35,57.89,87.06,83.59,77.16,32.9,84.97,Commercial,Commercial Division,3.83
+E1425,3.39,4.01,3.51,3.98,4.15,79.33,65.69,32.3,80.47,82.71,64.93,Commercial,Commercial Division,3.69
+E1426,3.47,3.7,3.55,3.3,3.18,61.45,52.53,45.34,78.13,72.25,88.36,IT Services,Executive & Support Division,2.98
+E1427,3.01,3.93,3.52,4.41,2.99,64.22,61.86,0.0,80.5,76.77,83.89,Commercial,Commercial Division,4.18
+E1428,2.56,4.09,3.64,3.88,3.05,76.91,52.82,70.65,73.42,100.0,72.67,Commercial,Commercial Division,3.09
+E1429,3.3,3.45,3.07,3.7,2.98,75.07,74.65,0.0,80.49,87.1,50.33,IT Services,Executive & Support Division,4.17
+E1430,3.25,3.74,3.16,3.25,4.65,71.98,59.65,24.3,93.15,57.84,96.53,Quality Assurance,Executive & Support Division,4.65
+E1431,3.23,4.15,3.57,3.65,3.9,74.84,74.0,72.95,58.57,69.52,71.38,Quality Assurance,Executive & Support Division,2.74
+E1432,3.33,4.53,3.94,3.83,3.05,60.85,84.5,68.98,72.82,63.65,77.16,People Operations,People & Culture Division,3.96
+E1433,3.29,4.47,2.94,4.27,3.0,83.74,64.29,45.89,85.48,68.42,75.22,Field Operations,Operations Division,3.37
+E1434,2.68,3.63,3.55,3.54,3.21,59.66,78.16,79.42,66.26,73.52,99.59,Quality Assurance,Executive & Support Division,3.03
+E1435,3.39,4.33,3.5,3.87,3.92,79.38,79.17,54.68,65.21,86.67,72.81,Supply Chain,Operations Division,3.08
+E1436,3.58,4.47,3.54,2.95,3.5,49.31,22.98,67.44,76.27,100.0,57.98,Commercial,Commercial Division,3.64
+E1437,3.28,4.06,3.71,3.88,3.37,70.94,51.88,46.92,84.0,80.88,81.31,Supply Chain,Operations Division,4.32
+E1438,2.68,3.81,3.38,4.18,3.18,86.8,61.65,70.36,86.84,67.09,68.0,Supply Chain,Operations Division,3.97
+E1439,3.31,4.92,3.22,3.74,3.1,86.46,47.29,47.3,93.68,43.66,96.62,IT Services,Executive & Support Division,5.0
+E1440,3.08,3.27,3.44,3.7,2.46,57.9,75.12,38.98,84.64,84.56,72.83,Safety & Compliance,Executive & Support Division,4.73
+E1441,3.45,3.85,3.82,3.38,3.41,72.45,45.04,37.49,63.35,59.21,67.27,Design & Engineering,Commercial Division,3.78
+E1442,4.0,4.28,3.39,3.87,3.13,81.88,53.66,43.74,69.93,68.26,82.76,Field Operations,Operations Division,3.52
+E1443,2.89,4.29,3.42,3.28,3.68,64.77,66.19,76.7,86.11,70.04,85.31,Supply Chain,Operations Division,3.17
+E1444,2.77,3.75,3.87,3.75,3.09,55.99,43.75,91.19,82.67,67.43,81.84,Commercial,Commercial Division,3.68
+E1445,3.57,4.19,3.37,4.0,2.73,55.46,64.88,50.27,68.15,80.59,87.06,Finance,Finance Division,3.6
+E1446,2.77,3.63,3.28,2.6,2.21,81.02,83.68,56.52,77.99,96.12,94.74,Supply Chain,Operations Division,3.51
+E1447,3.61,3.73,3.29,3.42,2.46,95.11,27.93,67.82,71.74,100.0,90.95,Commercial,Commercial Division,4.07
+E1448,3.34,4.07,3.79,3.28,3.31,95.23,74.82,42.27,59.23,95.54,72.34,Design & Engineering,Commercial Division,4.28
+E1449,3.15,3.51,3.26,3.36,2.24,76.89,43.94,61.88,59.95,78.83,69.43,Safety & Compliance,Executive & Support Division,2.97
+E1450,2.85,3.97,3.3,3.52,2.86,74.78,45.93,100.0,74.46,85.84,76.02,IT Services,Executive & Support Division,4.45
+E1451,3.22,3.57,2.76,4.08,3.55,56.0,66.59,58.63,71.81,83.45,87.68,Quality Assurance,Executive & Support Division,3.86
+E1452,3.23,4.52,3.88,3.93,2.75,56.16,73.99,26.62,94.12,53.02,74.3,Safety & Compliance,Executive & Support Division,3.63
+E1453,3.45,3.73,3.56,3.61,2.71,80.86,64.58,43.63,89.58,53.92,72.71,Field Operations,Operations Division,3.46
+E1454,3.78,3.6,3.9,4.03,3.01,72.45,79.06,72.11,89.66,52.99,71.13,Field Operations,Operations Division,4.0
+E1455,3.09,4.03,3.66,2.77,3.5,63.08,67.19,31.72,77.55,79.76,94.23,Quality Assurance,Executive & Support Division,2.05
+E1456,3.59,3.75,2.82,3.12,3.25,48.53,59.57,55.31,100.0,77.1,80.36,IT Services,Executive & Support Division,2.71
+E1457,3.61,3.15,2.89,3.76,2.99,100.0,69.14,30.83,70.64,64.1,68.13,Quality Assurance,Executive & Support Division,3.49
+E1458,3.18,4.05,3.47,4.0,3.58,68.55,62.37,89.42,83.53,61.65,87.82,Supply Chain,Operations Division,3.87
+E1459,3.16,3.51,3.82,3.69,3.54,65.77,69.69,42.27,39.66,65.66,75.89,Technical Services,Executive & Support Division,4.06
+E1460,3.54,3.85,4.06,2.81,3.16,80.64,75.75,47.27,92.19,64.7,70.49,Supply Chain,Operations Division,3.82
+E1461,2.69,4.89,3.24,2.78,3.83,71.89,98.48,67.4,87.66,100.0,86.37,Commercial,Commercial Division,3.04
+E1462,3.43,4.0,3.88,4.41,3.25,57.97,84.08,79.17,86.36,72.05,100.0,Technical Services,Executive & Support Division,3.47
+E1463,2.92,2.29,3.31,3.8,3.47,83.51,70.93,53.71,90.37,67.35,78.75,Supply Chain,Operations Division,4.08
+E1464,3.19,3.9,3.58,3.38,2.68,22.71,57.44,46.82,75.85,91.06,77.13,Warehouse Operations,Operations Division,3.09
+E1465,3.35,3.38,3.27,3.93,4.08,75.29,96.49,56.9,72.51,86.24,69.92,Technical Services,Executive & Support Division,4.03
+E1466,3.15,2.84,3.07,3.55,3.55,81.14,79.06,69.24,69.05,57.38,68.93,Commercial,Commercial Division,3.82
+E1467,3.2,4.11,3.57,4.46,3.25,94.46,61.09,72.59,71.68,63.34,77.57,Commercial,Commercial Division,3.54
+E1468,3.25,3.87,3.56,2.79,3.7,72.52,71.18,57.36,61.7,81.38,66.39,Finance,Finance Division,3.0
+E1469,3.72,4.18,3.0,2.93,3.03,50.27,45.88,30.9,59.6,86.89,93.98,Design & Engineering,Commercial Division,2.52
+E1470,2.69,4.17,3.55,3.73,3.31,63.64,79.85,55.23,83.87,57.89,78.02,People Operations,People & Culture Division,3.64
+E1471,3.83,3.91,4.08,3.28,3.57,83.84,63.54,66.4,90.93,75.65,84.8,Quality Assurance,Executive & Support Division,3.45
+E1472,3.6,4.77,4.03,3.62,3.75,77.01,80.6,50.23,83.48,95.35,65.24,Commercial,Commercial Division,3.72
+E1473,2.79,4.08,2.95,3.62,4.04,86.26,66.69,62.79,98.98,60.15,61.59,Quality Assurance,Executive & Support Division,3.64
+E1474,3.5,2.97,2.86,3.0,3.74,80.17,71.15,50.31,86.03,73.0,97.89,People Operations,People & Culture Division,3.3
+E1475,3.21,2.78,4.0,3.29,2.72,74.56,86.79,44.26,72.88,66.73,90.17,Safety & Compliance,Executive & Support Division,3.68
+E1476,3.05,3.98,3.27,2.79,2.55,80.69,59.85,28.35,79.25,49.57,60.52,Supply Chain,Operations Division,3.85
+E1477,3.36,3.53,3.29,3.35,2.56,81.62,75.24,45.51,54.88,68.01,81.83,Finance,Finance Division,4.07
+E1478,3.5,3.98,2.86,3.9,3.03,58.66,67.7,43.43,86.83,85.01,74.55,Safety & Compliance,Executive & Support Division,4.13
+E1479,3.46,3.53,4.14,3.86,2.72,83.4,99.14,41.85,77.23,78.59,85.11,Technical Services,Executive & Support Division,4.88
+E1480,2.86,3.38,3.53,3.71,3.83,61.88,69.39,59.16,85.66,67.14,63.05,Commercial,Commercial Division,3.49
+E1481,3.11,3.52,2.89,3.31,2.71,87.37,89.38,53.79,91.86,96.74,62.35,Field Operations,Operations Division,3.9
+E1482,3.14,4.46,3.87,4.17,4.09,40.0,50.6,37.68,93.43,91.35,85.18,Technical Services,Executive & Support Division,3.19
+E1483,3.47,4.09,3.37,4.05,2.9,60.51,64.64,45.47,72.97,83.02,94.04,Quality Assurance,Executive & Support Division,2.48
+E1484,3.57,3.62,3.02,3.63,3.35,81.59,63.93,35.87,56.23,59.47,91.31,Technical Services,Executive & Support Division,4.05
+E1485,3.27,4.15,3.44,3.76,2.48,78.84,65.29,65.11,69.77,80.77,84.23,Technical Services,Executive & Support Division,3.82
